@@ -16,4 +16,6 @@ function link88idr() {location.replace("https://methodsofsynthesis.com/");}
 function jump88idr() {window.open("https://methodsofsynthesis.com/");}
 function linkqqresmi() {location.replace("www.senisastra.com");}
 function jumpqqresmi() {window.open("www.senisastra.com");}
+function linkqqpusat() {location.replace("www.senisastra.com");}
+function jumpqqpusat() {window.open("www.senisastra.com");}
 
