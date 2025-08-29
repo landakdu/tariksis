@@ -6,9 +6,5 @@ function linkqq188() {location.replace("https://www.lebanonrenaissance.org/");}
 function jumpqq188() {window.open("https://www.lebanonrenaissance.org/");}
 function linkqq101() {location.replace("https://qq101.com/");}
 function jumpqq101() {window.open("https://qq101.com/");}
-
-
-
-
-
-
+function linkqqbonus() {location.replace("https://www.qqbonusmat.com/");}
+function jumpqqbonus() {window.open("https://www.qqbonusmat.com/");}
