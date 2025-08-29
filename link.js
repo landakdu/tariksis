@@ -14,3 +14,6 @@ function link1001win() {location.replace("https://type7volume2.com/");}
 function jump1001win() {window.open("https://type7volume2.com/");}
 function link88idr() {location.replace("https://methodsofsynthesis.com/");}
 function jump88idr() {window.open("https://methodsofsynthesis.com/");}
+function linkqqresmi() {location.replace("www.senisastra.com");}
+function jumpqqresmi() {window.open("www.senisastra.com");}
+
