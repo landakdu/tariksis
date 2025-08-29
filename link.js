@@ -8,3 +8,9 @@ function linkqq101() {location.replace("https://qq101.com/");}
 function jumpqq101() {window.open("https://qq101.com/");}
 function linkqqbonus() {location.replace("https://www.qqbonusmat.com/");}
 function jumpqqbonus() {window.open("https://www.qqbonusmat.com/");}
+function linkqqangpao() {location.replace("https://www.curtainupfilm.com/");}
+function jumpqqangpao() {window.open("https://www.curtainupfilm.com/");}
+function link1001win() {location.replace("https://type7volume2.com/");}
+function jump1001win() {window.open("https://type7volume2.com/");}
+function link88idr() {location.replace("https://methodsofsynthesis.com/");}
+function jump88idr() {window.open("https://methodsofsynthesis.com/");}
