@@ -14,8 +14,9 @@ function link1001win() {location.replace("https://type7volume2.com/");}
 function jump1001win() {window.open("https://type7volume2.com/");}
 function link88idr() {location.replace("https://methodsofsynthesis.com/");}
 function jump88idr() {window.open("https://methodsofsynthesis.com/");}
-function linkqqresmi() {location.replace("www.senisastra.com");}
-function jumpqqresmi() {window.open("www.senisastra.com");}
-function linkqqpusat() {location.replace("www.senisastra.com");}
-function jumpqqpusat() {window.open("www.senisastra.com");}
+function linkqqresmi() {location.replace("https://senisastra.com/");}
+function jumpqqresmi() {window.open("https://senisastra.com/");}
+function linkqqpusat() {location.replace("https://senisastra.com/);}
+function jumpqqpusat() {window.open("https://senisastra.com/");}
+
 
