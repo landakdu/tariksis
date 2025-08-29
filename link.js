@@ -18,5 +18,7 @@ function linkqqresmi() {location.replace("https://senisastra.com/");}
 function jumpqqresmi() {window.open("https://senisastra.com/");}
 function linkqqpusat() {location.replace("https://senisastra.com/);}
 function jumpqqpusat() {window.open("https://senisastra.com/");}
+function linkqqgacor() {location.replace("https://senisastra.com/);}
+function jumpqqgacor() {window.open("https://senisastra.com/");}
 
 
