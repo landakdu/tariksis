@@ -28,8 +28,8 @@ function linkqq808() {location.replace("https://qq808scg.com/");}
 function jumpqq808() {window.open("https://qq808scg.com/");}
 function linkqq882() {location.replace("https://qq882bfp.com/");}
 function jumpqq882() {window.open("https://qq882bfp.com/");}
-function linkqqberak() {location.replace("/");}
-function jumpqqberak() {window.open("/");}
+function linkqqberak() {location.replace("https://qqberak57y.com/");}
+function jumpqqberak() {window.open("https://qqberak57y.com/");}
 function linkqq88pro() {location.replace("/");}
 function jumpqq88pro() {window.open("/");}
 function linkqq303() {location.replace("/");}
@@ -70,6 +70,7 @@ function linktokekwin() {location.replace("/");}
 function jumptokekwin() {window.open("/");}
 function linkpphoki() {location.replace("/");}
 function jumppphoki() {window.open("/");}
+
 
 
 
