@@ -1,5 +1,5 @@
-function link() {location.replace("/");}
-function jump() {window.open("/");}
+function linknama() {location.replace("/");}
+function jumpnama() {window.open("/");}
 function linkqq288() {location.replace("https://innovamedgroup.us/");}
 function jumpqq288() {window.open("https://innovamedgroup.us/");}
 function linkqq188() {location.replace("https://www.lebanonrenaissance.org/");}
@@ -20,3 +20,5 @@ function linkqqpusat() {location.replace("https://senisastra.com/");}
 function jumpqqpusat() {window.open("https://senisastra.com/");}
 function linkqqgacor() {location.replace("https://senisastra.com/");}
 function jumpqqgacor() {window.open("https://senisastra.com/");}
+function linkqq828() {location.replace("https://qq828kr1.com/");}
+function jumpqq828() {window.open("https://qq828kr1.com/");}
