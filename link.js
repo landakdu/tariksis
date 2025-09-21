@@ -34,8 +34,8 @@ function linkqq88pro() {location.replace("https://qq88pro89r.com/");}
 function jumpqq88pro() {window.open("https://qq88pro89r.com/");}
 function linkqq303() {location.replace("https://qq303kw9.com/");}
 function jumpqq303() {window.open("https://qq303kw9.com/");}
-function linkqqfortuna() {location.replace("/");}
-function jumpqqfortuna() {window.open("/");}
+function linkqqfortuna() {location.replace("https://qqfortuna8zp.com/");}
+function jumpqqfortuna() {window.open("https://qqfortuna8zp.com/");}
 function linkqqbetwin() {location.replace("/");}
 function jumpqqbetwin() {window.open("/");}
 function linkqqfunbet() {location.replace("/");}
@@ -70,6 +70,7 @@ function linktokekwin() {location.replace("/");}
 function jumptokekwin() {window.open("/");}
 function linkpphoki() {location.replace("/");}
 function jumppphoki() {window.open("/");}
+
 
 
 
