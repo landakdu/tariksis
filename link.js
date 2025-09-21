@@ -22,8 +22,8 @@ function linkqqgacor() {location.replace("https://senisastra.com/");}
 function jumpqqgacor() {window.open("https://senisastra.com/");}
 function linkqq828() {location.replace("https://qq828kr1.com/");}
 function jumpqq828() {window.open("https://qq828kr1.com/");}
-function linkqq801() {location.replace("/");}
-function jumpqq801() {window.open("/");}
+function linkqq801() {location.replace("https://qq801b3o.com/");}
+function jumpqq801() {window.open("https://qq801b3o.com/");}
 function linkqq808() {location.replace("/");}
 function jumpqq808() {window.open("/");}
 function linkqq882() {location.replace("/");}
@@ -70,3 +70,4 @@ function linktokekwin() {location.replace("/");}
 function jumptokekwin() {window.open("/");}
 function linkpphoki() {location.replace("/");}
 function jumppphoki() {window.open("/");}
+
