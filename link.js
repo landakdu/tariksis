@@ -43,33 +43,20 @@ function jumpqqfunbet() {window.open("https://qqfunbet86v.com/");}
 function linkqqvegas() {location.replace("https://qqvegas1ak.com/");}
 function jumpqqvegas() {window.open("https://qqvegas1ak.com/");}
 function linkqqkingbet() {location.replace("https://qqkingbet95b.com/");}
-function jumpqqkingbet() {window.open("https://qqkingbet95b.com/");}
-function linkqqextra() {location.replace("/");}
-function jumpqqextra() {window.open("/");}
+function linkqqextra() {location.replace("https://qqextrausb.com/");}
 function linkqqslebew() {location.replace("/");}
-function jumpqqslebew() {window.open("/");}
 function linkqqterang() {location.replace("/");}
-function jumpqqterang() {window.open("/");}
 function linkqqhobi() {location.replace("/");}
-function jumpqqhobi() {window.open("/");}
 function linkqq7887() {location.replace("/");}
-function jumpqq7887() {window.open("/");}
 function linkqqfunwin() {location.replace("/");}
-function jumpqqfunwin() {window.open("/");}
 function linkqqmegah() {location.replace("/");}
-function jumpqqmegah() {window.open("/");}
 function linkbebek368() {location.replace("/");}
-function jumpbebek368() {window.open("/");}
 function linkqqfun77() {location.replace("/");}
-function jumpqqfun77() {window.open("/");}
 function linkqq999bet() {location.replace("/");}
-function jumpqq999bet() {window.open("/");}
 function linkqq7997() {location.replace("/");}
-function jumpqq7997() {window.open("/");}
 function linktokekwin() {location.replace("/");}
-function jumptokekwin() {window.open("/");}
 function linkpphoki() {location.replace("/");}
-function jumppphoki() {window.open("/");}
+
 
 
 
