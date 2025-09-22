@@ -45,7 +45,7 @@ function jumpqqvegas() {window.open("https://qqvegas1ak.com/");}
 function linkqqkingbet() {location.replace("https://qqkingbet95b.com/");}
 function linkqqextra() {location.replace("https://qqextrausb.com/");}
 function linkqqslebew() {location.replace("https://qqslebewc76.com/");}
-function linkqqterang() {location.replace("/");}
+function linkqqterang() {location.replace("https://www.qqbiru147.com/");}
 function linkqqhobi() {location.replace("/");}
 function linkqq7887() {location.replace("/");}
 function linkqqfunwin() {location.replace("/");}
@@ -56,6 +56,7 @@ function linkqq999bet() {location.replace("/");}
 function linkqq7997() {location.replace("/");}
 function linktokekwin() {location.replace("/");}
 function linkpphoki() {location.replace("/");}
+
 
 
 
