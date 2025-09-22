@@ -49,13 +49,14 @@ function linkqqterang() {location.replace("https://www.qqbiru147.com/");}
 function linkqqhobi() {location.replace("https://qqhobi41t.com/");}
 function linkqq7887() {location.replace("https://qq7887bcp.com/");}
 function linkqqfunwin() {location.replace("https://qqfunwin8vk.com/");}
-function linkqqmegah() {location.replace("/");}
+function linkqqmegah() {location.replace("https://qqmegah87w.com/");}
 function linkbebek368() {location.replace("/");}
 function linkqqfun77() {location.replace("/");}
 function linkqq999bet() {location.replace("/");}
 function linkqq7997() {location.replace("/");}
 function linktokekwin() {location.replace("/");}
 function linkpphoki() {location.replace("/");}
+
 
 
 
