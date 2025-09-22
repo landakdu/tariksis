@@ -40,8 +40,8 @@ function linkqqbetwin() {location.replace("https://qqbetwin8t3.com/");}
 function jumpqqbetwin() {window.open("https://qqbetwin8t3.com/");}
 function linkqqfunbet() {location.replace("https://qqfunbet86v.com/");}
 function jumpqqfunbet() {window.open("https://qqfunbet86v.com/");}
-function linkqqvegas() {location.replace("/");}
-function jumpqqvegas() {window.open("/");}
+function linkqqvegas() {location.replace("https://qqvegas1ak.com/");}
+function jumpqqvegas() {window.open("https://qqvegas1ak.com/");}
 function linkqqkingbet() {location.replace("/");}
 function jumpqqkingbet() {window.open("/");}
 function linkqqextra() {location.replace("/");}
@@ -70,6 +70,7 @@ function linktokekwin() {location.replace("/");}
 function jumptokekwin() {window.open("/");}
 function linkpphoki() {location.replace("/");}
 function jumppphoki() {window.open("/");}
+
 
 
 
