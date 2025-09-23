@@ -6,6 +6,8 @@ function linkhoki177() {location.replace("https://serverhoki177.com/register?ref
 function linknewliga365() {location.replace("https://newliga365ok.xyz/?action=register&rc=N8SY7QO738&ci=11");}
 function linklotto01() {location.replace("https://idtopwin.com/referral/BUNSIN");}
 function linkkijangwin() {location.replace("http://spiritkijangwin-1reff.shop/daftar?ref=rakuyaba");}
+function linkkas138() {location.replace("https://vip.kas138e.site/?ref=rakuyaba");}
+
 
 
 
