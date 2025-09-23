@@ -53,9 +53,10 @@ function linkqqmegah() {location.replace("https://qqmegah87w.com/");}
 function linkbebek368() {location.replace("https://bebek368c.com/");}
 function linkqqfun77() {location.replace("https://qqfun77pg1.com/");}
 function linkqq999bet() {location.replace("https://qq999bet5hp.com/");}
-function linkqq7997() {location.replace("/");}
+function linkqq7997() {location.replace("https://qq7997tg3.com/");}
 function linktokekwin() {location.replace("/");}
 function linkpphoki() {location.replace("/");}
+
 
 
 
