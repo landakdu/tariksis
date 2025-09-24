@@ -11,6 +11,8 @@ function linkaquaslot() {location.replace("https://aquaslot7.xyz/?ref=bunsin");}
 function linkcoblos4d() {location.replace("https://usdc.coblosmau.xyz/?ref=rakuyaba");}
 function linkkadobet() {location.replace("https://3win.kadobetb.space/?ref=rakuyaba");}
 function linkratu89() {location.replace("https://ratui5.cfd/register?ref=aOog12X");}
+function linkmpo222() {location.replace("https://mpo222highwin.xyz/register/WNR6893G");}
+
 
 
 
