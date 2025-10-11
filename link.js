@@ -1,7 +1,7 @@
 function linknama() {location.replace("/");}
 function jumpnama() {window.open("/");}
-function linkqq288() {location.replace("https://innovamedgroup.us/");}
-function jumpqq288() {window.open("https://innovamedgroup.us/");}
+function linkqq288() {location.replace("https://qq288qsc.com/");}
+function jumpqq288() {window.open("https://qq288qsc.com/");}
 function linkqq188() {location.replace("https://www.lebanonrenaissance.org/");}
 function jumpqq188() {window.open("https://www.lebanonrenaissance.org/");}
 function linkqq101() {location.replace("https://qq101.com/");}
@@ -58,6 +58,7 @@ function linkqqpusat() {location.replace("https://senisastra.com/");}
 function linkqqcasino() {location.replace("https://senisastra.com/");}
 function linkdewa86() {location.replace("https://senisastra.com/");}
 function linkqqslot() {location.replace("https://senisastra.com/");}
+
 
 
 
