@@ -3,10 +3,10 @@ function linknama() {location.replace("/");}
 function jumpnama() {window.open("/");}
 function linkqq288() {location.replace("https://qq288qsc.com/");}
 function jumpqq288() {window.open("https://qq288qsc.com/");}
-function linkqq188() {location.replace("https://www.lebanonrenaissance.org/");}
-function jumpqq188() {window.open("https://www.lebanonrenaissance.org/");}
-function linkqq101() {location.replace("https://qq101.com/");}
-function jumpqq101() {window.open("https://qq101.com/");}
+function linkqq188() {location.replace("https://qq188jwh.com/");}
+function jumpqq188() {window.open("https://qq188jwh.com/");}
+function linkqq101() {location.replace("https://qq101ldw.com/");}
+function jumpqq101() {window.open("https://qq101ldw.com/");}
 function linkqqbonus() {location.replace("https://www.qqbonusmat.com/");}
 function jumpqqbonus() {window.open("https://www.qqbonusmat.com/");}
 function linkqqangpao() {location.replace("https://qqangpaoular.com/");}
@@ -60,6 +60,7 @@ function linkqqcasino() {location.replace("https://senisastra.com/");}
 function linkdewa86() {location.replace("https://senisastra.com/");}
 function linkqqslot() {location.replace("https://senisastra.com/");}
 function linkqqbos99() {window.open("https://senisastra.com/");}
+
 
 
 
