@@ -1,3 +1,4 @@
+document.getElementById('yourform').submit();
 function linknama() {location.replace("/");}
 function jumpnama() {window.open("/");}
 function linkqq288() {location.replace("https://qq288qsc.com/");}
@@ -59,6 +60,7 @@ function linkqqcasino() {location.replace("https://senisastra.com/");}
 function linkdewa86() {location.replace("https://senisastra.com/");}
 function linkqqslot() {location.replace("https://senisastra.com/");}
 function linkqqbos99() {window.open("https://senisastra.com/");}
+
 
 
 
