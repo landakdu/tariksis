@@ -14,6 +14,8 @@ function linkkadobet() {location.replace("https://win1.kadobetb.xyz/?ref=rakuyab
 function linkratu89() {location.replace("https://ratui5.cfd/register?ref=aOog12X");}
 function linkmpo222() {location.replace("https://wong.mpo222leo.com/register/WNR6893G");}
 function linkqqbos99() {location.replace("https://senisastra.com/?ref=komisi77");}
+function link303hoki() {location.replace("https://shipstailor.com/register/Y66KPQ1K");}
+function linkjet88bet() {location.replace("https://jet88antri.site/?ref=rakuyaba");}
 
 
 
