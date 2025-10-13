@@ -10,10 +10,11 @@ function linkkijangwin() {location.replace("http://spiritkijangwin-1reff.shop/da
 function linkkas138() {location.replace("https://vip.kasmaju.com/?ref=rakuyaba");}
 function linkaquaslot() {location.replace("https://aquaslotnet.com/?ref=bunsin");}
 function linkcoblos4d() {location.replace("https://usdc.coblosmau.xyz/?ref=rakuyaba");}
-function linkkadobet() {location.replace("https://3win.kadobetb.space/?ref=rakuyaba");}
+function linkkadobet() {location.replace("https://win1.kadobetb.xyz/?ref=rakuyaba");}
 function linkratu89() {location.replace("https://ratui5.cfd/register?ref=aOog12X");}
 function linkmpo222() {location.replace("https://wong.mpo222leo.com/register/WNR6893G");}
 function linkqqbos99() {location.replace("https://senisastra.com/?ref=komisi77");}
+
 
 
 
