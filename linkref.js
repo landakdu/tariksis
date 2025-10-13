@@ -13,7 +13,8 @@ function linkcoblos4d() {location.replace("https://usdc.coblosmau.xyz/?ref=rakuy
 function linkkadobet() {location.replace("https://3win.kadobetb.space/?ref=rakuyaba");}
 function linkratu89() {location.replace("https://ratui5.cfd/register?ref=aOog12X");}
 function linkmpo222() {location.replace("https://wong.mpo222leo.com/register/WNR6893G");}
-function linkqqbos99() {location.replace("https://senisastra.com/?ref=rakuyaba");}
+function linkqqbos99() {location.replace("https://senisastra.com/?ref=komisi77");}
+
 
 
 
