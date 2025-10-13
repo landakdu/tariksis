@@ -1,7 +1,7 @@
 document.getElementById('yourform').submit();
 function linknama() {location.replace("/");}
 function linktokekwin() {location.replace("http://panenmahkota.lol/daftar?ref=rakuyaba");}
-function linkpphoki() {location.replace("https://pphoki8899.xyz/?ref=rakuyaba");}
+function linkpphoki() {location.replace("https://halohoki177.com/register?ref=rakuyaba");}
 function linkaw8() {location.replace("https://www.aw8jos.com/id-id/register?refid=vpwavmyw");}
 function linkhoki177() {location.replace("https://serverhoki177.com/register?ref=rakuyaba");}
 function linknewliga365() {location.replace("https://newliga365ok.xyz/?action=register&rc=N8SY7QO738&ci=11");}
@@ -13,6 +13,7 @@ function linkcoblos4d() {location.replace("https://usdc.coblosmau.xyz/?ref=rakuy
 function linkkadobet() {location.replace("https://3win.kadobetb.space/?ref=rakuyaba");}
 function linkratu89() {location.replace("https://ratui5.cfd/register?ref=aOog12X");}
 function linkmpo222() {location.replace("https://mpo222highwin.xyz/register/WNR6893G");}
+
 
 
 
