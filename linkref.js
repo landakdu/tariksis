@@ -7,12 +7,13 @@ function linkhoki177() {location.replace("https://halohoki177.com/register?ref=r
 function linknewliga365() {location.replace("https://newliga365ok.xyz/?action=register&rc=N8SY7QO738&ci=11");}
 function linklotto01() {location.replace("https://masterlotto01.org/referral/BUNSIN");}
 function linkkijangwin() {location.replace("http://spiritkijangwin-1reff.shop/daftar?ref=rakuyaba");}
-function linkkas138() {location.replace("https://vip.kas138e.site/?ref=rakuyaba");}
+function linkkas138() {location.replace("https://vip.kasmaju.com/?ref=rakuyaba");}
 function linkaquaslot() {location.replace("https://aquaslot7.xyz/?ref=bunsin");}
 function linkcoblos4d() {location.replace("https://usdc.coblosmau.xyz/?ref=rakuyaba");}
 function linkkadobet() {location.replace("https://3win.kadobetb.space/?ref=rakuyaba");}
 function linkratu89() {location.replace("https://ratui5.cfd/register?ref=aOog12X");}
 function linkmpo222() {location.replace("https://mpo222highwin.xyz/register/WNR6893G");}
+
 
 
 
