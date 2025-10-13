@@ -18,6 +18,7 @@ function link303hoki() {location.replace("https://shipstailor.com/register/Y66KP
 function linkjet88bet() {location.replace("https://jet88antri.site/?ref=rakuyaba");}
 function linkmpo369() {location.replace("https://mpo369bj.com/register/W7N46140");}
 function link8bettingan() {location.replace("https://link1.bettingan.vip/register?ref=A3MZLAD00O4");}
+function linkmpo08() {location.replace("https://mpo08rch.xyz/register/WM418MNP");}
 
 
 
