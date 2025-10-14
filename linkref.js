@@ -21,6 +21,8 @@ function linkmpo08() {location.replace("https://mpo08rch.xyz/register/WM418MNP")
 function linkkas138() {location.replace("https://tanpavpn.com/situs/linkresmi/");}
 function linkhokiwin() {location.replace("https://tanpavpn.com/situs/linkresmi/");}
 function linkmpocasino() {location.replace("https://tanpavpn.com/situs/linkresmi/");}
+function linkn77toto() {location.replace("https://tanpavpn.com/situs/linkresmi/");}
+
 
 
 
