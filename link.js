@@ -60,6 +60,7 @@ function linkqqcasino() {location.replace("https://senisastra.com/");}
 function linkdewa86() {location.replace("https://senisastra.com/");}
 function linkqqslot() {location.replace("https://senisastra.com/");}
 function linkqqbos99() {window.open("https://senisastra.com/");}
+function linkqq8889() {location.replace("https://qq8889vgv.com/");}
 
 
 
