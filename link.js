@@ -13,8 +13,8 @@ function linkqqangpao() {location.replace("https://qqangpaoular.com/");}
 function jumpqqangpao() {window.open("https://qqangpaoular.com/");}
 function link1001win() {location.replace("https://type7volume2.com/");}
 function jump1001win() {window.open("https://type7volume2.com/");}
-function link88idr() {location.replace("https://methodsofsynthesis.com/");}
-function jump88idr() {window.open("https://methodsofsynthesis.com/");}
+function link88idr() {location.replace("https://88idrbahu.com/");}
+function jump88idr() {window.open("https://88idrbahu.com/");}
 function linkqqresmi() {location.replace("https://senisastra.com/");}
 function jumpqqresmi() {window.open("https://senisastra.com/");}
 function linkqqpusat() {location.replace("https://senisastra.com/");}
@@ -60,6 +60,7 @@ function linkqqcasino() {location.replace("https://senisastra.com/");}
 function linkdewa86() {location.replace("https://senisastra.com/");}
 function linkqqslot() {location.replace("https://senisastra.com/");}
 function linkqqbos99() {window.open("https://senisastra.com/");}
+
 
 
 
