@@ -33,8 +33,8 @@ function linkqqberak() {location.replace("https://qqberak57y.com/");}
 function jumpqqberak() {window.open("https://qqberak57y.com/");}
 function linkqq88pro() {location.replace("https://qq88pro89r.com/");}
 function jumpqq88pro() {window.open("https://qq88pro89r.com/");}
-function linkqq303() {location.replace("https://qq303kw9.com/");}
-function jumpqq303() {window.open("https://qq303kw9.com/");}
+function linkqq303() {location.replace("https://qq303kw9.com/Member/StreamlinedRegister?R=5FC84B59");}
+function jumpqq303() {window.open("https://qq303kw9.com/Member/StreamlinedRegister?R=5FC84B59");}
 function linkqqfortuna() {location.replace("https://qqfortuna8zp.com/");}
 function jumpqqfortuna() {window.open("https://qqfortuna8zp.com/");}
 function linkqqbetwin() {location.replace("https://qqbetwin8t3.com/");}
@@ -62,6 +62,7 @@ function linkqqslot() {location.replace("https://senisastra.com/");}
 function linkqqbos99() {window.open("https://senisastra.com/");}
 function linkqq8889() {location.replace("https://qq8889vgv.com/");}
 function linkqq1x2() {location.replace("https://qq1x2fs9.com/");}
+
 
 
 
