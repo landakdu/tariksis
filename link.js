@@ -9,8 +9,8 @@ function linkqq101() {location.replace("https://qq101ldw.com/");}
 function jumpqq101() {window.open("https://qq101ldw.com/");}
 function linkqqbonus() {location.replace("https://www.qqbonusmat.com/");}
 function jumpqqbonus() {window.open("https://www.qqbonusmat.com/");}
-function linkqqangpao() {location.replace("https://qqangpaoular.com/");}
-function jumpqqangpao() {window.open("https://qqangpaoular.com/");}
+function linkqqangpao() {location.replace("https://qqangpaoular.com/Member/StreamlinedRegister?R=38B9DA8D");}
+function jumpqqangpao() {window.open("https://qqangpaoular.com/Member/StreamlinedRegister?R=38B9DA8D");}
 function link1001win() {location.replace("https://1001winview.com/");}
 function jump1001win() {window.open("https://1001winview.com/");}
 function link88idr() {location.replace("https://88idrbahu.com/");}
@@ -62,6 +62,7 @@ function linkqqslot() {location.replace("https://senisastra.com/");}
 function linkqqbos99() {window.open("https://senisastra.com/");}
 function linkqq8889() {location.replace("https://qq8889vgv.com/");}
 function linkqq1x2() {location.replace("https://qq1x2fs9.com/");}
+
 
 
 
