@@ -15,12 +15,12 @@ function link1001win() {location.replace("https://1001winview.com/");}
 function jump1001win() {window.open("https://1001winview.com/");}
 function link88idr() {location.replace("https://88idrbahu.com/");}
 function jump88idr() {window.open("https://88idrbahu.com/");}
-function linkqqresmi() {location.replace("https://senisastra.com/");}
-function jumpqqresmi() {window.open("https://senisastra.com/");}
-function linkqqpusat() {location.replace("https://senisastra.com/");}
-function jumpqqpusat() {window.open("https://senisastra.com/");}
-function linkqqgacor() {location.replace("https://senisastra.com/");}
-function jumpqqgacor() {window.open("https://senisastra.com/");}
+function linkqqresmi() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=75DE5E34");}
+function jumpqqresmi() {window.open("https://www.senisastra.com/Member/StreamlinedRegister?R=75DE5E34");}
+function linkqqpusat() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=75DE5E34");}
+function jumpqqpusat() {window.open("https://www.senisastra.com/Member/StreamlinedRegister?R=75DE5E34");}
+function linkqqgacor() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=75DE5E34");}
+function jumpqqgacor() {window.open("https://www.senisastra.com/Member/StreamlinedRegister?R=75DE5E34");}
 function linkqq828() {location.replace("https://qq828kr1.com/");}
 function jumpqq828() {window.open("https://qq828kr1.com/");}
 function linkqq801() {location.replace("https://qq801b3o.com/");}
@@ -55,14 +55,13 @@ function linkbebek368() {location.replace("https://bebek368c.com/");}
 function linkqqfun77() {location.replace("https://qqfun77pg1.com/");}
 function linkqq999bet() {location.replace("https://qq999bet5hp.com/");}
 function linkqq7997() {location.replace("https://qq7997tg3.com/");}
-function linkqqpusat() {location.replace("https://senisastra.com/");}
-function linkqqcasino() {location.replace("https://senisastra.com/");}
-function linkdewa86() {location.replace("https://senisastra.com/");}
-function linkqqslot() {location.replace("https://senisastra.com/");}
-function linkqqbos99() {window.open("https://senisastra.com/");}
+function linkqqpusat() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=75DE5E34");}
+function linkqqcasino() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=75DE5E34");}
+function linkdewa86() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=75DE5E34");}
+function linkqqslot() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=75DE5E34");}
+function linkqqbos99() {window.open("https://www.senisastra.com/Member/StreamlinedRegister?R=75DE5E34");}
 function linkqq8889() {location.replace("https://qq8889vgv.com/");}
 function linkqq1x2() {location.replace("https://qq1x2fs9.com/");}
-
 
 
 
