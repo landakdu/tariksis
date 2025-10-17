@@ -17,11 +17,12 @@ function link303hoki() {location.replace("https://shipstailor.com/register/B48RP
 function linkjet88bet() {location.replace("https://jet88antri.site/?ref=babisexy");}
 function linkmpo369() {location.replace("https://mpo369bj.com/register/JQPK80KM");}
 function link8bettingan() {location.replace("https://link1.bettingan.vip/register?ref=A3MZLAD00O4");}
-function linkmpo08() {location.replace("https://mpo08rch.xyz/register/WM418MNP");}
+function linkmpo08() {location.replace("https://mpo08rch.xyz/register/Q2RDGN20");}
 function linkkas138() {location.replace("https://tanpavpn.com/situs/linkresmi/");}
 function linkhokiwin() {location.replace("https://tanpavpn.com/situs/linkresmi/");}
 function linkmpocasino() {location.replace("https://tanpavpn.com/situs/linkresmi/");}
 function linkn77toto() {location.replace("https://tanpavpn.com/situs/linkresmi/");}
+
 
 
 
