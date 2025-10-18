@@ -163,3 +163,4 @@ function linkjudi388() {location.replace("https://tanpavpn.com/situs/linkresmi/"
 function link8togel() {location.replace("https://tanpavpn.com/situs/linkresmi/");}
 function linkdewakoin() {location.replace("https://tanpavpn.com/situs/linkresmi/");}
 function linkole777() {location.replace("https://tanpavpn.com/situs/linkresmi/");}
+
