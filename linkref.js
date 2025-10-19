@@ -33,7 +33,7 @@ function linkome88() {window.open("https://tanpavpn.com/situs/linkresmi/");}
 function linkmusangwin() {window.open("https://tanpavpn.com/situs/linkresmi/");}
 function linkdemen303() {window.open("https://tanpavpn.com/situs/linkresmi/");}
 function linknagatop() {window.open("https://tanpavpn.com/situs/linkresmi/");}
-function linkjnt77() {window.open("https://tanpavpn.com/situs/linkresmi/");}
+function linkjnt777() {window.open("https://tanpavpn.com/situs/linkresmi/");}
 function linkfijislot() {window.open("https://tanpavpn.com/situs/linkresmi/");}
 function linkraja168() {window.open("https://tanpavpn.com/situs/linkresmi/");}
 function linkmegabandar() {window.open("https://tanpavpn.com/situs/linkresmi/");}
@@ -163,6 +163,7 @@ function linkjudi388() {window.open("https://tanpavpn.com/situs/linkresmi/");}
 function link8togel() {window.open("https://tanpavpn.com/situs/linkresmi/");}
 function linkdewakoin() {window.open("https://tanpavpn.com/situs/linkresmi/");}
 function linkole777() {window.open("https://tanpavpn.com/situs/linkresmi/");}
+
 
 
 
