@@ -63,3 +63,4 @@ function linkqqbos99() {window.open("https://www.senisastra.com/Member/Streamlin
 function linkqq8889() {location.replace("https://qq8889vgv.com/");}
 function linkqq1x2() {location.replace("https://qq1x2fs9.com/");}
 
+
