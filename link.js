@@ -59,9 +59,11 @@ function linkqqpusat() {location.replace("https://www.senisastra.com/Member/Stre
 function linkqqcasino() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
 function linkdewa86() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
 function linkqqslot() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
-function linkqqbos99() {window.open("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
+function linkqqbos99() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
+function jumpqqbos99() {window.open("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
 function linkqq8889() {location.replace("https://qq8889vgv.com/");}
 function linkqq1x2() {location.replace("https://qq1x2fs9.com/");}
+
 
 
 
