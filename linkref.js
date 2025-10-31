@@ -17,7 +17,7 @@ function link303hoki() {location.replace("https://shipstailor.com/register/B48RP
 function linkjet88bet() {location.replace("https://jet88antri.site/?ref=babisexy");}
 function linkmpo369() {location.replace("https://mpo369bj.com/register/JQPK80KM");}
 function link8bettingan() {location.replace("https://link1.bettingan.vip/");}
-function linkmpo08() {location.replace("https://mpo08rch.xyz/register/Q2RDGN20");}
+function linkmpo08() {location.replace("https://mpo08dom.xyz/register/Q2RDGN20");}
 function linkdewatogel() {window.open("https://tanpavpn.com/situs/linkresmi/");}
 function linkkas138() {window.open("https://tanpavpn.com/situs/linkresmi/");}
 function linkhokiwin() {window.open("https://tanpavpn.com/situs/linkresmi/");}
@@ -165,6 +165,7 @@ function linkjudi388() {window.open("https://tanpavpn.com/situs/linkresmi/");}
 function link8togel() {window.open("https://tanpavpn.com/situs/linkresmi/");}
 function linkdewakoin() {window.open("https://tanpavpn.com/situs/linkresmi/");}
 function linkole777() {window.open("https://tanpavpn.com/situs/linkresmi/");}
+
 
 
 
