@@ -175,3 +175,7 @@ function linkpusatbet() {window.open("https://tanpavpn.com/situs/linkresmi/");}
 function linkmumitoto() {window.open("https://tanpavpn.com/situs/linkresmi/");}
 function linksatubandar() {window.open("https://tanpavpn.com/situs/linkresmi/");}
 function link9win() {window.open("https://tanpavpn.com/situs/linkresmi/");}
+function linkdewacasino() {window.open("https://tanpavpn.com/situs/linkresmi/");}
+function linktongtoto() {window.open("https://tanpavpn.com/situs/linkresmi/");}
+function linkmaxbet() {window.open("https://tanpavpn.com/situs/linkresmi/");}
+
