@@ -165,14 +165,13 @@ function linkjudi388() {window.open("https://tanpavpn.com/situs/linkresmi/");}
 function link8togel() {window.open("https://tanpavpn.com/situs/linkresmi/");}
 function linkdewakoin() {window.open("https://tanpavpn.com/situs/linkresmi/");}
 function linkole777() {window.open("https://tanpavpn.com/situs/linkresmi/");}
-
-
-
-
-
-
-
-
-
-
-
+function 8togel() {window.open("https://tanpavpn.com/situs/linkresmi/");}
+function dewakoin() {window.open("https://tanpavpn.com/situs/linkresmi/");}
+function kas138() {window.open("https://tanpavpn.com/situs/linkresmi/");}
+function ole777() {window.open("https://tanpavpn.com/situs/linkresmi/");}
+function yamaha88bet() {window.open("https://tanpavpn.com/situs/linkresmi/");}
+function muslimbet() {window.open("https://tanpavpn.com/situs/linkresmi/");}
+function pusatbet() {window.open("https://tanpavpn.com/situs/linkresmi/");}
+function mumitoto() {window.open("https://tanpavpn.com/situs/linkresmi/");}
+function satubandar() {window.open("https://tanpavpn.com/situs/linkresmi/");}
+function 9win() {window.open("https://tanpavpn.com/situs/linkresmi/");}
