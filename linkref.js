@@ -178,3 +178,4 @@ function link9win() {window.open("https://tanpavpn.com/situs/linkresmi/");}
 function linkdewacasino() {window.open("https://tanpavpn.com/situs/linkresmi/");}
 function linktongtoto() {window.open("https://tanpavpn.com/situs/linkresmi/");}
 function linkmaxbet() {window.open("https://tanpavpn.com/situs/linkresmi/");}
+function linkratu89() {window.open("https://tanpavpn.com/situs/linkresmi/");}
