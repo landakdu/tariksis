@@ -10,10 +10,11 @@ function linkkijangwin() {location.replace("http://spiritkijangwin-1reff.shop/da
 function linkaquaslot() {location.replace("https://aquaslotasli.com/?ref=babisexy");}
 function linkcoblos4d() {location.replace("https://usdc.coblosmau.xyz/?ref=babisexy");}
 function linkkadobet() {location.replace("https://rodakadobet.com/?ref=babisexy");}
-function linkmpo222() {location.replace("https://wong.mpo222leo.com/register/JK86G0Y4");}
+function linkmpo222() {location.replace("https://mpo222november.com/register/JK86G0Y4");}
 function linkqqbos99() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
 function link303hoki() {location.replace("https://shipstailor.com/register/B48RPJDN");}
 function linkjet88bet() {location.replace("https://jet88antri.site/?ref=babisexy");}
 function linkmpo369() {location.replace("https://mpo369bj.com/register/JQPK80KM");}
 function link8bettingan() {location.replace("https://link1.bettingan.vip/");}
+
 function linkmpo08() {location.replace("https://mpo08dom.xyz/register/Q2RDGN20");}
