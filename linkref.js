@@ -1,6 +1,12 @@
 
 document.getElementById('yourform').submit();
 function linknama() {location.replace("/");}
+function linkolxtoto() {window.open("https://tanpavpn.com/situs/linkresmi/");}
+function linkslotqris10k() {window.open("https://tanpavpn.com/situs/linkresmi/");}
+function linkslotqris10ribu() {window.open("https://tanpavpn.com/situs/linkresmi/");}
+function linkslotqrisgacor() {window.open("https://tanpavpn.com/situs/linkresmi/");}
+function linkslotqrismantap() {window.open("https://tanpavpn.com/situs/linkresmi/");}
+function linkslotqristanpapotongan() {window.open("https://tanpavpn.com/situs/linkresmi/");}
 function linktokekwin() {window.open("https://tanpavpn.com/situs/linkresmi/");}
 function linkpphoki() {window.open("https://tanpavpn.com/situs/linkresmi/");}
 function linkaw8() {window.open("https://tanpavpn.com/situs/linkresmi/");}
@@ -179,3 +185,4 @@ function linkdewacasino() {window.open("https://tanpavpn.com/situs/linkresmi/");
 function linktongtoto() {window.open("https://tanpavpn.com/situs/linkresmi/");}
 function linkmaxbet() {window.open("https://tanpavpn.com/situs/linkresmi/");}
 function linkratu89() {window.open("https://tanpavpn.com/situs/linkresmi/");}
+
