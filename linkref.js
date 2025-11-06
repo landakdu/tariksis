@@ -2,7 +2,7 @@
 document.getElementById('yourform').submit();
 function linknama() {location.replace("/");}
 function linknama() {window.open("/");}
-function linkNAMAKECILX() {location.replace("/");}
+function linkNAMAKECILX() {location.replace("https://tanpavpn.com/situs/linkresmi/");}
 function linkolxtoto() {location.replace("https://tanpavpn.com/situs/linkresmi/");}
 function linkslotqris10k() {location.replace("https://tanpavpn.com/situs/linkresmi/");}
 function linkslotqris10ribu() {location.replace("https://tanpavpn.com/situs/linkresmi/");}
@@ -187,6 +187,7 @@ function linkdewacasino() {location.replace("https://tanpavpn.com/situs/linkresm
 function linktongtoto() {location.replace("https://tanpavpn.com/situs/linkresmi/");}
 function linkmaxbet() {location.replace("https://tanpavpn.com/situs/linkresmi/");}
 function linkratu89() {location.replace("https://tanpavpn.com/situs/linkresmi/");}
+
 
 
 
