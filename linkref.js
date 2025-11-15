@@ -258,6 +258,37 @@ function linkdewacasino() {location.replace("https://tanpavpn.com/situs/linkresm
 function linktongtoto() {location.replace("https://tanpavpn.com/situs/linkresmi/");}
 function linkmaxbet() {location.replace("https://tanpavpn.com/situs/linkresmi/");}
 function linkratu89() {location.replace("https://tanpavpn.com/situs/linkresmi/");}
+function linkmandirislot() {location.replace("https://tanpavpn.com/situs/linkresmi/");}
+function linkjoki288() {location.replace("https://tanpavpn.com/situs/linkresmi/");}
+function linkjurus308() {location.replace("https://tanpavpn.com/situs/linkresmi/");}
+function linkgwinbola() {location.replace("https://tanpavpn.com/situs/linkresmi/");}
+function linkslotbca() {location.replace("https://tanpavpn.com/situs/linkresmi/");}
+function linkslotbni() {location.replace("https://tanpavpn.com/situs/linkresmi/");}
+function linkslotbri() {location.replace("https://tanpavpn.com/situs/linkresmi/");}
+function linkslotmandiri() {location.replace("https://tanpavpn.com/situs/linkresmi/");}
+function linkslotsyariah() {location.replace("https://tanpavpn.com/situs/linkresmi/");}
+function linkslotamanah() {location.replace("https://tanpavpn.com/situs/linkresmi/");}
+function linkslotmania() {location.replace("https://tanpavpn.com/situs/linkresmi/");}
+function linkyoyo88() {location.replace("https://tanpavpn.com/situs/linkresmi/");}
+function linksarang777() {location.replace("https://tanpavpn.com/situs/linkresmi/");}
+function linknagahoki88() {location.replace("https://tanpavpn.com/situs/linkresmi/");}
+function linknvmslot898() {location.replace("https://tanpavpn.com/situs/linkresmi/");}
+function linkslotthailand() {location.replace("https://tanpavpn.com/situs/linkresmi/");}
+function linkslotluar() {location.replace("https://tanpavpn.com/situs/linkresmi/");}
+function linkslotgacor() {location.replace("https://tanpavpn.com/situs/linkresmi/");}
+function linkslotjp() {location.replace("https://tanpavpn.com/situs/linkresmi/");}
+function linkslotmaxwin() {location.replace("https://tanpavpn.com/situs/linkresmi/");}
+function linkkw303() {location.replace("https://tanpavpn.com/situs/linkresmi/");}
+function linkcumi787() {location.replace("https://tanpavpn.com/situs/linkresmi/");}
+function linkterminal4d() {location.replace("https://tanpavpn.com/situs/linkresmi/");}
+function linkmenara123() {location.replace("https://tanpavpn.com/situs/linkresmi/");}
+function linkslot1131() {location.replace("https://tanpavpn.com/situs/linkresmi/");}
+function linkrajajudi33() {location.replace("https://tanpavpn.com/situs/linkresmi/");}
+function linkdewajudi() {location.replace("https://tanpavpn.com/situs/linkresmi/");}
+function linkpastigacor() {location.replace("https://tanpavpn.com/situs/linkresmi/");}
+function linkpasticuan() {location.replace("https://tanpavpn.com/situs/linkresmi/");}
+function linkpusatgacor() {location.replace("https://tanpavpn.com/situs/linkresmi/");}
+function linkmurnislot() {location.replace("https://tanpavpn.com/situs/linkresmi/");}
 
 
 
