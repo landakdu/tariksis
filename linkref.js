@@ -73,7 +73,7 @@ function linkmpo2121() {location.replace("https://tanpavpn.com/situs/linkresmi/"
 function linkmpo1881() {location.replace("https://tanpavpn.com/situs/linkresmi/");}
 function linkmpo88asia() {location.replace("https://tanpavpn.com/situs/linkresmi/");}
 function linkmpo383() {location.replace("https://tanpavpn.com/situs/linkresmi/");}
-function linkNAMAKECILX() {location.replace("https://tanpavpn.com/situs/linkresmi/");}
+function linknamakecilx() {location.replace("https://tanpavpn.com/situs/linkresmi/");}
 function linkolxtoto() {location.replace("https://tanpavpn.com/situs/linkresmi/");}
 function linkslotqris10k() {location.replace("https://tanpavpn.com/situs/linkresmi/");}
 function linkslotqris10ribu() {location.replace("https://tanpavpn.com/situs/linkresmi/");}
@@ -289,6 +289,7 @@ function linkpastigacor() {location.replace("https://tanpavpn.com/situs/linkresm
 function linkpasticuan() {location.replace("https://tanpavpn.com/situs/linkresmi/");}
 function linkpusatgacor() {location.replace("https://tanpavpn.com/situs/linkresmi/");}
 function linkmurnislot() {location.replace("https://tanpavpn.com/situs/linkresmi/");}
+
 
 
 
