@@ -9,8 +9,8 @@ function linkqq101() {location.replace("https://qq101ldw.com/");}
 function jumpqq101() {location.replace("https://qq101ldw.com/");}
 function linkqqbonus() {location.replace("https://www.qqbonusmat.com/");}
 function jumpqqbonus() {location.replace("https://www.qqbonusmat.com/");}
-function linkqqangpao() {location.replace("https://qqangpaox1.com/Member/StreamlinedRegister?R=38B9DA8D");}
-function jumpqqangpao() {location.replace("https://qqangpaox1.com/Member/StreamlinedRegister?R=38B9DA8D");}
+function linkqqangpao() {location.replace("https://qqangpaosnake.comMember/StreamlinedRegister?R=38B9DA8D");}
+function jumpqqangpao() {location.replace("https://qqangpaosnake.com/Member/StreamlinedRegister?R=38B9DA8D");}
 function link1001win() {location.replace("https://1001winview.com/");}
 function jump1001win() {location.replace("https://1001winview.com/");}
 function link88idr() {location.replace("https://88idrbahu.com/");}
@@ -63,6 +63,7 @@ function linkqqbos99() {location.replace("https://www.senisastra.com/Member/Stre
 function jumpqqbos99() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
 function linkqq8889() {location.replace("https://qq8889vgv.com/");}
 function linkqq1x2() {location.replace("https://qq1x2fs9.com/");}
+
 
 
 
