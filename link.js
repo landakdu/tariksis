@@ -1,12 +1,6 @@
 document.getElementById('yourform').submit();
 function linknama() {location.replace("/");}
 function jumpnama() {window.open("/");}
-function linkqq288() {location.replace("https://qq288qsc.com/");}
-function jumpqq288() {location.replace("https://qq288qsc.com/");}
-function linkqq188() {location.replace("https://qq188jwh.com/");}
-function jumpqq188() {location.replace("https://qq188jwh.com/");}
-function linkqq101() {location.replace("https://qq101ldw.com/");}
-function jumpqq101() {location.replace("https://qq101ldw.com/");}
 function linkqqbonus() {location.replace("https://www.qqbonusmat.com/");}
 function jumpqqbonus() {location.replace("https://www.qqbonusmat.com/");}
 function linkqqangpao() {location.replace("https://qqangpaosnake.comMember/StreamlinedRegister?R=38B9DA8D");}
@@ -35,6 +29,7 @@ function linkdewa86() {location.replace("https://www.senisastra.com/");}
 function linkqqslot() {location.replace("https://www.senisastra.com/");}
 function linkqqbos99() {location.replace("https://www.senisastra.com/");}
 function jumpqqbos99() {location.replace("https://www.senisastra.com/");}
+
 
 
 
