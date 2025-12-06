@@ -1,4 +1,4 @@
-pusatjudionlinedocument.getElementById('yourform').submit();
+document.getElementById('yourform').submit();
 function linknama() {location.replace("/");}
 function linknama() {window.open("/");}
 function linkdewi138() {location.replace("https://jsuhu-com.pages.dev/");}
@@ -288,6 +288,7 @@ function linkpastigacor() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkpasticuan() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkpusatgacor() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkmurnislot() {location.replace("https://jsuhu-com.pages.dev/");}
+
 
 
 
