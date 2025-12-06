@@ -1,6 +1,3 @@
-document.getElementById('yourform').submit();
-function linknama() {location.replace("/");}
-function linknama() {window.open("/");}
 function linkdewi138() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkvietnam303() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkjoin999() {location.replace("https://jsuhu-com.pages.dev/");}
@@ -288,6 +285,7 @@ function linkpastigacor() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkpasticuan() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkpusatgacor() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkmurnislot() {location.replace("https://jsuhu-com.pages.dev/");}
+
 
 
 
