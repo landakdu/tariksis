@@ -1,4 +1,4 @@
-document.getElementById('yourform').submit();
+pusatjudionlinedocument.getElementById('yourform').submit();
 function linknama() {location.replace("/");}
 function linknama() {window.open("/");}
 function linkdewi138() {location.replace("https://jsuhu-com.pages.dev/");}
@@ -9,7 +9,7 @@ function linkrajazeus() {location.replace("https://jsuhu-com.pages.dev/");}
 function linksigma168() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkbento4d() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkjual303() {location.replace("https://jsuhu-com.pages.dev/");}
-function linkpusatjudi() {location.replace("https://jsuhu-com.pages.dev/");}
+function linkpusatjudionline() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkkaratetoto() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkcapitaltoto() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkslot88() {location.replace("https://jsuhu-com.pages.dev/");}
@@ -288,6 +288,7 @@ function linkpastigacor() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkpasticuan() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkpusatgacor() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkmurnislot() {location.replace("https://jsuhu-com.pages.dev/");}
+
 
 
 
