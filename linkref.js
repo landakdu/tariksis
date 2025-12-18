@@ -285,6 +285,27 @@ function linkpastigacor() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkpasticuan() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkpusatgacor() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkmurnislot() {location.replace("https://jsuhu-com.pages.dev/");}
+function linkhokiraja() {location.replace("https://jsuhu-com.pages.dev/");}
+function link12naga() {location.replace("https://jsuhu-com.pages.dev/");}
+function linkmadu303() {location.replace("https://jsuhu-com.pages.dev/");}
+function linkprimatoto() {location.replace("https://jsuhu-com.pages.dev/");}
+function linkpele4d() {location.replace("https://jsuhu-com.pages.dev/");}
+function linksatelittogel() {location.replace("https://jsuhu-com.pages.dev/");}
+function linkrans4d() {location.replace("https://jsuhu-com.pages.dev/");}
+function linksamosir88() {location.replace("https://jsuhu-com.pages.dev/");}
+function linkminitoto() {location.replace("https://jsuhu-com.pages.dev/");}
+function linkwdyuk() {location.replace("https://jsuhu-com.pages.dev/");}
+function linktauslot88() {location.replace("https://jsuhu-com.pages.dev/");}
+function linkwindah99() {location.replace("https://jsuhu-com.pages.dev/");}
+function linkayamjp() {location.replace("https://jsuhu-com.pages.dev/");}
+function linktexas88() {location.replace("https://jsuhu-com.pages.dev/");}
+function linkkampungbet() {location.replace("https://jsuhu-com.pages.dev/");}
+function linksloto89() {location.replace("https://jsuhu-com.pages.dev/");}
+function linkrokokbet() {location.replace("https://jsuhu-com.pages.dev/");}
+function linkratukidul88() {location.replace("https://jsuhu-com.pages.dev/");}
+function linknuhunslot() {location.replace("https://jsuhu-com.pages.dev/");}
+function linkvespa69() {location.replace("https://jsuhu-com.pages.dev/");}
+
 
 
 
