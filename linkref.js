@@ -305,6 +305,9 @@ function linkrokokbet() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkratukidul88() {location.replace("https://jsuhu-com.pages.dev/");}
 function linknuhunslot() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkvespa69() {location.replace("https://jsuhu-com.pages.dev/");}
+function linkmultibet88() {location.replace("https://jsuhu-com.pages.dev/");}
+function linkoke62() {location.replace("https://jsuhu-com.pages.dev/");}
+
 
 
 
