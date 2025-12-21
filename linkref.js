@@ -99,7 +99,7 @@ function linkhokiwin() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkmpocasino() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkn77toto() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkjetplay88() {location.replace("https://jsuhu-com.pages.dev/");}
-function linkwis77() {location.replace("https://jsuhu-com.pages.dev/");}
+function linkwis77() {location.replace("https://wis77xmas.com/register/MJ54RJPR");}
 function linkmpo111() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkzona66() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkgacorbos88() {location.replace("https://jsuhu-com.pages.dev/");}
@@ -307,6 +307,7 @@ function linknuhunslot() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkvespa69() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkmultibet88() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkoke62() {location.replace("https://jsuhu-com.pages.dev/");}
+
 
 
 
