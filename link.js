@@ -6,16 +6,17 @@ function link88idr() {location.replace("https://88idrbahu.com/");}
 function jump88idr() {location.replace("https://88idrbahu.com/");}
 function link1001win() {location.replace("https://1001winsun.com/");}
 function jump1001win() {location.replace("https://1001winsun.com/");}
-function linkqqresmi() {location.replace("https://semualinktanpavpn.pages.dev/");}
-function jumpqqresmi() {location.replace("https://semualinktanpavpn.pages.dev/");}
-function linkqqpusat() {location.replace("https://semualinktanpavpn.pages.dev/");}
-function jumpqqpusat() {location.replace("https://semualinktanpavpn.pages.dev/");}
-function linkqqgacor() {location.replace("https://semualinktanpavpn.pages.dev/");}
-function jumpqqgacor() {location.replace("https://semualinktanpavpn.pages.dev/");}
-function linkqqpusat() {location.replace("https://semualinktanpavpn.pages.dev/");}
-function linkqqcasino() {location.replace("https://semualinktanpavpn.pages.dev/");}
-function linkdewa86() {location.replace("https://semualinktanpavpn.pages.dev/");}
-function linkqqslot() {location.replace("https://semualinktanpavpn.pages.dev/");}
+function linkqqresmi() {location.replace("https://senisastra.com/");}
+function jumpqqresmi() {location.replace("https://senisastra.com/");}
+function linkqqpusat() {location.replace("https://senisastra.com/");}
+function jumpqqpusat() {location.replace("https://senisastra.com/");}
+function linkqqgacor() {location.replace("https://senisastra.com/");}
+function jumpqqgacor() {location.replace("https://senisastra.com/");}
+function linkqqpusat() {location.replace("https://senisastra.com/");}
+function linkqqcasino() {location.replace("https://senisastra.com/");}
+function linkdewa86() {location.replace("https://senisastra.com/");}
+function linkqqslot() {location.replace("https://senisastra.com/");}
+
 
 
 
