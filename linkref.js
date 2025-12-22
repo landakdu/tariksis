@@ -99,7 +99,7 @@ function linkhokiwin() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkmpocasino() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkn77toto() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkjetplay88() {location.replace("https://jsuhu-com.pages.dev/");}
-function linkwis77() {location.replace("https://dragon-fire-wis77.b-cdn.net/");}
+function linkwis77() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkmpo111() {location.replace("https://mpo111gz.com/register/67053GLN");}
 function linkzona66() {location.replace("https://zona66a9.site/register/L7NQ2837");}
 function linkgacorbos88() {location.replace("https://blc.gacorbos88pr.blog/register?ref=GS2ABAD018U7");}
@@ -122,7 +122,7 @@ function linkrajampo() {location.replace("https://link02.raj4mpo.com/register/L7
 function linkamavi88() {location.replace("https://zuckamavi.website/register/PB2LRN11");}
 function linkbaron4d() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkmansion77() {location.replace("https://jsuhu-com.pages.dev/");}
-function linkjawara88() {location.replace("https://jsuhu-com.pages.dev/");}
+function linkjawara88() {location.replace("https://www.partjwr88.site/register?ref=ZABABAW00904");}
 function linkmega38() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkgacor88() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkmpo888() {location.replace("https://lp2.mpo888games.link/register/437GR640");}
@@ -137,12 +137,12 @@ function linkajr88() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkhoki178() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkdewagacor77() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkkudapoker() {location.replace("https://jsuhu-com.pages.dev/");}
-function linkvipbet88() {location.replace("https://jsuhu-com.pages.dev/");}
+function linkvipbet88() {location.replace("http://vipbet88pahlawan.xyz/?ref=babisexy");}
 function linkpesiar88() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkpokerbo() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkhoki138() {location.replace("https://jsuhu-com.pages.dev/");}
-function linktatabet() {location.replace("https://jsuhu-com.pages.dev/");}
-function linksatutogel() {location.replace("https://jsuhu-com.pages.dev/");}
+function linktatabet() {location.replace("http://tatabet1225b.com/?ref=babisexy&p=h");}
+function linksatutogel() {location.replace("https://satutogel1225.com/register?referral_code=babisexy");}
 function linkindogenting() {location.replace("https://jsuhu-com.pages.dev/");}
 function linksupertogel() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkibutogel() {location.replace("https://jsuhu-com.pages.dev/");}
@@ -307,6 +307,7 @@ function linknuhunslot() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkvespa69() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkmultibet88() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkoke62() {location.replace("https://jsuhu-com.pages.dev/");}
+
 
 
 
