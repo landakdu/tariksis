@@ -85,7 +85,7 @@ function linklotto01() {location.replace("https://masterlotto01.org/referral/BAB
 function linkkijangwin() {location.replace("http://spiritkijangwin-1reff.shop/daftar?ref=babisexy");}
 function linkaquaslot() {location.replace("https://aquaslot9.xyz/?ref=babisexy");}
 function linkcoblos4d() {location.replace("https://v15.coblos4dbet.site/?ref=babisexy");}
-function linkkadobet() {location.replace("https://rodakadobet.com/?ref=babisexy");}
+function linkkadobet() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkmpo222() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkqqbos99() {location.replace("https://jsuhu-com.pages.dev/");}
 function link303hoki() {location.replace("https://eworldexternal.com/register/B48RPJDN");}
@@ -307,6 +307,7 @@ function linknuhunslot() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkvespa69() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkmultibet88() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkoke62() {location.replace("https://jsuhu-com.pages.dev/");}
+
 
 
 
