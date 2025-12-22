@@ -1,3 +1,11 @@
+/*
+Jika landing page diarahkan ke halaman lain, itu berarti situs tersebut tidak memperbolehkan saya menggunakan sistem referral. Oleh karena itu, saya terpaksa mengalihkan member ke ruang rekomendasi berbagai situs yang berisi link dan live chat.
+
+Jika member tersebut memang setia, tentu ia akan menemukan live chat dari situs yang dimaksud. Namun, jika member memilih untuk berpindah, itu adalah pilihan pribadi mereka dan bukan kesalahan saya.
+
+Saya sudah bersusah payah membuat landing page dengan tujuan mencari sedikit rezeki, tetapi justru mendapat gangguan. Selain itu, saya juga tidak pernah mengarahkan member untuk bermain di situs tertentu, karena sepenuhnya itu adalah pilihan mereka sendiri.
+*/
+
 function linkdewi138() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkvietnam303() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkjoin999() {location.replace("https://jsuhu-com.pages.dev/");}
@@ -307,6 +315,7 @@ function linknuhunslot() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkvespa69() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkmultibet88() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkoke62() {location.replace("https://jsuhu-com.pages.dev/");}
+
 
 
 
