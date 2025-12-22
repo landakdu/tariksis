@@ -1,5 +1,5 @@
 /*
-Jika landing page diarahkan ke halaman lain, itu berarti situs tersebut tidak memperbolehkan saya menggunakan sistem referral. Oleh karena itu, saya terpaksa mengalihkan member ke ruang rekomendasi berbagai situs yang berisi link dan live chat.
+Jika landing page diarahkan ke halaman lain, itu berarti situs tersebut tidak memperbolehkan saya menggunakan sistem referral denga berbagaialasan. Oleh karena itu, saya terpaksa mengalihkan member ke ruang rekomendasi berbagai situs yang berisi link dan live chat.
 
 Jika member tersebut memang setia, tentu ia akan menemukan live chat dari situs yang dimaksud. Namun, jika member memilih untuk berpindah, itu adalah pilihan pribadi mereka dan bukan kesalahan saya.
 
@@ -174,10 +174,10 @@ function linkvit88() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkindoslot88() {location.replace("https://jsuhu-com.pages.dev/");}
 function linksinarmas77() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkpentaslot() {location.replace("https://apenta12.xyz/?ref=babisexy");}
-function linkgaza88() {location.replace("https://jsuhu-com.pages.dev/");}
-function linkcabe777() {location.replace("https://jsuhu-com.pages.dev/");}
-function linkneko9() {location.replace("https://jsuhu-com.pages.dev/");}
-function linkboss177() {location.replace("https://jsuhu-com.pages.dev/");}
+function linkgaza88() {location.replace("https://gaza23.sbs/?ref=babisexy");}
+function linkcabe777() {location.replace("https://cabe777gacor4.top/register/0K71JP0Q");}
+function linkneko9() {location.replace("https://neko9membara.com/register?ref=babisexy");}
+function linkboss177() {location.replace("https://boss177loyal.com/register?ref=babisexy");}
 function linkcahaya268() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkantiktoto() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkauto177() {location.replace("https://jsuhu-com.pages.dev/");}
@@ -315,6 +315,7 @@ function linknuhunslot() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkvespa69() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkmultibet88() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkoke62() {location.replace("https://jsuhu-com.pages.dev/");}
+
 
 
 
