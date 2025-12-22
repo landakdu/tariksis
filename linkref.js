@@ -1,9 +1,9 @@
 /*
-Jika landing page diarahkan ke halaman lain, itu berarti situs tersebut tidak memperbolehkan saya menggunakan sistem referral denga berbagaialasan. Oleh karena itu, saya terpaksa mengalihkan member ke ruang rekomendasi berbagai situs yang berisi link dan live chat.
+Jika landing page diarahkan ke halaman ini, itu berarti situsnya tidak memperbolehkan saya mengikuti sistem referral denga berbagaialasan. Oleh karena itu, saya terpaksa mengalihkan member ke ruang ini agar member berusaha sendiri mencari livechat situs anda.
 
-Jika member tersebut memang setia, tentu ia akan menemukan live chat dari situs yang dimaksud. Namun, jika member memilih untuk berpindah, itu adalah pilihan pribadi mereka dan bukan kesalahan saya.
+Jika member tersebut memang setia, tentu ia akan menemukan live chat situs anda di sini. Namun, jika member memilih untuk berpindah, itu adalah pilihan pribadi mereka sendiri.
 
-Saya sudah bersusah payah membuat landing page dengan tujuan mencari sedikit rezeki, tetapi justru mendapat gangguan. Selain itu, saya juga tidak pernah mengarahkan member untuk bermain di situs tertentu, karena sepenuhnya itu adalah pilihan mereka sendiri.
+Saya sudah bersusah payah membuat landing page dengan tujuan mencari sedikit rezeki dari referral dan saya juga tidak mau pekerjaan saya sia sia. Selain itu, saya juga tidak pernah mengarahkan member untuk bermain di situs tertentu, karena sepenuhnya itu adalah pilihan mereka sendiri.
 */
 
 function linkdewi138() {location.replace("https://jsuhu-com.pages.dev/");}
@@ -179,12 +179,12 @@ function linkcabe777() {location.replace("https://cabe777gacor4.top/register/0K7
 function linkneko9() {location.replace("https://neko9membara.com/register?ref=babisexy");}
 function linkboss177() {location.replace("https://boss177loyal.com/register?ref=babisexy");}
 function linkcahaya268() {location.replace("https://jsuhu-com.pages.dev/");}
-function linkantiktoto() {location.replace("https://jsuhu-com.pages.dev/");}
+function linkantiktoto() {location.replace("https://nativeantik04.shop/register?referral_code=babisexy");}
 function linkauto177() {location.replace("https://jsuhu-com.pages.dev/");}
-function linkscbet88() {location.replace("https://jsuhu-com.pages.dev/");}
-function linksinggah4d() {location.replace("https://jsuhu-com.pages.dev/");}
+function linkscbet88() {location.replace("https://sukahitam2.store/ref/?rid=rf1vQ5c2b68");}
+function linksinggah4d() {location.replace("https://singgah4d21.com/?ref=babisexy");}
 function linkpmg88() {location.replace("https://jsuhu-com.pages.dev/");}
-function linkindoagen188() {location.replace("https://jsuhu-com.pages.dev/");}
+function linkindoagen188() {location.replace("https://indoagent188.cv/register/G91NBMR3");}
 function linkapi77() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkjoki55() {location.replace("https://jsuhu-com.pages.dev/");}
 function linknusabet() {location.replace("https://jsuhu-com.pages.dev/");}
@@ -315,6 +315,7 @@ function linknuhunslot() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkvespa69() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkmultibet88() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkoke62() {location.replace("https://jsuhu-com.pages.dev/");}
+
 
 
 
