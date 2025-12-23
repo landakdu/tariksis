@@ -67,18 +67,18 @@ function linkagentaruhan() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkmekarbet() {location.replace("https://jsuhu-com.pages.dev/");}
 function linksukabet() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkrajacuan() {location.replace("https://jsuhu-com.pages.dev/");}
-function linkmposport() {location.replace("https://jsuhu-com.pages.dev/");}
-function linkmposlot() {location.replace("https://jsuhu-com.pages.dev/");}
+function linkmposport() {location.replace("https://01.mposport.games/register/J5K2PN3M");}
+function linkmposlot() {location.replace("https://mposlotsor.com/register/DRLD3026");}
 function linkmpopoker() {location.replace("https://jsuhu-com.pages.dev/");}
-function linkmpogacor() {location.replace("https://jsuhu-com.pages.dev/");}
+function linkmpogacor() {location.replace("https://a4.mpogacorjoss.store/register/G91ND59B");}
 function linkmpo() {location.replace("https://jsuhu-com.pages.dev/");}
-function linkmpo1221() {location.replace("https://jsuhu-com.pages.dev/");}
-function linkmpo2121() {location.replace("https://jsuhu-com.pages.dev/");}
-function linkmpo1881() {location.replace("https://jsuhu-com.pages.dev/");}
-function linkmpo88asia() {location.replace("https://jsuhu-com.pages.dev/");}
+function linkmpo1221() {location.replace("https://mpo1221kumpul.net/register/5M0N59KP");}
+function linkmpo2121() {location.replace("https://donutresto2121.net/register/6705P15J");}
+function linkmpo1881() {location.replace("https://mpomol1881.com/register/DRLD31RJ");}
+function linkmpo88asia() {location.replace("https://mpo88asiathree.org/register/6705PB91");}
 function linkmpo383() {location.replace("https://jsuhu-com.pages.dev/");}
 function linknamakecilx() {location.replace("https://jsuhu-com.pages.dev/");}
-function linkolxtoto() {location.replace("https://jsuhu-com.pages.dev/");}
+function linkolxtoto() {location.replace("https://duatiga12.olxtoto.io/register?referral_code=babisexy");}
 function linkslotqris10k() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkslotqris10ribu() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkslotqrisgacor() {location.replace("https://jsuhu-com.pages.dev/");}
@@ -103,8 +103,8 @@ function link8bettingan() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkmpo08() {location.replace("https://mpo08dna.xyz/register/Q2RDGN20");}
 function linkdewatogel() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkkas138() {location.replace("https://jsuhu-com.pages.dev/");}
-function linkhokiwin() {location.replace("https://jsuhu-com.pages.dev/");}
-function linkmpocasino() {location.replace("https://jsuhu-com.pages.dev/");}
+function linkhokiwin() {location.replace("https://hokiwinlife.website/register/4372MNN9");}
+function linkmpocasino() {location.replace("https://mpocasino-easywin.com/register/J5K2PQG6");}
 function linkn77toto() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkjetplay88() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkwis77() {location.replace("https://jsuhu-com.pages.dev/");}
@@ -248,17 +248,15 @@ function linkjudi388() {location.replace("https://ribujd.top/register?reff=babis
 function linkdewakoin() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkole777() {location.replace("https://jsuhu-com.pages.dev/");}
 function link8togel() {location.replace("https://8tburn.com/referral/BABISEXY");}
-function linkdewakoin() {location.replace("https://jsuhu-com.pages.dev/");}
-function linkkas138() {location.replace("https://jsuhu-com.pages.dev/");}
-function linkole777() {location.replace("https://jsuhu-com.pages.dev/");}
+function linkkas138() {location.replace("https://kas138fat.com/?ref=babisexy");}
 function linkyamaha88bet() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkmuslimbet() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkpusatbet() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkmumitoto() {location.replace("https://jsuhu-com.pages.dev/");}
 function linksatubandar() {location.replace("https://jsuhu-com.pages.dev/");}
-function link9win() {location.replace("https://jsuhu-com.pages.dev/");}
-function linkdewacasino() {location.replace("https://jsuhu-com.pages.dev/");}
-function linktongtoto() {location.replace("https://jsuhu-com.pages.dev/");}
+function link9win() {location.replace("https://9wintop4.pro/ref/?rid=rf1R25c5bc1");}
+function linkdewacasino() {location.replace("https://dewacsn1bos.site/?ref=babisexy");}
+function linktongtoto() {location.replace("https://tongtotogas.com/register?referral_code=babisexy");}
 function linkmaxbet() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkratu89() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkmandirislot() {location.replace("https://jsuhu-com.pages.dev/");}
@@ -314,6 +312,7 @@ function linknuhunslot() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkvespa69() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkmultibet88() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkoke62() {location.replace("https://jsuhu-com.pages.dev/");}
+
 
 
 
