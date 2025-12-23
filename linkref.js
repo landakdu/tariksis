@@ -245,10 +245,9 @@ function linkhoki77() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkunoplay() {location.replace("https://unoplay7star.xyz?ref=747339CF");}
 function linkdewa234() {location.replace("https://dewa234cara.com/register/Q268BG84");}
 function linkjudi388() {location.replace("https://ribujd.top/register?reff=babisexy");}
-function link8togel() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkdewakoin() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkole777() {location.replace("https://jsuhu-com.pages.dev/");}
-function link8togel() {location.replace("https://jsuhu-com.pages.dev/");}
+function link8togel() {location.replace("https://8tburn.com/referral/BABISEXY");}
 function linkdewakoin() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkkas138() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkole777() {location.replace("https://jsuhu-com.pages.dev/");}
@@ -315,6 +314,7 @@ function linknuhunslot() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkvespa69() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkmultibet88() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkoke62() {location.replace("https://jsuhu-com.pages.dev/");}
+
 
 
 
