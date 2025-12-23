@@ -11,7 +11,7 @@ function linkvietnam303() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkjoin999() {location.replace("https://fortune.playjoin999.space/register?ref=GCAEAA49146");}
 function linkpari303() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkrajazeus() {location.replace("https://jsuhu-com.pages.dev/");}
-function linksigma168() {location.replace("https://jsuhu-com.pages.dev/");}
+function linksigma168() {location.replace("https://sigma168-dragon.com/register?ref=Z9oXzcjU");}
 function linkbento4d() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkjual303() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkpusatjudionline() {location.replace("https://jsuhu-com.pages.dev/");}
@@ -312,6 +312,7 @@ function linknuhunslot() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkvespa69() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkmultibet88() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkoke62() {location.replace("https://jsuhu-com.pages.dev/");}
+
 
 
 
