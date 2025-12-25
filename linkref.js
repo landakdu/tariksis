@@ -293,7 +293,7 @@ function linkmurnislot() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkhokiraja() {location.replace("https://hokirajaleft.site/daftar?ref=babisexy");}
 function link12naga() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkmadu303() {location.replace("https://jsuhu-com.pages.dev/");}
-function linkprimatoto() {location.replace("https://jsuhu-com.pages.dev/");}
+function linkprimatoto() {location.replace("https://pmtghacor5.ink/register?referral_code=babisexy");}
 function linkpele4d() {location.replace("https://jsuhu-com.pages.dev/");}
 function linksatelittogel() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkrans4d() {location.replace("https://jsuhu-com.pages.dev/");}
@@ -312,6 +312,7 @@ function linknuhunslot() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkvespa69() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkmultibet88() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkoke62() {location.replace("https://jsuhu-com.pages.dev/");}
+
 
 
 
