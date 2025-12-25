@@ -97,11 +97,11 @@ function linkkadobet() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkmpo222() {location.replace("https://mpo222enterprise.vip/register/JK86G0Y4");}
 function linkqqbos99() {location.replace("https://jsuhu-com.pages.dev/");}
 function link303hoki() {location.replace("https://eworldexternal.com/register/B48RPJDN");}
-function linkjet88bet() {location.replace("https://jsuhu-com.pages.dev/");}
+function linkjet88bet() {location.replace("https://jet88jac.site/?ref=babisexy");}
 function linkmpo369() {location.replace("https://mpo369bj.com/register/JQPK80KM");}
 function link8bettingan() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkmpo08() {location.replace("https://mpo08dna.xyz/register/Q2RDGN20");}
-function linkdewatogel() {location.replace("https://jsuhu-com.pages.dev/");}
+function linkdewatogel() {location.replace("https://dwtjoswin.space/register?referral_code=babisexy");}
 function linkkas138() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkhokiwin() {location.replace("https://hokiwinlife.website/register/4372MNN9");}
 function linkmpocasino() {location.replace("https://mpocasino-easywin.com/register/J5K2PQG6");}
@@ -290,7 +290,7 @@ function linkpastigacor() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkpasticuan() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkpusatgacor() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkmurnislot() {location.replace("https://jsuhu-com.pages.dev/");}
-function linkhokiraja() {location.replace("https://jsuhu-com.pages.dev/");}
+function linkhokiraja() {location.replace("https://hokirajaleft.site/daftar?ref=babisexy");}
 function link12naga() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkmadu303() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkprimatoto() {location.replace("https://jsuhu-com.pages.dev/");}
@@ -312,6 +312,7 @@ function linknuhunslot() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkvespa69() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkmultibet88() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkoke62() {location.replace("https://jsuhu-com.pages.dev/");}
+
 
 
 
