@@ -41,7 +41,7 @@ function linkneymar88() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkclickbet88() {location.replace("https://clickbet88bawaberkah05.xyz/register?ref=GCADAA213361");}
 function linkrajapanen() {location.replace("https://login.rajapanengacor.pics/register?ref=GCAAAC460822");}
 function linkoyoslot() {location.replace("https://jsuhu-com.pages.dev/");}
-function linkjudolbet88() {location.replace("https://judolbet88pur.xyz/register?ref=mXiPOJa");}
+function linkjudolbet88() {location.replace("https://judolbet88def.com/register?ref=mXiPOJa");}
 function linkslot123() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkdewagacor138() {location.replace("https://login.dwgcr138.com/register?ref=XGGABAA00VIX");}
 function linkdewa138() {location.replace("https://jsuhu-com.pages.dev/");}
@@ -312,6 +312,7 @@ function linknuhunslot() {location.replace("https://nuhunslot.co/?Ref=8AuFNHky")
 function linkvespa69() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkmultibet88() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkoke62() {location.replace("https://jsuhu-com.pages.dev/");}
+
 
 
 
