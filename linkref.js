@@ -123,7 +123,7 @@ function linkmegabandar() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkbagus88() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkneo177() {location.replace("https://neo177berkumandang.com/register?ref=babisexy");}
 function linkkiw69() {location.replace("https://domkiw69.com/register?ref=E3MDNAC00728");}
-function linkmpo333() {location.replace("https://mpoterbaru333.website/register/R9D37GGR");}
+function linkmpo333() {location.replace("https://mpo333loginb.website/register/R9D37GGR");}
 function link66kone() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkligahoki() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkrajampo() {location.replace("https://link02.raj4mpo.com/register/L7NQ26DL");}
@@ -312,6 +312,7 @@ function linknuhunslot() {location.replace("https://nuhunslot.co/?Ref=8AuFNHky")
 function linkvespa69() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkmultibet88() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkoke62() {location.replace("https://jsuhu-com.pages.dev/");}
+
 
 
 
