@@ -85,7 +85,7 @@ function linkslotqrisgacor() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkslotqrismantap() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkslotqristanpapotongan() {location.replace("https://jsuhu-com.pages.dev/");}
 function linktokekwin() {location.replace("https://tokekwinmerayap.com/daftar?ref=babisexy");}
-function linkpphoki() {location.replace("https://jsuhu-com.pages.dev/");}
+function linkpphoki() {location.replace("https://pphoki8899.xyz/?ref=babisexy");}
 function linkaw8() {location.replace("https://www.aw8petir.com/id-id/register?refid=ymbrprab");}
 function linkhoki177() {location.replace("https://prohoki177.com/register?ref=babisexy");}
 function linknewliga365() {location.replace("https://newliga365gg.site/?action=register&rc=LEOK60YFBD&ci=11");}
@@ -312,6 +312,7 @@ function linknuhunslot() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkvespa69() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkmultibet88() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkoke62() {location.replace("https://jsuhu-com.pages.dev/");}
+
 
 
 
