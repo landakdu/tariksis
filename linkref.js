@@ -254,7 +254,7 @@ function linkmuslimbet() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkpusatbet() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkmumitoto() {location.replace("https://jsuhu-com.pages.dev/");}
 function linksatubandar() {location.replace("https://jsuhu-com.pages.dev/");}
-function link9win() {location.replace("https://9wintop4.pro/ref/?rid=rf1R25c5bc1");}
+function link9win() {location.replace("https://9wins.net/ref/?rid=rf1R25c5bc1");}
 function linkdewacasino() {location.replace("https://dewacsn1bos.site/?ref=babisexy");}
 function linktongtoto() {location.replace("https://tongtotogas.com/register?referral_code=babisexy");}
 function linkmaxbet() {location.replace("https://jsuhu-com.pages.dev/");}
@@ -312,6 +312,7 @@ function linknuhunslot() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkvespa69() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkmultibet88() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkoke62() {location.replace("https://jsuhu-com.pages.dev/");}
+
 
 
 
