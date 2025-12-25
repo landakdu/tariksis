@@ -299,7 +299,7 @@ function linksatelittogel() {location.replace("http://satelit36.tokomajubersama.
 function linkrans4d() {location.replace("https://kezcqswl8q.rans4official.com/?ref=babisexy");}
 function linksamosir88() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkminitoto() {location.replace("https://mininatal.com/register?referral_code=babisexy");}
-function linkwdyuk() {location.replace("https://jsuhu-com.pages.dev/");}
+function linkwdyuk() {location.replace("https://wdyukaja.com/20241114/?referralid=babisexy");}
 function linktauslot88() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkwindah99() {location.replace("https://slotwindah99ag.info/ref/?rid=rf1n95ca092");}
 function linkayamjp() {location.replace("https://et.ayamjpgege.com/?ref=babisexy");}
@@ -312,6 +312,7 @@ function linknuhunslot() {location.replace("https://nuhunslot.co/?Ref=8AuFNHky")
 function linkvespa69() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkmultibet88() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkoke62() {location.replace("https://jsuhu-com.pages.dev/");}
+
 
 
 
