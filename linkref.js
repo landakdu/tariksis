@@ -134,7 +134,7 @@ function linkjawara88() {location.replace("https://www.partjwr88.site/register?r
 function linkmega38() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkgacor88() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkmpo888() {location.replace("https://lp2.mpo888games.link/register/437GR640");}
-function linkpreman69() {location.replace("https://jsuhu-com.pages.dev/");}
+function linkpreman69() {location.replace("https://preman69max.com/daftar?ref=babisexy");}
 function linksgpslot() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkmpo777() {location.replace("https://mpo777guard.com/register/R9D37PR2");}
 function linkkingtoto() {location.replace("https://jsuhu-com.pages.dev/");}
@@ -312,6 +312,7 @@ function linknuhunslot() {location.replace("https://nuhunslot.co/?Ref=8AuFNHky")
 function linkvespa69() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkmultibet88() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkoke62() {location.replace("https://jsuhu-com.pages.dev/");}
+
 
 
 
