@@ -116,7 +116,8 @@ function linkome88() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkmusangwin() {location.replace("https://www.koilmusangwin.com/register?ref=2M3TNAFG0EVH");}
 function linkdemen303() {location.replace("https://jsuhu-com.pages.dev/");}
 function linknagatop() {location.replace("https://nagatopkamu.online/register?ref=94128uH");}
-function linkjnt777() {location.replace("https://jsuhu-com.pages.dev/");}
+function linkjnt777() {location.replace("https://link04.aksesjnt777.com/register?ref=zfPtLXt");}
+function linkjnt77() {location.replace("https://jnt77tuesdayjackpot.com/daftar?ref_id=d58f8fa7");}
 function linkfijislot() {location.replace("https://link6.fijislot7.store/register?ref=VABAAA1007PG");}
 function linkraja168() {location.replace("https://link12.raja168l.fit/register?ref=MKPAFAA00O6K");}
 function linkmegabandar() {location.replace("https://jsuhu-com.pages.dev/");}
@@ -312,6 +313,7 @@ function linknuhunslot() {location.replace("https://nuhunslot.co/?Ref=8AuFNHky")
 function linkvespa69() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkmultibet88() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkoke62() {location.replace("https://jsuhu-com.pages.dev/");}
+
 
 
 
