@@ -193,7 +193,7 @@ function link1xbet() {location.replace("https://palugada-new.pages.dev/");}
 function linkgaulbet77() {location.replace("https://palugada-new.pages.dev/");}
 function linkcor77() {location.replace("https://palugada-new.pages.dev/");}
 function linkshiokambing() {location.replace("https://palugada-new.pages.dev/");}
-function linkshiokambing2() {location.replace("https://palugada-new.pages.dev/);}
+function linkshiokambing2() {location.replace("https://palugada-new.pages.dev/");}
 function linkshiokambing5() {location.replace("https://palugada-new.pages.dev/");}
 function linkrajatoto3() {location.replace("https://palugada-new.pages.dev/");}
 function linklanjut88() {location.replace("https://palugada-new.pages.dev/");}
@@ -309,6 +309,7 @@ function linknuhunslot() {location.replace("https://nuhunslott.homes/?Ref=8AuFNH
 function linkvespa69() {location.replace("https://palugada-new.pages.dev/");}
 function linkmultibet88() {location.replace("https://palugada-new.pages.dev/");}
 function linkoke62() {location.replace("https://palugada-new.pages.dev/");}
+
 
 
 
