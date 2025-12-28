@@ -75,8 +75,8 @@ function linkmpo() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkmpo1221() {location.replace("https://mpo1221int.net/register/5M0N59KP");}
 function linkmpo2121() {location.replace("https://donutresto2121.net/register/6705P15J");}
 function linkmpo1881() {location.replace("https://mpolek1881.com/register/DRLD31RJ");}
-function linkmpo88asia() {location.replace("https://mpo88asiathree.org/register/6705PB91");}
-function linkmpo383() {location.replace("https://mpo383-ggg.com/register/B4L1R211");}
+function linkmpo88asia() {location.replace("https://mpo88asiamancur.com/register/6705PB91");}
+function linkmpo383() {location.replace("https://www.mpo383-eee.com/register/B4L1R211");}
 function linknamakecilx() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkolxtoto() {location.replace("https://duatiga12.olxtoto.io/register?referral_code=babisexy");}
 function linkslotqris10k() {location.replace("https://jsuhu-com.pages.dev/");}
@@ -94,7 +94,7 @@ function linkkijangwin() {location.replace("http://spiritkijangwin-1reff.shop/da
 function linkaquaslot() {location.replace("https://aquaslot10.xyz/?ref=babisexy");}
 function linkcoblos4d() {location.replace("https://v15.coblos4dbet.site/?ref=babisexy");}
 function linkkadobet() {location.replace("https://jsuhu-com.pages.dev/");}
-function linkmpo222() {location.replace("https://mpo222enterprise.vip/register/JK86G0Y4");}
+function linkmpo222() {location.replace("https://mpo222floq.com/register/JK86G0Y4");}
 function linkqqbos99() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=DA10B2A7");}
 function link303hoki() {location.replace("https://eworldexternal.com/register/B48RPJDN");}
 function linkjet88bet() {location.replace("https://jet88jac.site/?ref=babisexy");}
@@ -313,6 +313,7 @@ function linknuhunslot() {location.replace("https://nuhunslott.homes/?Ref=8AuFNH
 function linkvespa69() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkmultibet88() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkoke62() {location.replace("https://jsuhu-com.pages.dev/");}
+
 
 
 
