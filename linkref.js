@@ -1,9 +1,5 @@
 /*
-Jika landing page diarahkan ke halaman ini, itu berarti situsnya tidak memperbolehkan saya mengikuti sistem referral denga berbagaialasan. Oleh karena itu, saya terpaksa mengalihkan member ke ruang ini agar member berusaha sendiri mencari livechat situs anda.
-
-Jika member tersebut memang setia, tentu ia akan menemukan live chat situs anda di sini. Namun, jika member memilih untuk berpindah, itu adalah pilihan pribadi mereka sendiri.
-
-Saya sudah bersusah payah membuat landing page dengan tujuan mencari sedikit rezeki dari referral dan saya juga tidak mau pekerjaan saya sia sia. Selain itu, saya juga tidak pernah mengarahkan member untuk bermain di situs tertentu, karena sepenuhnya itu adalah pilihan mereka sendiri.
+Jika landing page mengarah ke halaman ini, hal tersebut disebabkan karena situs Anda tidak memperbolehkan saya mengikuti referral. Oleh karena itu, saya terpaksa mengalihkan member ke halaman ini agar mereka dapat mencari sendiri LIVECHAT situs Anda. Saya tidak ingin pekerjaan yang saya lakukan menjadi sia-sia tanpa dibayar. Saya juga tidak menganjurkan situs tertentu kepada semua member yang datang; keputusan untuk tetap setia atau berpindah sepenuhnya merupakan pilihan masing-masing member.
 */
 
 function linkdewi138() {location.replace("https://jsuhu-com.pages.dev/");}
@@ -313,6 +309,7 @@ function linknuhunslot() {location.replace("https://nuhunslott.homes/?Ref=8AuFNH
 function linkvespa69() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkmultibet88() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkoke62() {location.replace("https://jsuhu-com.pages.dev/");}
+
 
 
 
