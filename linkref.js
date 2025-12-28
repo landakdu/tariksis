@@ -72,9 +72,9 @@ function linkmposlot() {location.replace("https://mposlotsor.com/register/DRLD30
 function linkmpopoker() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkmpogacor() {location.replace("https://a4.mpogacorjoss.store/register/G91ND59B");}
 function linkmpo() {location.replace("https://jsuhu-com.pages.dev/");}
-function linkmpo1221() {location.replace("https://mpo1221lagi.net/register/5M0N59KP");}
+function linkmpo1221() {location.replace("https://mpo1221int.net/register/5M0N59KP");}
 function linkmpo2121() {location.replace("https://donutresto2121.net/register/6705P15J");}
-function linkmpo1881() {location.replace("https://mpomol1881.com/register/DRLD31RJ");}
+function linkmpo1881() {location.replace("https://mpolek1881.com/register/DRLD31RJ");}
 function linkmpo88asia() {location.replace("https://mpo88asiathree.org/register/6705PB91");}
 function linkmpo383() {location.replace("https://mpo383-ggg.com/register/B4L1R211");}
 function linknamakecilx() {location.replace("https://jsuhu-com.pages.dev/");}
@@ -104,7 +104,7 @@ function linkmpo08() {location.replace("https://mpo08dna.xyz/register/Q2RDGN20")
 function linkdewatogel() {location.replace("https://dwtjoswin.space/register?referral_code=babisexy");}
 function linkkas138() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkhokiwin() {location.replace("https://hokiwinlife.website/register/4372MNN9");}
-function linkmpocasino() {location.replace("https://mpocasino-easywin.com/register/J5K2PQG6");}
+function linkmpocasino() {location.replace("https://mpocasino-verse.com/register/J5K2PQG6");}
 function linkn77toto() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkjetplay88() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkwis77() {location.replace("https://wis77xmas.com/register/MJ54RJPR");}
@@ -313,6 +313,7 @@ function linknuhunslot() {location.replace("https://nuhunslott.homes/?Ref=8AuFNH
 function linkvespa69() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkmultibet88() {location.replace("https://jsuhu-com.pages.dev/");}
 function linkoke62() {location.replace("https://jsuhu-com.pages.dev/");}
+
 
 
 
