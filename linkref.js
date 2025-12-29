@@ -224,7 +224,7 @@ function linkskslot() {location.replace("https://mantauterus.com/register?ref=ba
 function linklotuspelangi() {location.replace("https://lotuspelangi.courses/daftar?ref=babisexy");}
 function linkplaza4d() {location.replace("https://palugada-new.pages.dev/");}
 function linkalexabet88() {location.replace("https://alexabet88berlian.com/register?ref=5987711");}
-function linkslotoppo88() {location.replace("https://palugada-new.pages.dev/");}
+function linkslotoppo88() {location.replace("https://palugada-new.pages.dev/");} document.getElementById('yourform').submit();
 function linkdiva168() {location.replace("https://palugada-new.pages.dev/");}
 function linkmpo666() {location.replace("https://mpo666cora.top/register/N7GR5QK9");}
 function linkxuxu4d() {location.replace("https://palugada-new.pages.dev/");}
@@ -305,6 +305,7 @@ function linknuhunslot() {location.replace("https://nuhunslott.homes/?Ref=8AuFNH
 function linkvespa69() {location.replace("https://vsp69.agency/register?ref=h3p7Tj7");}
 function linkmultibet88() {location.replace("https://palugada-new.pages.dev/");}
 function linkoke62() {location.replace("https://palugada-new.pages.dev/");}
+
 
 
 
