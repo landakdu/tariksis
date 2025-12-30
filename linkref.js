@@ -264,7 +264,7 @@ function linkslotsyariah() {location.replace("https://palugada-new.pages.dev/");
 function linkslotamanah() {location.replace("https://palugada-new.pages.dev/");}
 function linkslotmania() {location.replace("https://palugada-new.pages.dev/");}
 function linkyoyo88() {location.replace("https://yoyo88slot.store/register?ref=mPNzLV0");}
-function linksarang777() {location.replace("https://agensarang.pro/?Ref=QVOjdLHP");}
+function linksarang777() {location.replace("https://linkdamai.pro/?Ref=QVOjdLHP");}
 function linknagahoki88() {location.replace("https://situs.nagahoki88-pro.online/register?ref=GCAAAA577414");}
 function linknvmslot898() {location.replace("https://palugada-new.pages.dev/");}
 function linkslotthailand() {location.replace("https://roosterswpb.com/register?referral=babisexy");}
@@ -305,6 +305,7 @@ function linknuhunslot() {location.replace("https://nuhunslott.homes/?Ref=8AuFNH
 function linkvespa69() {location.replace("https://vsp69.agency/register?ref=h3p7Tj7");}
 function linkmultibet88() {location.replace("https://palugada-new.pages.dev/");}
 function linkoke62() {location.replace("https://palugada-new.pages.dev/");}
+
 
 
 
