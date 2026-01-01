@@ -175,7 +175,7 @@ function linkcahaya268() {location.replace("https://palugada-new.pages.dev/");}
 function linkantiktoto() {location.replace("https://nativeantik04.shop/register?referral_code=babisexy");}
 function linkauto177() {location.replace("https://palugada-new.pages.dev/");}
 function linkscbet88() {location.replace("https://sukahitam2.store/ref/?rid=rf1vQ5c2b68");}
-function linksinggah4d() {location.replace("https://singgah4d21.com/?ref=babisexy");}
+function linksinggah4d() {location.replace("https:///?ref=babisexy");}
 function linkpmg88() {location.replace("https://palugada-new.pages.dev/");}
 function linkindoagen188() {location.replace("https://kopihoki.beauty/register/G91NBMR3");}
 function linkapi77() {location.replace("https://palugada-new.pages.dev/");}
@@ -305,6 +305,7 @@ function linknuhunslot() {location.replace("https://nuhunslott.homes/?Ref=8AuFNH
 function linkvespa69() {location.replace("https://vsp69.agency/register?ref=h3p7Tj7");}
 function linkmultibet88() {location.replace("https://palugada-new.pages.dev/");}
 function linkoke62() {location.replace("https://palugada-new.pages.dev/");}
+
 
 
 
