@@ -7,7 +7,7 @@ function linksigma168() {location.replace("https://sigma168ok.com/register?ref=Z
 function linkbento4d() {location.replace("https://palugada-new.pages.dev/");}
 function linkjual303() {location.replace("https://gacor07.jualan303.com/register?r=rlaw35");}
 function linkpusatjudionline() {location.replace("https://palugada-new.pages.dev/");}
-function linkkaratetoto() {location.replace("https://garudakaratetoto.site/register?r=zk174u");}
+function linkkaratetoto() {location.replace("https://putihkaratetoto.site/register?r=zk174u");}
 function linkcapitaltoto() {location.replace("https://palugada-new.pages.dev/");}
 function linkslot88() {location.replace("https://palugada-new.pages.dev/");}
 function linkwatitoto() {location.replace("https://wati.watijakarta.online/?referralid=babisexy");}
@@ -33,7 +33,7 @@ function linkneymar88() {location.replace("https://palugada-new.pages.dev/");}
 function linkclickbet88() {location.replace("https://clickbet88bawaberkah05.xyz/register?ref=GCADAA213361");}
 function linkrajapanen() {location.replace("https://login.rajapanengacor.pics/register?ref=GCAAAC460822");}
 function linkoyoslot() {location.replace("https://palugada-new.pages.dev/");}
-function linkjudolbet88() {location.replace("https://judolbet88def.com/register?ref=mXiPOJa");}
+function linkjudolbet88() {location.replace("https://judolbet88sfo.com/register?ref=mXiPOJa");}
 function linkslot123() {location.replace("https://palugada-new.pages.dev/");}
 function linkdewagacor138() {location.replace("https://login.dwgcr138.com/register?ref=XGGABAA00VIX");}
 function linkdewa138() {location.replace("https://palugada-new.pages.dev/");}
@@ -70,7 +70,7 @@ function linkmpo1881() {location.replace("https://mpolek1881.com/register/DRLD31
 function linkmpo88asia() {location.replace("https://mpo88asiamancur.com/register/6705PB91");}
 function linkmpo383() {location.replace("https://www.mpo383-eee.com/register/B4L1R211");}
 function linknamakecilx() {location.replace("https://palugada-new.pages.dev/");}
-function linkolxtoto() {location.replace("https://duatiga12.olxtoto.io/register?referral_code=babisexy");}
+function linkolxtoto() {location.replace("https://genius2.olxtoto.dev/register?referral_code=babisexy");}
 function linkslotqris10k() {location.replace("https://palugada-new.pages.dev/");}
 function linkslotqris10ribu() {location.replace("https://palugada-new.pages.dev/");}
 function linkslotqrisgacor() {location.replace("https://palugada-new.pages.dev/");}
@@ -86,20 +86,20 @@ function linkkijangwin() {location.replace("http://spiritkijangwin-1reff.shop/da
 function linkaquaslot() {location.replace("https://aquaslot10.xyz/?ref=babisexy");}
 function linkcoblos4d() {location.replace("https://v15.coblos4dbet.site/?ref=babisexy");}
 function linkkadobet() {location.replace("https://palugada-new.pages.dev/");}
-function linkmpo222() {location.replace("https://mpo222floq.com/register/JK86G0Y4");}
+function linkmpo222() {location.replace("https://mpo222capital.com/register/JK86G0Y4");}
 function linkqqbos99() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=");}
 function link303hoki() {location.replace("https://eworldexternal.com/register/B48RPJDN");}
-function linkjet88bet() {location.replace("https://jet88jac.site/?ref=babisexy");}
+function linkjet88bet() {location.replace("https://jet88intel.space/?ref=babisexy");}
 function linkmpo369() {location.replace("https://mpo369bj.com/register/JQPK80KM");}
 function link8bettingan() {location.replace("https://link7.bettingan.vip/register?ref=A3MZLAD001VE");}
 function linkmpo08() {location.replace("https://mpo08dna.xyz/register/Q2RDGN20");}
 function linkdewatogel() {location.replace("https://dwtjoswin.space/register?referral_code=babisexy");}
 function linkkas138() {location.replace("https://palugada-new.pages.dev/");}
-function linkhokiwin() {location.replace("https://hokiwinlife.website/register/4372MNN9");}
+function linkhokiwin() {location.replace("https://hokiwinlogina.website/register/4372MNN9");}
 function linkmpocasino() {location.replace("https://mpocasino-verse.com/register/J5K2PQG6");}
 function linkn77toto() {location.replace("https://palugada-new.pages.dev/");}
 function linkjetplay88() {location.replace("https://palugada-new.pages.dev/");}
-function linkwis77() {location.replace("https://wis77xmas.com/register/MJ54RJPR");}
+function linkwis77() {location.replace("https://king-of-great.com/register/MJ54RJPR");}
 function linkmpo111() {location.replace("https://mpo111satu.xyz/register/67053GLN");}
 function linkzona66() {location.replace("https://zona66a14.site/register/L7NQ2837");}
 function linkgacorbos88() {location.replace("https://blc.gacorbos88pr.blog/register?ref=GS2ABAD018U7");}
@@ -111,7 +111,7 @@ function linknagatop() {location.replace("https://nagatopkamu.online/register?re
 function linkjnt777() {location.replace("https://link04.aksesjnt777.com/register?ref=zfPtLXt");}
 function linkjnt77() {location.replace("https://jnt77tuesdayjackpot.com/daftar?ref_id=d58f8fa7");}
 function linkfijislot() {location.replace("https://link6.fijislot7.store/register?ref=VABAAA1007PG");}
-function linkraja168() {location.replace("https://link12.raja168l.fit/register?ref=MKPAFAA00O6K");}
+function linkraja168() {location.replace("https://link13.raja168l.fit/register?ref=MKPAFAA00O6K");}
 function linkmegabandar() {location.replace("https://palugada-new.pages.dev/");}
 function linkbagus88() {location.replace("https://palugada-new.pages.dev/");}
 function linkneo177() {location.replace("https://neo177berkumandang.com/register?ref=babisexy");}
@@ -119,7 +119,7 @@ function linkkiw69() {location.replace("https://domkiw69.com/register?ref=E3MDNA
 function linkmpo333() {location.replace("https://mpo333loginb.website/register/R9D37GGR");}
 function link66kone() {location.replace("https://palugada-new.pages.dev/");}
 function linkligahoki() {location.replace("https://palugada-new.pages.dev/");}
-function linkrajampo() {location.replace("https://link02.raj4mpo.com/register/L7NQ26DL");}
+function linkrajampo() {location.replace("https://link03.raj4mpo.com/register/L7NQ26DL");}
 function linkamavi88() {location.replace("https://zuckamavi.website/register/PB2LRN11");}
 function linkbaron4d() {location.replace("https://baron26.site/mobile/register?ref=babisexy");}
 function linkmansion77() {location.replace("https://palugada-new.pages.dev/");}
@@ -127,7 +127,7 @@ function linkjawara88() {location.replace("https://www.partjwr88.site/register?r
 function linkmega38() {location.replace("https://palugada-new.pages.dev/");}
 function linkgacor88() {location.replace("https://palugada-new.pages.dev/");}
 function linkmpo888() {location.replace("https://lp2.mpo888games.link/register/437GR640");}
-function linkpreman69() {location.replace("https://preman69max.com/daftar?ref=babisexy");}
+function linkpreman69() {location.replace("https://xn--w8jwgm86z.xn--q9jyb4c/daftar?ref=babisexy");}
 function linksgpslot() {location.replace("https://palugada-new.pages.dev/");}
 function linkmpo777() {location.replace("https://neo.mpo777spesial.com/register/R9D37PR2");}
 function linkkingtoto() {location.replace("https://palugada-new.pages.dev/");}
@@ -144,7 +144,7 @@ function linkpokerbo() {location.replace("http://pkbnibos.com/ref/babisexy");}
 function linkhoki138() {location.replace("https://palugada-new.pages.dev/");}
 function linktatabet() {location.replace("http://tatabet1225b.com/?ref=babisexy&p=h");}
 function linksatutogel() {location.replace("https://satutogel1225b.com/register?referral_code=babisexy");}
-function linkindogenting() {location.replace("http://indogenting1125c.com/?ref=babisexy&p=h");}
+function linkindogenting() {location.replace("http://indogenting1225.com/?ref=babisexy&p=h");}
 function linksupertogel() {location.replace("http://superdunia.tempatgunting.com/Register.aspx?ref=2059084&aid=32");}
 function linkibutogel() {location.replace("https://palugada-new.pages.dev/");}
 function linkamanah77() {location.replace("https://palugada-new.pages.dev/");}
@@ -166,9 +166,9 @@ function linktkp303() {location.replace("https://tkp303link.online/?ref=babisexy
 function linkvit88() {location.replace("https://palugada-new.pages.dev/");}
 function linkindoslot88() {location.replace("https://palugada-new.pages.dev/");}
 function linksinarmas77() {location.replace("https://palugada-new.pages.dev/");}
-function linkpentaslot() {location.replace("https://apenta12.xyz/?ref=babisexy");}
+function linkpentaslot() {location.replace("https://apenta2.xyz/?ref=babisexy");}
 function linkgaza88() {location.replace("https://gaza23.sbs/?ref=babisexy");}
-function linkcabe777() {location.replace("https://cabe777gacor4.top/register/0K71JP0Q");}
+function linkcabe777() {location.replace("https://cabe777gacor6.top/register/0K71JP0Q");}
 function linkneko9() {location.replace("https://neko9membara.com/register?ref=babisexy");}
 function linkboss177() {location.replace("https://boss177loyal.com/register?ref=babisexy");}
 function linkcahaya268() {location.replace("https://palugada-new.pages.dev/");}
@@ -177,7 +177,7 @@ function linkauto177() {location.replace("https://palugada-new.pages.dev/");}
 function linkscbet88() {location.replace("https://sukahitam2.store/ref/?rid=rf1vQ5c2b68");}
 function linksinggah4d() {location.replace("https://singgah4d21.com/?ref=babisexy");}
 function linkpmg88() {location.replace("https://palugada-new.pages.dev/");}
-function linkindoagen188() {location.replace("https://indoagent188.cv/register/G91NBMR3");}
+function linkindoagen188() {location.replace("https://kopihoki.beauty/register/G91NBMR3");}
 function linkapi77() {location.replace("https://palugada-new.pages.dev/");}
 function linkjoki55() {location.replace("https://jk55wwbss.store/register?ref=COXGNBO00197");}
 function linknusabet() {location.replace("https://palugada-new.pages.dev/");}
@@ -199,22 +199,22 @@ function linkarobet88() {location.replace("https://palugada-new.pages.dev/");}
 function linkserbacasino() {location.replace("https://mejaserbacasino.vip/register.jsp?ref=HUZQDFUZFpsDJ0R=");}
 function linkpepe77() {location.replace("https://palugada-new.pages.dev/");}
 function linkbom29toto() {location.replace("https://palugada-new.pages.dev/");}
-function linkbetcoinasia() {location.replace("https://betkoinasia.xyz/?ref=babisexy");}
+function linkbetcoinasia() {location.replace("https://aygfx36288.btcasia88.vip/?ref=babisexy");}
 function linkkaikoslot() {location.replace("https://palugada-new.pages.dev/");}
 function linkmega55() {location.replace("https://link1.mega55indo.com/register?ref=ZGGIGAB0100Y");}
 function linkwishslot() {location.replace("https://wish-slot.bond/register?ref=VXZKQR2");}
 function linkpintutogel() {location.replace("https://pintutogelone.it.com/register?referral_code=babisexy");}
 function linknyaitogel() {location.replace("https://nyaimacau.it.com/register?referral_code=babisexy");}
 function linkaurajp() {location.replace("https://aurajp148.makeup/?ref=babisexy");}
-function linkdauntogel() {location.replace("https://xxxdaun.com/register?referral_code=babisexy");}
+function linkdauntogel() {location.replace("https://palugada-new.pages.dev/");}
 function linkpiontogel() {location.replace("https://pionlala2.it.com/register?referral_code=babisexy");}
 function linkjadijp() {location.replace("https://jadijppastitop.schlepzig.com/?ref=babisexy");}
-function linkcvtogel() {location.replace("https://ffm4fvs7vn.caricvtogel.pro/register?referral_code=babisexy");}
+function linkcvtogel() {location.replace("https://palugada-new.pages.dev/");}
 function linkmpo555() {location.replace("https://mpo555-click.xyz/register/N7GRRDMG");}
 function linkwisdom77() {location.replace("https://vip.wisdom77od.shop/?ref=babisexy");}
-function linkharbet35() {location.replace("https://a3.harbet35.vip/?ref=babisexy");}
+function linkharbet35() {location.replace("https://a4.harbet35.vip/?ref=babisexy");}
 function linkpoa88() {location.replace("https://poa88.it.com/?ref=babisexy&p=h");}
-function linkkenzo188() {location.replace("https://empirekenzo188.com/register?ref=A3MMMAFFQDOP");}
+function linkkenzo188() {location.replace("https://sketchbookmagazine.com/register?ref=A3MMMAFFQDOP");}
 function linkeqn777() {location.replace("https://palugada-new.pages.dev/");}
 function linklembagatoto() {location.replace("https://fb.lembagatotosolusi.org/register?referral_code=babisexy");}
 function linkroyal123() {location.replace("https://www.royal123mx.com/register?ref=F88M1AN0092E");}
@@ -240,7 +240,7 @@ function linkdewa234() {location.replace("https://dewa234bukti.com/register/Q268
 function linkjudi388() {location.replace("https://ribujd.top/register?reff=babisexy");}
 function linkdewakoin() {location.replace("https://dewakoin08.com/register?ref=PABAAAP00699");}
 function linkole777() {location.replace("https://palugada-new.pages.dev/");}
-function link8togel() {location.replace("https://8tburn.com/referral/BABISEXY");}
+function link8togel() {location.replace("https://8togelpod.com/referral/BABISEXY");}
 function linkkas138() {location.replace("https://kas138fat.com/?ref=babisexy");}
 function linkyamaha88bet() {location.replace("https://palugada-new.pages.dev/");}
 function linkmuslimbet() {location.replace("https://palugada-new.pages.dev/");}
@@ -283,11 +283,11 @@ function linkpastigacor() {location.replace("https://palugada-new.pages.dev/");}
 function linkpasticuan() {location.replace("https://palugada-new.pages.dev/");}
 function linkpusatgacor() {location.replace("https://palugada-new.pages.dev/");}
 function linkmurnislot() {location.replace("https://palugada-new.pages.dev/");}
-function linkhokiraja() {location.replace("https://hokirajaleft.site/daftar?ref=babisexy");}
+function linkhokiraja() {location.replace("https://hokirajamonster.space/daftar?ref=babisexy");}
 function link12naga() {location.replace("https://palugada-new.pages.dev/");}
 function linkmadu303() {location.replace("https://palugada-new.pages.dev/");}
 function linkprimatoto() {location.replace("https://pmtchuan.ink/register?referral_code=babisexy");}
-function linkpele4d() {location.replace("https://gampangmenangdipele4d.xyz/?ref=babisexy");}
+function linkpele4d() {location.replace("https://cuandipele4d.xyz/?ref=babisexy");}
 function linksatelittogel() {location.replace("http://satelit36.tokomajubersama.com/Register.aspx?ref=2728533&aid=22");}
 function linkrans4d() {location.replace("https://rans4d-jago.net/?ref=babisexy");}
 function linksamosir88() {location.replace("https://mesugah.svrffeokk.store/register?ref=Nd3fvK7");}
@@ -305,6 +305,7 @@ function linknuhunslot() {location.replace("https://nuhunslott.homes/?Ref=8AuFNH
 function linkvespa69() {location.replace("https://vsp69.agency/register?ref=h3p7Tj7");}
 function linkmultibet88() {location.replace("https://palugada-new.pages.dev/");}
 function linkoke62() {location.replace("https://palugada-new.pages.dev/");}
+
 
 
 
