@@ -89,7 +89,7 @@ function linkkadobet() {location.replace("https://palugada-new.pages.dev/");}
 function linkmpo222() {location.replace("https://mpo222capital.com/register/JK86G0Y4");}
 function linkqqbos99() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=");}
 function link303hoki() {location.replace("https://eworldexternal.com/register/B48RPJDN");}
-function linkjet88bet() {location.replace("https://jet88intel.space/?ref=babisexy");}
+function linkjet88bet() {location.replace("https://jet88pas.site/?ref=babisexy");}
 function linkmpo369() {location.replace("https://mpo369bj.com/register/JQPK80KM");}
 function link8bettingan() {location.replace("https://link7.bettingan.vip/register?ref=A3MZLAD001VE");}
 function linkmpo08() {location.replace("https://mpo08dna.xyz/register/Q2RDGN20");}
@@ -305,6 +305,7 @@ function linknuhunslot() {location.replace("https://nuhunslott.icu/?Ref=8AuFNHky
 function linkvespa69() {location.replace("https://vsp69.agency/register?ref=h3p7Tj7");}
 function linkmultibet88() {location.replace("https://palugada-new.pages.dev/");}
 function linkoke62() {location.replace("https://palugada-new.pages.dev/");}
+
 
 
 
