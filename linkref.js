@@ -152,7 +152,7 @@ function linkslotmacau188() {location.replace("https://palugada-new.pages.dev/")
 function linkeraplay88() {location.replace("https://eraply888.com/?ref=babisexy");}
 function linkjitu77() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=19134327&group=0");}
 function linkkudetabet98() {location.replace("https://palugada-new.pages.dev/");}
-function linkfungame777() {location.replace("https://secure.livechatinc.com/licence/13061724/v2/open_chat.cgi");}
+function linkfungame777() {location.replace("https://palugada-new.pages.dev/");}
 function linkflash303() {location.replace("https://palugada-new.pages.dev/");}
 function linkm88() {location.replace("https://www.m88bhz.com/register?RafID=13259422");}
 function linkdafabet() {location.replace("https://www.cs-livechat.com/webchat/v3/chat/id/dafabet");}
@@ -305,6 +305,7 @@ function linknuhunslot() {location.replace("https://nuhunslott.shop/?Ref=8AuFNHk
 function linkvespa69() {location.replace("https://vsp69.agency/register?ref=h3p7Tj7");}
 function linkmultibet88() {location.replace("https://palugada-new.pages.dev/");}
 function linkoke62() {location.replace("https://palugada-new.pages.dev/");}
+
 
 
 
