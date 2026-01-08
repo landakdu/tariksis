@@ -138,7 +138,7 @@ function linkajr88() {location.replace("https://palugada-new.pages.dev/");}
 function linkhoki178() {location.replace("https://palugada-new.pages.dev/");}
 function linkdewagacor77() {location.replace("https://palugada-new.pages.dev/");}
 function linkkudapoker() {location.replace("http://loginkudapoker.wiki/ref/babisexy");}
-function linkvipbet88() {location.replace("http://vipbet88nikmati.com/?ref=babisexy");}
+function linkvipbet88() {location.replace("http://vipbet88safari.com/?ref=babisexy");}
 function linkpesiar88() {location.replace("https://palugada-new.pages.dev/");}
 function linkpokerbo() {location.replace("http://pkbnibos.com/ref/babisexy");}
 function linkhoki138() {location.replace("https://palugada-new.pages.dev/");}
@@ -212,7 +212,7 @@ function linkjadijp() {location.replace("https://jadijppastitop.schlepzig.com/?r
 function linkcvtogel() {location.replace("https://palugada-new.pages.dev/");}
 function linkmpo555() {location.replace("https://mpo555-click.xyz/register/N7GRRDMG");}
 function linkwisdom77() {location.replace("https://vip.wisdom77od.shop/?ref=babisexy");}
-function linkharbet35() {location.replace("https://a4.harbet35.vip/?ref=babisexy");}
+function linkharbet35() {location.replace("https://a6.harbet35.vip/?ref=babisexy");}
 function linkpoa88() {location.replace("https://poa88.it.com/?ref=babisexy&p=h");}
 function linkkenzo188() {location.replace("https://kenzo188nation.com/register?ref=A3MMMAFFQDOP");}
 function linkeqn777() {location.replace("https://palugada-new.pages.dev/");}
@@ -221,7 +221,7 @@ function linkroyal123() {location.replace("https://www.royal123mx.com/register?r
 function linkgacorslot() {location.replace("https://gacorslods.fit/register/670567G8");}
 function linkagenslot168() {location.replace("https://palugada-new.pages.dev/");}
 function linkskslot() {location.replace("https://mantauterus.com/register?ref=babisexy");}
-function linklotuspelangi() {location.replace("https://mpocasino-viva.com/daftar?ref=babisexy");}
+function linklotuspelangi() {location.replace("https://lotuspelangi.agency/daftar?ref=babisexy");}
 function linkplaza4d() {location.replace("https://palugada-new.pages.dev/");}
 function linkalexabet88() {location.replace("https://alexabet88berlian.com/register?ref=5987711");}
 function linkslotoppo88() {location.replace("https://palugada-new.pages.dev/");} document.getElementById('yourform').submit();
@@ -305,6 +305,7 @@ function linknuhunslot() {location.replace("https://nuhunslott.sbs/?Ref=8AuFNHky
 function linkvespa69() {location.replace("https://vsp69.agency/register?ref=h3p7Tj7");}
 function linkmultibet88() {location.replace("https://palugada-new.pages.dev/");}
 function linkoke62() {location.replace("https://palugada-new.pages.dev/");}
+
 
 
 
