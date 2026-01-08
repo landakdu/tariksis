@@ -237,7 +237,7 @@ function linksquad777() {location.replace("https://palugada-new.pages.dev/");}
 function linkhoki77() {location.replace("https://palugada-new.pages.dev/");}
 function linkunoplay() {location.replace("https://unoplay7star.xyz?ref=747339CF");}
 function linkdewa234() {location.replace("https://dewa234bukti.com/register/Q268BG84");}
-function linkjudi388() {location.replace("https://ribujd.top/register?reff=babisexy");}
+function linkjudi388() {location.replace("https://judi388super.com/register?reff=babisexy");}
 function linkdewakoin() {location.replace("https://dewakoin08.com/register?ref=PABAAAP00699");}
 function linkole777() {location.replace("https://palugada-new.pages.dev/");}
 function link8togel() {location.replace("https://8togelpod.com/referral/BABISEXY");}
@@ -305,6 +305,7 @@ function linknuhunslot() {location.replace("https://nuhunslott.sbs/?Ref=8AuFNHky
 function linkvespa69() {location.replace("https://vsp69.agency/register?ref=h3p7Tj7");}
 function linkmultibet88() {location.replace("https://palugada-new.pages.dev/");}
 function linkoke62() {location.replace("https://palugada-new.pages.dev/");}
+
 
 
 
