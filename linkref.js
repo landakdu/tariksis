@@ -1,4 +1,5 @@
 function linkdewi138() {location.replace("https://palugada-new.pages.dev/");}
+function linkqqslot() {location.replace("https://palugada-new.pages.dev/");}
 function linkdewa86() {location.replace("https://palugada-new.pages.dev/");}
 function linkvietnam303() {location.replace("https://palugada-new.pages.dev/");}
 function linkjoin999() {location.replace("https://fortune.playjoin999.space/register?ref=GCAEAA49146");}
@@ -306,6 +307,7 @@ function linknuhunslot() {location.replace("https://nuhunslott.rest/?Ref=8AuFNHk
 function linkvespa69() {location.replace("https://vsp69.agency/register?ref=h3p7Tj7");}
 function linkmultibet88() {location.replace("https://palugada-new.pages.dev/");}
 function linkoke62() {location.replace("https://palugada-new.pages.dev/");}
+
 
 
 
