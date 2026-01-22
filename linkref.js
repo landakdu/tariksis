@@ -272,8 +272,8 @@ function linkslotluar() {location.replace("https://palugada-new.pages.dev/");}
 function linkslotgacor() {location.replace("https://palugada-new.pages.dev/");}
 function linkslotjp() {location.replace("https://palugada-new.pages.dev/");}
 function linkslotmaxwin() {location.replace("https://palugada-new.pages.dev/");}
-function linkkw303() {location.replace("https://kw303jp.store/?ref=babisexy");}
-function linkcumi787() {location.replace("https://palugada-new.pages.dev/");}
+function linkkw303() {location.replace("https://slotkw303.com/?ref=babisexy");}
+function linkcumi787() {location.replace("https://3cumi787.online/daftar?ref_id=d58f8fa7");}
 function linkterminal4d() {location.replace("https://terminaljuara.sbs/register?referral_code=babisexy");}
 function linkmenara123() {location.replace("https://palugada-new.pages.dev/");}
 function linkslot1131() {location.replace("https://palugada-new.pages.dev/");}
@@ -305,6 +305,7 @@ function linknuhunslot() {location.replace("https://nuhunslott.rest/?Ref=8AuFNHk
 function linkvespa69() {location.replace("https://vsp69.agency/register?ref=h3p7Tj7");}
 function linkmultibet88() {location.replace("https://palugada-new.pages.dev/");}
 function linkoke62() {location.replace("https://palugada-new.pages.dev/");}
+
 
 
 
