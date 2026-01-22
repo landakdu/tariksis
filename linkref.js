@@ -76,7 +76,7 @@ function linkslotqris10ribu() {location.replace("https://palugada-new.pages.dev/
 function linkslotqrisgacor() {location.replace("https://palugada-new.pages.dev/");}
 function linkslotqrismantap() {location.replace("https://palugada-new.pages.dev/");}
 function linkslotqristanpapotongan() {location.replace("https://palugada-new.pages.dev/");}
-function linktokekwin() {location.replace("https://rumahtokek.com/daftar?ref=babisexy");}
+function linktokekwin() {location.replace("https://pohontokek.com/daftar?ref=babisexy");}
 function linkpphoki() {location.replace("https://pphokimantap.cam/?ref=babisexy");}
 function linkaw8() {location.replace("https://www.aw8petir.com/id-id/register?refid=ymbrprab");}
 function linkhoki177() {location.replace("https://prohoki177.com/register?ref=babisexy");}
@@ -305,3 +305,4 @@ function linknuhunslot() {location.replace("https://nuhunslott.rest/?Ref=8AuFNHk
 function linkvespa69() {location.replace("https://vsp69.agency/register?ref=h3p7Tj7");}
 function linkmultibet88() {location.replace("https://palugada-new.pages.dev/");}
 function linkoke62() {location.replace("https://palugada-new.pages.dev/");}
+
