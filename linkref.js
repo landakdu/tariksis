@@ -62,7 +62,7 @@ function linkmekarbet() {location.replace("https://palugada-new.pages.dev/");}
 function linksukabet() {location.replace("https://palugada-new.pages.dev/");}
 function linkrajacuan() {location.replace("https://rcpasti.pro/?ref=babisexy&p=h");}
 function linkmposport() {location.replace("https://01.mposport.games/register/J5K2PN3M");}
-function linkmposlot() {location.replace("https://mikeunes.com/register/DRLD3026");}
+function linkmposlot() {location.replace("https://mposlotjump.xyz/register/DRLD3026");}
 function linkmpopoker() {location.replace("https://palugada-new.pages.dev/");}
 function linkmpogacor() {location.replace("https://a4.mpogacorjoss.store/register/G91ND59B");}
 function linkmpo() {location.replace("https://palugada-new.pages.dev/");}
@@ -307,6 +307,7 @@ function linknuhunslot() {location.replace("https://nuhunslott.rest/?Ref=8AuFNHk
 function linkvespa69() {location.replace("https://vsp69.tech/register?ref=h3p7Tj7");}
 function linkmultibet88() {location.replace("https://palugada-new.pages.dev/");}
 function linkoke62() {location.replace("https://palugada-new.pages.dev/");}
+
 
 
 
