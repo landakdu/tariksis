@@ -147,7 +147,7 @@ function linkhoki138() {location.replace("https://palugada-new.pages.dev/");}
 function linktatabet() {location.replace("http://tatabet1225b.com/?ref=babisexy&p=h");}
 function linksatutogel() {location.replace("https://satutogel1225b.com/register?referral_code=babisexy");}
 function linkindogenting() {location.replace("http://indogenting1225.com/?ref=babisexy&p=h");}
-function linksupertogel() {location.replace("http://superdunia.tempatgunting.com/Register.aspx?ref=2059084&aid=32");}
+function linksupertogel() {location.replace("http://superpikat5.tempatgunting.com/Register.aspx?ref=2059084&aid=32");}
 function linkibutogel() {location.replace("https://palugada-new.pages.dev/");}
 function linkamanah77() {location.replace("https://palugada-new.pages.dev/");}
 function linkslotmacau188() {location.replace("https://palugada-new.pages.dev/");}
@@ -307,6 +307,7 @@ function linknuhunslot() {location.replace("https://nuhunslott.rest/?Ref=8AuFNHk
 function linkvespa69() {location.replace("https://vsp69.tech/register?ref=h3p7Tj7");}
 function linkmultibet88() {location.replace("https://palugada-new.pages.dev/");}
 function linkoke62() {location.replace("https://palugada-new.pages.dev/");}
+
 
 
 
