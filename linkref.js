@@ -12,7 +12,7 @@ function linkpusatjudionline() {location.replace("https://palugada-new.pages.dev
 function linkkaratetoto() {location.replace("https://ggkaratetoto.site/register?r=zk174u");}
 function linkcapitaltoto() {location.replace("https://palugada-new.pages.dev/");}
 function linkslot88() {location.replace("https://palugada-new.pages.dev/");}
-function linkwatitoto() {location.replace("https://wati.watijakarta.online/?referralid=babisexy");}
+function linkwatitoto() {location.replace("https://wati80412.com/?referralid=babisexy");}
 function linkgacor22() {location.replace("https://palugada-new.pages.dev/");}
 function linkslot777() {location.replace("https://palugada-new.pages.dev/");}
 function linkrajamahjong() {location.replace("https://www.bs.rajamahjong.store/register?ref=GCAAAJ1075060");}
@@ -307,6 +307,7 @@ function linknuhunslot() {location.replace("https://nuhunslott.rest/?Ref=8AuFNHk
 function linkvespa69() {location.replace("https://vsp69.tech/register?ref=h3p7Tj7");}
 function linkmultibet88() {location.replace("https://palugada-new.pages.dev/");}
 function linkoke62() {location.replace("https://palugada-new.pages.dev/");}
+
 
 
 
