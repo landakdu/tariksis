@@ -104,7 +104,7 @@ function linkjetplay88() {location.replace("https://palugada-new.pages.dev/");}
 function linkwis77() {location.replace("https://wis77flying.com/register/MJ54RJPR");}
 function linkmpo111() {location.replace("https://mpo111satu.xyz/register/67053GLN");}
 function linkzona66() {location.replace("https://zona66a3.lol/register/L7NQ2837");}
-function linkgacorbos88() {location.replace("https://blc.gacorbos88pr.blog/register?ref=GS2ABAD018U7");}
+function linkgacorbos88() {location.replace("https://sbb.gacorbos88nv.com/register?ref=GS2ABAD018U7");}
 function linkyakinslot88() {location.replace("https://palugada-new.pages.dev/");}
 function linkome88() {location.replace("https://palugada-new.pages.dev/");}
 function linkmusangwin() {location.replace("https://www.koilmusangwin.com/register?ref=2M3TNAFG0EVH");}
@@ -307,6 +307,7 @@ function linknuhunslot() {location.replace("https://nuhunslott.rest/?Ref=8AuFNHk
 function linkvespa69() {location.replace("https://vsp69.tech/register?ref=h3p7Tj7");}
 function linkmultibet88() {location.replace("https://palugada-new.pages.dev/");}
 function linkoke62() {location.replace("https://palugada-new.pages.dev/");}
+
 
 
 
