@@ -267,7 +267,7 @@ function linkslotamanah() {location.replace("https://palugada-new.pages.dev/");}
 function linkslotmania() {location.replace("https://palugada-new.pages.dev/");}
 function linkyoyo88() {location.replace("https://tampicosmexicanrestaurant.com/register?ref=mPNzLV0");}
 function linksarang777() {location.replace("https://sarangahli.pro/?Ref=QVOjdLHP");}
-function linknagahoki88() {location.replace("https://situs.nagahoki88-pro.online/register?ref=GCAAAA577414");}
+function linknagahoki88() {location.replace("https://super.nagahoki88-pro.space/register?ref=GCAAAA577414");}
 function linknvmslot898() {location.replace("https://palugada-new.pages.dev/");}
 function linkslotthailand() {location.replace("https://roosterswpb.com/register?referral=babisexy");}
 function linkslotluar() {location.replace("https://palugada-new.pages.dev/");}
@@ -297,16 +297,17 @@ function linkminitoto() {location.replace("https://minikamu.site/register?referr
 function linkwdyuk() {location.replace("https://wd25.site/20241114/?referralid=babisexy");}
 function linktauslot88() {location.replace("https://palugada-new.pages.dev/");}
 function linkwindah99() {location.replace("https://slotwindah99ag.info/ref/?rid=rf1n95ca092");}
-function linkayamjp() {location.replace("https://ev.ayamjpgege.com/?ref=babisexy");}
+function linkayamjp() {location.replace("https://ayamjp.com/?ref=babisexy");}
 function linktexas88() {location.replace("https://palugada-new.pages.dev/");}
 function linkkampungbet() {location.replace("https://kampungsilat.xyz/daftar?ref_id=d58f8fa7");}
 function linksloto89() {location.replace("https://palugada-new.pages.dev/");}
 function linkrokokbet() {location.replace("https://rokokbetcoba.live/register?referral_code=babisexy");}
 function linkratukidul88() {location.replace("https://linkgacorresmi.com/?ref=babisexy");}
-function linknuhunslot() {location.replace("https://nuhunslott.rest/?Ref=8AuFNHky");}
+function linknuhunslot() {location.replace("https://nuhunslotoke.shop/?Ref=8AuFNHky");}
 function linkvespa69() {location.replace("https://vsp69.tech/register?ref=h3p7Tj7");}
 function linkmultibet88() {location.replace("https://palugada-new.pages.dev/");}
 function linkoke62() {location.replace("https://palugada-new.pages.dev/");}
+
 
 
 
