@@ -169,7 +169,7 @@ function linkvit88() {location.replace("https://palugada-new.pages.dev/");}
 function linkindoslot88() {location.replace("https://palugada-new.pages.dev/");}
 function linksinarmas77() {location.replace("https://palugada-new.pages.dev/");}
 function linkpentaslot() {location.replace("https://7.pentaslot.de/?ref=babisexy");}
-function linkgaza88() {location.replace("https://hebat9.site/?ref=babisexy");}
+function linkgaza88() {location.replace("https://gazaa9.cfd/?ref=babisexy");}
 function linkcabe777() {location.replace("https://cabe777gacor8.top/register/0K71JP0Q");}
 function linkneko9() {location.replace("https://neko9membara.com/register?ref=babisexy");}
 function linkboss177() {location.replace("https://boss177loyal.com/register?ref=babisexy");}
@@ -307,6 +307,7 @@ function linknuhunslot() {location.replace("https://nuhunslott.rest/?Ref=8AuFNHk
 function linkvespa69() {location.replace("https://vsp69.tech/register?ref=h3p7Tj7");}
 function linkmultibet88() {location.replace("https://palugada-new.pages.dev/");}
 function linkoke62() {location.replace("https://palugada-new.pages.dev/");}
+
 
 
 
