@@ -128,7 +128,7 @@ function linkmansion77() {location.replace("https://palugada-new.pages.dev/");}
 function linkjawara88() {location.replace("https://www.partjwr88.site/register?ref=ZABABAW00904");}
 function linkmega38() {location.replace("https://palugada-new.pages.dev/");}
 function linkgacor88() {location.replace("https://palugada-new.pages.dev/");}
-function linkmpo888() {location.replace("https://lp2.mpo888games.link/register/437GR640");}
+function linkmpo888() {location.replace("https://mpo888enter.com/register/437GR640");}
 function linkpreman69() {location.replace("https://xn--w8jwgm86z.xn--q9jyb4c/daftar?ref=babisexy");}
 function linksgpslot() {location.replace("https://palugada-new.pages.dev/");}
 function linkmpo777() {location.replace("https://mpo777sea.com/register/R9D37PR2");}
@@ -307,6 +307,7 @@ function linknuhunslot() {location.replace("https://nuhunslott.rest/?Ref=8AuFNHk
 function linkvespa69() {location.replace("https://vsp69.tech/register?ref=h3p7Tj7");}
 function linkmultibet88() {location.replace("https://palugada-new.pages.dev/");}
 function linkoke62() {location.replace("https://palugada-new.pages.dev/");}
+
 
 
 
