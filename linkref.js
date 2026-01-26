@@ -265,7 +265,7 @@ function linkslotmandiri() {location.replace("https://palugada-new.pages.dev/");
 function linkslotsyariah() {location.replace("https://palugada-new.pages.dev/");}
 function linkslotamanah() {location.replace("https://palugada-new.pages.dev/");}
 function linkslotmania() {location.replace("https://palugada-new.pages.dev/");}
-function linkyoyo88() {location.replace("https://tampicosmexicanrestaurant.com/register?ref=mPNzLV0");}
+function linkyoyo88() {location.replace("https://yoyo88slot.xyz/register?ref=mPNzLV0");}
 function linksarang777() {location.replace("https://sarangahli.pro/?Ref=QVOjdLHP");}
 function linknagahoki88() {location.replace("https://super.nagahoki88-pro.space/register?ref=GCAAAA577414");}
 function linknvmslot898() {location.replace("https://palugada-new.pages.dev/");}
@@ -307,6 +307,7 @@ function linknuhunslot() {location.replace("https://nuhunslotoke.shop/?Ref=8AuFN
 function linkvespa69() {location.replace("https://vsp69.tech/register?ref=h3p7Tj7");}
 function linkmultibet88() {location.replace("https://palugada-new.pages.dev/");}
 function linkoke62() {location.replace("https://palugada-new.pages.dev/");}
+
 
 
 
