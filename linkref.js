@@ -302,11 +302,12 @@ function linktexas88() {location.replace("https://www.judisuhu.com/");}
 function linkkampungbet() {location.replace("https://kampungsilat.xyz/daftar?ref_id=d58f8fa7");}
 function linksloto89() {location.replace("https://www.judisuhu.com/");}
 function linkrokokbet() {location.replace("https://rokokbetcoba.live/register?referral_code=babisexy");}
-function linkratukidul88() {location.replace("https://linkgacorresmi.com/?ref=babisexy");}
-function linknuhunslot() {location.replace("https://nuhunslotoke.shop/?Ref=8AuFNHky");}
+function linkratukidul88() {location.replace("https://teamratukidul88.xyz/?ref=babisexy");}
+function linknuhunslot() {location.replace("https://nuhunslott.site/?Ref=8AuFNHky");}
 function linkvespa69() {location.replace("https://vsp69.tech/register?ref=h3p7Tj7");}
 function linkmultibet88() {location.replace("https://www.judisuhu.com/");}
 function linkoke62() {location.replace("https://www.judisuhu.com/");}
+
 
 
 
