@@ -56,7 +56,7 @@ function linktogeltoto() {location.replace("https://www.judisuhu.com/");}
 function linkarenabola() {location.replace("https://www.judisuhu.com/");}
 function linkareabola() {location.replace("https://www.judisuhu.com/");}
 function linkagenliga() {location.replace("https://www.judisuhu.com/");}
-function linkligabola() {location.replace("https://ligabola4.com/?ref=7F8D19");}
+function linkligabola() {location.replace("https://17e.ligabola4.com/?ref=7F8D19");}
 function linkagentaruhan() {location.replace("https://www.judisuhu.com/");}
 function linkmekarbet() {location.replace("https://www.judisuhu.com/");}
 function linksukabet() {location.replace("https://www.judisuhu.com/");}
@@ -307,6 +307,7 @@ function linknuhunslot() {location.replace("https://nuhunslott.site/?Ref=8AuFNHk
 function linkvespa69() {location.replace("https://vsp69.tech/register?ref=h3p7Tj7");}
 function linkmultibet88() {location.replace("https://www.judisuhu.com/");}
 function linkoke62() {location.replace("https://www.judisuhu.com/");}
+
 
 
 
