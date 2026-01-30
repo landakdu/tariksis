@@ -84,7 +84,7 @@ function linkmpo1221() {location.replace("https://mpo1221luck.info/register/5M0N
 function linkmpo2121() {location.replace("https://yourmpo2121.org/register/6705P15J");}
 function linkmpo1881() {location.replace("https://mpocep1881.com/register/DRLD31RJ");}
 function linkmpo88asia() {location.replace("https://mpo88asiatwo.net/register/6705PB91");}
-function linkmpo383() {location.replace("https://www.mpo383-eee.com/register/B4L1R211");}
+function linkmpo383() {location.replace("https://mpo383-max.org/register/B4L1R211");}
 function linknamakecilx() {location.replace("https://www.judisuhu.com/");}
 function linkolxtoto() {location.replace("https://genius2.olxtoto.dev/register?referral_code=babisexy");}
 function linkslotqris10k() {location.replace("https://www.judisuhu.com/");}
@@ -112,7 +112,7 @@ function linkmpo08() {location.replace("https://mpo08usd.xyz/register/Q2RDGN20")
 function linkdewatogel() {location.replace("https://besdp46516.dwtku.info/register?referral_code=babisexy");}
 function linkkas138() {location.replace("https://www.judisuhu.com/");}
 function linkhokiwin() {location.replace("https://hokiwinlogina.website/register/4372MNN9");}
-function linkmpocasino() {location.replace("https://mpocasino-multi.com/register/J5K2PQG6");}
+function linkmpocasino() {location.replace("https://mpocasino-joker.com/register/J5K2PQG6");}
 function linkn77toto() {location.replace("https://www.judisuhu.com/");}
 function linkjetplay88() {location.replace("https://www.judisuhu.com/");}
 function linkwis77() {location.replace("https://wis77-mighty.com/register/MJ54RJPR");}
@@ -224,7 +224,7 @@ function linknyaitogel() {location.replace("https://nyaimacau.it.com/register?re
 function linkaurajp() {location.replace("https://aurajp148.makeup/?ref=babisexy");}
 function linkdauntogel() {location.replace("https://www.judisuhu.com/");}
 function linkpiontogel() {location.replace("https://pionlala2.it.com/register?referral_code=babisexy");}
-function linkjadijp() {location.replace("https://jadijppastitop.schlepzig.com/?ref=babisexy");}
+function linkjadijp() {location.replace("https://jadijpselalu.schlepzig.com/?ref=babisexy");}
 function linkcvtogel() {location.replace("https://www.judisuhu.com/");}
 function linkmpo555() {location.replace("https://mpo555-hok.xyz/register/N7GRRDMG");}
 function linkwisdom77() {location.replace("https://vip.wisdom77od.shop/?ref=babisexy");}
@@ -237,7 +237,7 @@ function linkroyal123() {location.replace("https://royal123ry.com/register?ref=F
 function linkgacorslot() {location.replace("https://gacorslods.fit/register/670567G8");}
 function linkagenslot168() {location.replace("https://www.judisuhu.com/");}
 function linkskslot() {location.replace("https://mantauterus.com/register?ref=babisexy");}
-function linklotuspelangi() {location.replace("https://lotuspelangi.agency/daftar?ref=babisexy");}
+function linklotuspelangi() {location.replace("https://lotuspelangi.date/daftar?ref=babisexy");}
 function linkplaza4d() {location.replace("https://www.judisuhu.com/");}
 function linkalexabet88() {location.replace("https://alexabet88u.net/register?ref=5987711");}
 function linkslotoppo88() {location.replace("https://www.judisuhu.com/");} document.getElementById('yourform').submit();
@@ -311,7 +311,7 @@ function linkminitoto() {location.replace("https://miniayam.site/register?referr
 function linkwdyuk() {location.replace("https://wd25.site/20241114/?referralid=babisexy");}
 function linktauslot88() {location.replace("https://www.judisuhu.com/");}
 function linkwindah99() {location.replace("https://slotwindah99ag.info/ref/?rid=rf1n95ca092");}
-function linkayamjp() {location.replace("https://ayamjp.com/?ref=babisexy");}
+function linkayamjp() {location.replace("https://u.ayamjpsub.com/?ref=babisexy");}
 function linktexas88() {location.replace("https://www.judisuhu.com/");}
 function linkkampungbet() {location.replace("https://kampungsilat.xyz/daftar?ref_id=d58f8fa7");}
 function linksloto89() {location.replace("https://www.judisuhu.com/");}
@@ -321,6 +321,7 @@ function linknuhunslot() {location.replace("https://nuhunslott.site/?Ref=8AuFNHk
 function linkvespa69() {location.replace("https://vsp69.tech/register?ref=h3p7Tj7");}
 function linkmultibet88() {location.replace("https://www.judisuhu.com/");}
 function linkoke62() {location.replace("https://www.judisuhu.com/");}
+
 
 
 
