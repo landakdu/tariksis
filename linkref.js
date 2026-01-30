@@ -193,7 +193,7 @@ function linkauto177() {location.replace("https://www.judisuhu.com/");}
 function linkscbet88() {location.replace("https://jiwacapung.xyz/ref/?rid=rf1vQ5c2b68");}
 function linksinggah4d() {location.replace("https:///?ref=babisexy");}
 function linkpmg88() {location.replace("https://www.judisuhu.com/");}
-function linkindoagen188() {location.replace("https://kopihoki.beauty/register/G91NBMR3");}
+function linkindoagen188() {location.replace("https://indoagent188.wiki/register/G91NBMR3");}
 function linkapi77() {location.replace("https://www.judisuhu.com/");}
 function linkjoki55() {location.replace("https://jk55wwbss.store/register?ref=COXGNBO00197");}
 function linknusabet() {location.replace("https://www.judisuhu.com/");}
@@ -321,6 +321,7 @@ function linknuhunslot() {location.replace("https://nuhunslott.site/?Ref=8AuFNHk
 function linkvespa69() {location.replace("https://vsp69.tech/register?ref=h3p7Tj7");}
 function linkmultibet88() {location.replace("https://www.judisuhu.com/");}
 function linkoke62() {location.replace("https://www.judisuhu.com/");}
+
 
 
 
