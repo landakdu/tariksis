@@ -29,7 +29,7 @@ function linkslot88() {location.replace("https://www.judisuhu.com/");}
 function linkwatitoto() {location.replace("https://wati81244.com/?referralid=babisexy");}
 function linkgacor22() {location.replace("https://www.judisuhu.com/");}
 function linkslot777() {location.replace("https://www.judisuhu.com/");}
-function linkrajamahjong() {location.replace("https://ab.aktif-rajamahjong.it.com/register?ref=GCAAAJ1075060");}
+function linkrajamahjong() {location.replace("https://www.ab.aktif-rajamahjong.it.com/register?ref=GCAAAJ1075060");}
 function linkhoki88bos() {location.replace("https://hoki88bostop.cam/ref/?rid=rf1S25c6000");}
 function linkmahjongjp88() {location.replace("https://arcanine.mahjongjp88.online/register?ref=GCAAAG264424");}
 function linkolympus88() {location.replace("https://www.judisuhu.com/");}
@@ -321,6 +321,7 @@ function linknuhunslot() {location.replace("https://nuhunslot.io/?Ref=8AuFNHky")
 function linkvespa69() {location.replace("https://vsp69.global/register?ref=h3p7Tj7");}
 function linkmultibet88() {location.replace("https://www.judisuhu.com/");}
 function linkoke62() {location.replace("https://www.judisuhu.com/");}
+
 
 
 
