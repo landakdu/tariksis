@@ -81,7 +81,7 @@ function linkmpopoker() {location.replace("https://www.judisuhu.com/");}
 function linkmpogacor() {location.replace("https://l5.mpogacorjoss.store/register/G91ND59B");}
 function linkmpo() {location.replace("https://www.judisuhu.com/");}
 function linkmpo1221() {location.replace("https://mpo1221luck.info/register/5M0N59KP");}
-function linkmpo2121() {location.replace("https://www.ug11playganteng.info/register/6705P15J");}
+function linkmpo2121() {location.replace("https://yourmpo2121.com/register/6705P15J");}
 function linkmpo1881() {location.replace("https://mpocep1881.com/register/DRLD31RJ");}
 function linkmpo88asia() {location.replace("https://mpo88asiatwo.net/register/6705PB91");}
 function linkmpo383() {location.replace("https://mpo383-max.org/register/B4L1R211");}
@@ -321,6 +321,7 @@ function linknuhunslot() {location.replace("https://nuhunslot.io/?Ref=8AuFNHky")
 function linkvespa69() {location.replace("https://vsp69.global/register?ref=h3p7Tj7");}
 function linkmultibet88() {location.replace("https://www.judisuhu.com/");}
 function linkoke62() {location.replace("https://www.judisuhu.com/");}
+
 
 
 
