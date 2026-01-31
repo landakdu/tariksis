@@ -1,5 +1,5 @@
 function link() {location.replace("https://www.judisuhu.com/");}
-function link() {location.replace("https://www.judisuhu.com/");}
+function linkgacor108() {location.replace("https://www.judisuhu.com/");}
 function linksultan88() {location.replace("https://www.judisuhu.com/");}
 function linksumo777() {location.replace("https://www.judisuhu.com/");}
 function linkjagoan303() {location.replace("https://www.judisuhu.com/");}
@@ -321,6 +321,7 @@ function linknuhunslot() {location.replace("https://nuhunslot.io/?Ref=8AuFNHky")
 function linkvespa69() {location.replace("https://vsp69.global/register?ref=h3p7Tj7");}
 function linkmultibet88() {location.replace("https://www.judisuhu.com/");}
 function linkoke62() {location.replace("https://www.judisuhu.com/");}
+
 
 
 
