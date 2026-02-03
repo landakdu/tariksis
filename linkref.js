@@ -227,7 +227,7 @@ function linkpiontogel() {location.replace("https://pionlala2.it.com/register?re
 function linkjadijp() {location.replace("https://jadijpselalu.schlepzig.com/?ref=babisexy");}
 function linkcvtogel() {location.replace("https://www.judisuhu.com/");}
 function linkmpo555() {location.replace("https://mpo555-hok.xyz/register/N7GRRDMG");}
-function linkwisdom77() {location.replace("https://vip.wisdom77od.shop/?ref=babisexy");}
+function linkwisdom77() {location.replace("https://www.judisuhu.com/");}
 function linkharbet35() {location.replace("https://b8.harbet35.vip/?ref=babisexy");}
 function linkpoa88() {location.replace("https://poa88.it.com/?ref=babisexy&p=h");}
 function linkkenzo188() {location.replace("https://kenzo188l.com/register?ref=A3MMMAFFQDOP");}
@@ -321,6 +321,7 @@ function linknuhunslot() {location.replace("https://nuhunslot.io/?Ref=8AuFNHky")
 function linkvespa69() {location.replace("https://vsp69.global/register?ref=h3p7Tj7");}
 function linkmultibet88() {location.replace("https://www.judisuhu.com/");}
 function linkoke62() {location.replace("https://www.judisuhu.com/");}
+
 
 
 
