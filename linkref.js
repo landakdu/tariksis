@@ -8,7 +8,7 @@ function link() {location.replace("https://www.judisuhu.com/");}
 function link() {location.replace("https://www.judisuhu.com/");}
 function link() {location.replace("https://www.judisuhu.com/");}
 function link() {location.replace("https://www.judisuhu.com/");}
-function link() {location.replace("https://www.judisuhu.com/");}
+function link838win() {location.replace("https://www.judisuhu.com/");}
 function linkdepoxito() {location.replace("https://www.judisuhu.com/");}
 function linkemperor33() {location.replace("https://www.judisuhu.com/");}
 function linkjuarabet168() {location.replace("https://www.judisuhu.com/");}
@@ -343,6 +343,7 @@ function linknuhunslot() {location.replace("https://nuhunslotoke.monster/?Ref=8A
 function linkvespa69() {location.replace("https://vsp69.academy/register?ref=h3p7Tj7");}
 function linkmultibet88() {location.replace("https://www.judisuhu.com/");}
 function linkoke62() {location.replace("https://www.judisuhu.com/");}
+
 
 
 
