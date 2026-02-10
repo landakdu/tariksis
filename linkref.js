@@ -1,18 +1,4 @@
 function link() {location.replace("https://www.judisuhu.com/");}
-function link() {location.replace("https://www.judisuhu.com/");}
-function link() {location.replace("https://www.judisuhu.com/");}
-function link() {location.replace("https://www.judisuhu.com/");}
-function link() {location.replace("https://www.judisuhu.com/");}
-function link() {location.replace("https://www.judisuhu.com/");}
-function link() {location.replace("https://www.judisuhu.com/");}
-function link() {location.replace("https://www.judisuhu.com/");}
-function link() {location.replace("https://www.judisuhu.com/");}
-function link() {location.replace("https://www.judisuhu.com/");}
-function link() {location.replace("https://www.judisuhu.com/");}
-function link() {location.replace("https://www.judisuhu.com/");}
-function link() {location.replace("https://www.judisuhu.com/");}
-function link() {location.replace("https://www.judisuhu.com/");}
-function link() {location.replace("https://www.judisuhu.com/");}
 function linkjudol303() {location.replace("https://www.judisuhu.com/");}
 function linkcindototo() {location.replace("https://www.judisuhu.com/");}
 function linkjoswd() {location.replace("https://www.judisuhu.com/");}
@@ -376,6 +362,7 @@ function linknuhunslot() {location.replace("https://nuhunslotoke.cyou/?Ref=8AuFN
 function linkvespa69() {location.replace("https://vsp69.academy/register?ref=h3p7Tj7");}
 function linkmultibet88() {location.replace("https://www.judisuhu.com/");}
 function linkoke62() {location.replace("https://www.judisuhu.com/");}
+
 
 
 
