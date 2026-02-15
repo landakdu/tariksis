@@ -253,7 +253,7 @@ function linklanjut88() {location.replace("https://www.judisuhu.com/");}
 function linkhedon77() {location.replace("https://www.judisuhu.com/");}
 function linkpusaka787() {location.replace("https://www.judisuhu.com/");}
 function linkarobet88() {location.replace("https://www.judisuhu.com/");}
-function linkserbacasino() {location.replace("https://mejaserbacasino.vip/register.jsp?ref=HUZQDFUZFpsDJ0R=");}
+function linkserbacasino() {location.replace("https://www.judisuhu.com/");}
 function linkpepe77() {location.replace("https://www.judisuhu.com/");}
 function linkbom29toto() {location.replace("https://www.judisuhu.com/");}
 function linkbetcoinasia() {location.replace("https://aygfx36288.btcasia88.vip/?ref=babisexy");}
@@ -362,6 +362,7 @@ function linknuhunslot() {location.replace("https://nuhunslotoke.online/?Ref=8Au
 function linkvespa69() {location.replace("https://vsp69.academy/register?ref=h3p7Tj7");}
 function linkmultibet88() {location.replace("https://www.judisuhu.com/");}
 function linkoke62() {location.replace("https://www.judisuhu.com/");}
+
 
 
 
