@@ -146,7 +146,7 @@ function linkkadobet() {location.replace("https://www.judisuhu.com/");}
 function linkmpo222() {location.replace("https://mpo222xids.it.com/register/JK86G0Y4");}
 function linkqqbos99() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=");}
 function link303hoki() {location.replace("https://eworldexternal.com/register/B48RPJDN");}
-function linkjet88bet() {location.replace("https://jet88dir.site/?ref=babisexy");}
+function linkjet88bet() {location.replace("https://jet88beri.site/?ref=babisexy");}
 function linkmpo369() {location.replace("https://mpo369bj.com/register/JQPK80KM");}
 function link8bettingan() {location.replace("https://link7.bettingan.vip/register?ref=A3MZLAD001VE");}
 function linkmpo08() {location.replace("https://mpo08usd.xyz/register/Q2RDGN20");}
@@ -362,6 +362,7 @@ function linknuhunslot() {location.replace("https://nuhunslotoke.online/?Ref=8Au
 function linkvespa69() {location.replace("https://vsp69.academy/register?ref=h3p7Tj7");}
 function linkmultibet88() {location.replace("https://www.judisuhu.com/");}
 function linkoke62() {location.replace("https://www.judisuhu.com/");}
+
 
 
 
