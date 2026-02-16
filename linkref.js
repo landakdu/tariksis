@@ -1,4 +1,5 @@
 function link() {location.replace("https://www.judisuhu.com/");}
+function link0() {location.replace("https://www.judisuhu.com/");}
 function linkjudol303() {location.replace("https://www.judisuhu.com/");}
 function linkcindototo() {location.replace("https://www.judisuhu.com/");}
 function linkjoswd() {location.replace("https://www.judisuhu.com/");}
@@ -362,6 +363,7 @@ function linknuhunslot() {location.replace("https://nuhunslotoke.online/?Ref=8Au
 function linkvespa69() {location.replace("https://vsp69.rocks/register?ref=h3p7Tj7");}
 function linkmultibet88() {location.replace("https://www.judisuhu.com/");}
 function linkoke62() {location.replace("https://www.judisuhu.com/");}
+
 
 
 
