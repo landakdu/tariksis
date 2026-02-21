@@ -224,7 +224,7 @@ function linktkp303() {location.replace("https://100tkp303.com/?ref=babisexy&p=h
 function linkvit88() {location.replace("https://www.judisuhu.com/");}
 function linkindoslot88() {location.replace("https://www.judisuhu.com/");}
 function linksinarmas77() {location.replace("https://www.judisuhu.com/");}
-function linkpentaslot() {location.replace("https://7.pentaslot.de/?ref=babisexy");}
+function linkpentaslot() {location.replace("https://3.penta-slot.site/?ref=babisexy");}
 function linkgaza88() {location.replace("https://gaza20.art/?ref=babisexy");}
 function linkcabe777() {location.replace("https://cabe777ai.top/register/0K71JP0Q");}
 function linkneko9() {location.replace("https://neko9membara.com/register?ref=babisexy");}
@@ -363,6 +363,7 @@ function linknuhunslot() {location.replace("https://nuhunslotoke.sbs/?Ref=8AuFNH
 function linkvespa69() {location.replace("https://vsp69.rocks/register?ref=h3p7Tj7");}
 function linkmultibet88() {location.replace("https://www.judisuhu.com/");}
 function linkoke62() {location.replace("https://www.judisuhu.com/");}
+
 
 
 
