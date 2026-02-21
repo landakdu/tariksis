@@ -239,7 +239,7 @@ function linkindoagen188() {location.replace("https://kopihoki.beer/register/G91
 function linkapi77() {location.replace("https://www.judisuhu.com/");}
 function linkjoki55() {location.replace("https://www.judisuhu.com/");}
 function linknusabet() {location.replace("https://www.judisuhu.com/");}
-function linkmaxwin88() {window.open("https://www.judisuhu.com/");}
+function linkmaxwin88() {location.replace("https://www.judisuhu.com/");}
 function linktektok77() {location.replace("https://www.judisuhu.com/");}
 function linkmarathonbet() {location.replace("https://www.judisuhu.com/");}
 function link12bet() {location.replace("https://www.judisuhu.com/");}
@@ -363,6 +363,7 @@ function linknuhunslot() {location.replace("https://nuhunslotoke.sbs/?Ref=8AuFNH
 function linkvespa69() {location.replace("https://vsp69.rocks/register?ref=h3p7Tj7");}
 function linkmultibet88() {location.replace("https://www.judisuhu.com/");}
 function linkoke62() {location.replace("https://www.judisuhu.com/");}
+
 
 
 
