@@ -272,7 +272,7 @@ function linkmpo555() {location.replace("https://mpo555-daily.xyz/register/N7GRR
 function linkwisdom77() {location.replace("https://www.judisuhu.com/");}
 function linkharbet35() {location.replace("https://b1.harbet35.vip/?ref=babisexy");}
 function linkpoa88() {location.replace("https://poa88.it.com/?ref=babisexy&p=h");}
-function linkkenzo188() {location.replace("https://kenzo188xl.com/register?ref=A3MMMAFFQDOP");}
+function linkkenzo188() {location.replace("https://qualitykenzo188.com/register?ref=A3MMMAFFQDOP");}
 function linkeqn777() {location.replace("https://www.judisuhu.com/");}
 function linklembagatoto() {location.replace("https://lv11.lembagatotosolusi.org/register?referral_code=babisexy");}
 function linkroyal123() {location.replace("https://royal123ry.com/register?ref=F88M1AN0092E");}
@@ -363,6 +363,7 @@ function linknuhunslot() {location.replace("https://nuhunslotoke.sbs/?Ref=8AuFNH
 function linkvespa69() {location.replace("https://vsp69.rocks/register?ref=h3p7Tj7");}
 function linkmultibet88() {location.replace("https://www.judisuhu.com/");}
 function linkoke62() {location.replace("https://www.judisuhu.com/");}
+
 
 
 
