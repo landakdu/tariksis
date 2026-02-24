@@ -185,7 +185,7 @@ function linkmansion77() {location.replace("https://www.judisuhu.com/");}
 function linkjawara88() {location.replace("https://www.judisuhu.com/");}
 function linkmega38() {location.replace("https://www.judisuhu.com/");}
 function linkgacor88() {location.replace("https://www.judisuhu.com/");}
-function linkmpo888() {location.replace("https://mpo888enter.com/register/437GR64017");}
+function linkmpo888() {location.replace("https://www.judisuhu.com/");}
 function linkpreman69() {location.replace("https://xn--w8jwgm86z.xn--q9jyb4c/daftar?ref=babisexy");}
 function linksgpslot() {location.replace("https://www.judisuhu.com/");}
 function linkmpo777() {location.replace("https://mpo777spot.com/register/R9D37PR2");}
@@ -364,6 +364,7 @@ function linknuhunslot() {location.replace("https://nuhunslotoke.website/?Ref=8A
 function linkvespa69() {location.replace("https://vsp69.rocks/register?ref=h3p7Tj7");}
 function linkmultibet88() {location.replace("https://www.judisuhu.com/");}
 function linkoke62() {location.replace("https://www.judisuhu.com/");}
+
 
 
 
