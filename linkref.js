@@ -154,7 +154,7 @@ function link8bettingan() {location.replace("https://url1.btgvvip.com/register?r
 function linkmpo08() {location.replace("https://mpo08kjs.xyz/register/Q2RDGN20");}
 function linkdewatogel() {location.replace("https://besdp46516.dwtku.info/register?referral_code=babisexy");}
 function linkkas138() {location.replace("https://www.judisuhu.com/");}
-function linkhokiwin() {location.replace("https://hokiwinlogina.website/register/4372MNN9");}
+function linkhokiwin() {location.replace("https://www.judisuhu.com/");}
 function linkmpocasino() {location.replace("https://mpocasino-casino.com/register/J5K2PQG6");}
 function linkn77toto() {location.replace("https://www.judisuhu.com/");}
 function linkjetplay88() {location.replace("https://www.judisuhu.com/");}
@@ -364,6 +364,7 @@ function linknuhunslot() {location.replace("https://nuhunslotoke.store/?Ref=8AuF
 function linkvespa69() {location.replace("https://vsp69.rocks/register?ref=h3p7Tj7");}
 function linkmultibet88() {location.replace("https://www.judisuhu.com/");}
 function linkoke62() {location.replace("https://www.judisuhu.com/");}
+
 
 
 
