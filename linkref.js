@@ -64,7 +64,7 @@ function linkpari303() {location.replace("https://www.judisuhu.com/");}
 function linkrajazeus() {location.replace("https://www.judisuhu.com/");}
 function linksigma168() {location.replace("https://sigma168.it.com/register?ref=Z9oXzcjU");}
 function linkbento4d() {location.replace("https://www.judisuhu.com/");}
-function linkjual303() {location.replace("https://toto03.jualan303.com/register?r=rlaw35");}
+function linkjual303() {location.replace("https://www.judisuhu.com/");}
 function linkpusatjudionline() {location.replace("https://www.judisuhu.com/");}
 function linkkaratetoto() {location.replace("https://bandungkaratetoto.site/register?r=zk174u");}
 function linkcapitaltoto() {location.replace("https://www.judisuhu.com/");}
@@ -364,6 +364,7 @@ function linknuhunslot() {location.replace("https://nuhunslotoke.store/?Ref=8AuF
 function linkvespa69() {location.replace("https://vsp69.rocks/register?ref=h3p7Tj7");}
 function linkmultibet88() {location.replace("https://www.judisuhu.com/");}
 function linkoke62() {location.replace("https://www.judisuhu.com/");}
+
 
 
 
