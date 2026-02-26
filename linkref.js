@@ -285,7 +285,7 @@ function linkplaza4d() {location.replace("https://www.judisuhu.com/");}
 function linkalexabet88() {location.replace("https://alexabet88bdg.com/register?ref=5987711");}
 function linkslotoppo88() {location.replace("https://www.judisuhu.com/");} document.getElementById('yourform').submit();
 function linkdiva168() {location.replace("https://www.judisuhu.com/");}
-function linkmpo666() {location.replace("https://mpo666cora.top/register/N7GR5QK9");}
+function linkmpo666() {location.replace("https://www.judisuhu.com/");}
 function linkxuxu4d() {location.replace("https://www.judisuhu.com/");}
 function linkkoin313() {location.replace("https://www.judisuhu.com/");}
 function linkolympus188() {location.replace("https://www.judisuhu.com/");}
@@ -364,6 +364,7 @@ function linknuhunslot() {location.replace("https://nuhunslotoke.store/?Ref=8AuF
 function linkvespa69() {location.replace("https://vsp69.rocks/register?ref=h3p7Tj7");}
 function linkmultibet88() {location.replace("https://www.judisuhu.com/");}
 function linkoke62() {location.replace("https://www.judisuhu.com/");}
+
 
 
 
