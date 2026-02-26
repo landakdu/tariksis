@@ -197,7 +197,7 @@ function linkajr88() {location.replace("https://www.judisuhu.com/");}
 function linkhoki178() {location.replace("https://www.judisuhu.com/");}
 function linkdewagacor77() {location.replace("https://www.judisuhu.com/");}
 function linkkudapoker() {location.replace("http://loginkudapoker.wiki/ref/babisexy");}
-function linkvipbet88() {location.replace("http://vipbet88safari.com/?ref=babisexy");}
+function linkvipbet88() {location.replace("https://www.judisuhu.com/");}
 function linkpesiar88() {location.replace("https://www.judisuhu.com/");}
 function linkpokerbo() {location.replace("http://pkbnibos.com/ref/babisexy");}
 function linkhoki138() {location.replace("https://www.judisuhu.com/");}
@@ -364,6 +364,7 @@ function linknuhunslot() {location.replace("https://nuhunslotoke.store/?Ref=8AuF
 function linkvespa69() {location.replace("https://vsp69.rocks/register?ref=h3p7Tj7");}
 function linkmultibet88() {location.replace("https://www.judisuhu.com/");}
 function linkoke62() {location.replace("https://www.judisuhu.com/");}
+
 
 
 
