@@ -169,7 +169,7 @@ function linkdemen303() {location.replace("https://demen303old.live/register?ref
 function linknagatop() {location.replace("https://nagatopseventeen.online/register?ref=94128uH");}
 function linkjnt777() {location.replace("https://www.judisuhu.com/");}
 function linkjnt77() {location.replace("https://www.judisuhu.com/");}
-function linkfijislot() {location.replace("https://link7.fijislot7.store/register?ref=VABAAA1007PG");}
+function linkfijislot() {location.replace("https://www.judisuhu.com/");}
 function linkraja168() {location.replace("https://www.judisuhu.com/");}
 function linkmegabandar() {location.replace("https://www.judisuhu.com/");}
 function linkbagus88() {location.replace("https://www.judisuhu.com/");}
@@ -364,6 +364,7 @@ function linknuhunslot() {location.replace("https://nuhunslotoke.store/?Ref=8AuF
 function linkvespa69() {location.replace("https://vsp69.rocks/register?ref=h3p7Tj7");}
 function linkmultibet88() {location.replace("https://www.judisuhu.com/");}
 function linkoke62() {location.replace("https://www.judisuhu.com/");}
+
 
 
 
