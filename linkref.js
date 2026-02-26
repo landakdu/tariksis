@@ -347,7 +347,7 @@ function link12naga() {location.replace("https://www.judisuhu.com/");}
 function linkmadu303() {location.replace("https://www.judisuhu.com/");}
 function linkprimatoto() {location.replace("https://www.judisuhu.com/");}
 function linkpele4d() {location.replace("https://www.judisuhu.com/");}
-function linksatelittogel() {location.replace("http://satelit44.tokomajubersama.com/Register.aspx?ref=2728533&aid=22");}
+function linksatelittogel() {location.replace("https://www.judisuhu.com/");}
 function linkrans4d() {location.replace("https://rans4d-jago.net/?ref=babisexy");}
 function linksamosir88() {location.replace("https://www.judisuhu.com/");}
 function linkminitoto() {location.replace("https://minitulus.site/register?referral_code=babisexy");}
@@ -364,6 +364,7 @@ function linknuhunslot() {location.replace("https://nuhunslotoke.store/?Ref=8AuF
 function linkvespa69() {location.replace("https://vsp69.rocks/register?ref=h3p7Tj7");}
 function linkmultibet88() {location.replace("https://www.judisuhu.com/");}
 function linkoke62() {location.replace("https://www.judisuhu.com/");}
+
 
 
 
