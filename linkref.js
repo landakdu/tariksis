@@ -59,7 +59,7 @@ function linkdewi138() {location.replace("https://www.judisuhu.com/");}
 function linkqqslot() {location.replace("https://www.judisuhu.com/");}
 function linkdewa86() {location.replace("https://www.judisuhu.com/");}
 function linkvietnam303() {location.replace("https://www.judisuhu.com/");}
-function linkjoin999() {location.replace("https://pg.playjoin999.site/register?ref=GCAEAA49146");}
+function linkjoin999() {location.replace("https://savior.playjoin999.online/register?ref=GCAEAA49146");}
 function linkpari303() {location.replace("https://www.judisuhu.com/");}
 function linkrajazeus() {location.replace("https://www.judisuhu.com/");}
 function linksigma168() {location.replace("https://sigma168.it.com/register?ref=Z9oXzcjU");}
@@ -364,6 +364,7 @@ function linknuhunslot() {location.replace("https://nuhunslotoke.store/?Ref=8AuF
 function linkvespa69() {location.replace("https://vsp69.rocks/register?ref=h3p7Tj7");}
 function linkmultibet88() {location.replace("https://www.judisuhu.com/");}
 function linkoke62() {location.replace("https://www.judisuhu.com/");}
+
 
 
 
