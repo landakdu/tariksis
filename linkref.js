@@ -69,7 +69,7 @@ function linkpusatjudionline() {location.replace("https://www.judisuhu.com/");}
 function linkkaratetoto() {location.replace("https://www.judisuhu.com/");}
 function linkcapitaltoto() {location.replace("https://www.judisuhu.com/");}
 function linkslot88() {location.replace("https://www.judisuhu.com/");}
-function linkwatitoto() {location.replace("https://wati80546.com/?referralid=babisexy");}
+function linkwatitoto() {location.replace("https://www.judisuhu.com/");}
 function linkgacor22() {location.replace("https://www.judisuhu.com/");}
 function linkslot777() {location.replace("https://www.judisuhu.com/");}
 function linkrajamahjong() {location.replace("https://www.ab.aktif-rajamahjong.it.com/register?ref=GCAAAJ1075060");}
@@ -364,6 +364,7 @@ function linknuhunslot() {location.replace("https://www.judisuhu.com/");}
 function linkvespa69() {location.replace("https://vsp69.rocks/register?ref=h3p7Tj7");}
 function linkmultibet88() {location.replace("https://www.judisuhu.com/");}
 function linkoke62() {location.replace("https://www.judisuhu.com/");}
+
 
 
 
