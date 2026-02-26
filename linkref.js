@@ -143,7 +143,7 @@ function linknewliga365() {location.replace("https://newliga365gg.site/?action=r
 function linklotto01() {location.replace("https://masterlotto01.org/referral/BABISEXY");}
 function linkkijangwin() {location.replace("http://ndx-kijangloncat.xyz/daftar?ref=babisexy");}
 function linkaquaslot() {location.replace("https://aquaslot11.xyz/?ref=babisexy");}
-function linkcoblos4d() {location.replace("https://v65.coblos4dbet.site/?ref=babisexy");}
+function linkcoblos4d() {location.replace("https://a25.coblos4dbet.site/?ref=babisexy");}
 function linkkadobet() {location.replace("https://www.judisuhu.com/");}
 function linkmpo222() {location.replace("https://mpo222xids.it.com/register/JK86G0Y4");}
 function linkqqbos99() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=");}
@@ -364,6 +364,7 @@ function linknuhunslot() {location.replace("https://nuhunslotoke.store/?Ref=8AuF
 function linkvespa69() {location.replace("https://vsp69.rocks/register?ref=h3p7Tj7");}
 function linkmultibet88() {location.replace("https://www.judisuhu.com/");}
 function linkoke62() {location.replace("https://www.judisuhu.com/");}
+
 
 
 
