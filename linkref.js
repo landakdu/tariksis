@@ -204,7 +204,7 @@ function linkhoki138() {location.replace("https://www.judisuhu.com/");}
 function linktatabet() {location.replace("http://tatabet0226.com/?ref=babisexy&p=h");}
 function linksatutogel() {location.replace("https://satutogel1225b.com/register?referral_code=babisexy");}
 function linkindogenting() {location.replace("http://indogenting1225.com/?ref=babisexy&p=h");}
-function linksupertogel() {location.replace("http://superpikat5.tempatgunting.com/Register.aspx?ref=2059084&aid=32");}
+function linksupertogel() {location.replace("http://supercakarlangit3c.tempatgunting.com/Register.aspx?ref=2059084&aid=32");}
 function linkibutogel() {location.replace("https://www.judisuhu.com/");}
 function linkamanah77() {location.replace("https://www.judisuhu.com/");}
 function linkslotmacau188() {location.replace("https://www.judisuhu.com/");}
@@ -364,6 +364,7 @@ function linknuhunslot() {location.replace("https://nuhunslotoke.store/?Ref=8AuF
 function linkvespa69() {location.replace("https://vsp69.rocks/register?ref=h3p7Tj7");}
 function linkmultibet88() {location.replace("https://www.judisuhu.com/");}
 function linkoke62() {location.replace("https://www.judisuhu.com/");}
+
 
 
 
