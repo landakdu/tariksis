@@ -170,7 +170,7 @@ function linknagatop() {location.replace("https://nagatopseventeen.online/regist
 function linkjnt777() {location.replace("https://www.judisuhu.com/");}
 function linkjnt77() {location.replace("https://www.judisuhu.com/");}
 function linkfijislot() {location.replace("https://link7.fijislot7.store/register?ref=VABAAA1007PG");}
-function linkraja168() {location.replace("https://link3.raja168l.com/register?ref=MKPAFAA00O6K");}
+function linkraja168() {location.replace("https://www.judisuhu.com/");}
 function linkmegabandar() {location.replace("https://www.judisuhu.com/");}
 function linkbagus88() {location.replace("https://www.judisuhu.com/");}
 function linkneo177() {location.replace("https://neo177berkumandang.com/register?ref=babisexy");}
@@ -364,6 +364,7 @@ function linknuhunslot() {location.replace("https://nuhunslotoke.store/?Ref=8AuF
 function linkvespa69() {location.replace("https://vsp69.rocks/register?ref=h3p7Tj7");}
 function linkmultibet88() {location.replace("https://www.judisuhu.com/");}
 function linkoke62() {location.replace("https://www.judisuhu.com/");}
+
 
 
 
