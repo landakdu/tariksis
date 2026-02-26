@@ -90,7 +90,7 @@ function linkmaxi188() {location.replace("https://www.judisuhu.com/");}
 function linkpanda88() {location.replace("https://www.judisuhu.com/");}
 function linkneymar88() {location.replace("https://www.judisuhu.com/");}
 function linkclickbet88() {location.replace("https://jadijuragandiclickbet88-03.xyz/register?ref=GCADAA213361");}
-function linkrajapanen() {location.replace("https://login.rajapanengacor.pics/register?ref=GCAAAC460822");}
+function linkrajapanen() {location.replace("https://www.judisuhu.com/");}
 function linkoyoslot() {location.replace("https://www.judisuhu.com/");}
 function linkjudolbet88() {location.replace("https://judolbet88sfo.com/register?ref=mXiPOJa");}
 function linkslot123() {location.replace("https://www.judisuhu.com/");}
