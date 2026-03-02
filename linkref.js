@@ -129,7 +129,7 @@ function linkmpo1881() {location.replace("https://mpocep1881.com/register/DRLD31
 function linkmpo88asia() {location.replace("https://mpo88asiajohn.info/register/6705PB91");}
 function linkmpo383() {location.replace("https://www.judisuhu.com/");}
 function linknamakecilx() {location.replace("https://www.judisuhu.com/");}
-function linkolxtoto() {location.replace("https://genius2.olxtoto.dev/register?referral_code=babisexy");}
+function linkolxtoto() {location.replace("https://www.judisuhu.com/");}
 function linkslotqris10k() {location.replace("https://www.judisuhu.com/");}
 function linkslotqris10ribu() {location.replace("https://www.judisuhu.com/");}
 function linkslotqrisgacor() {location.replace("https://www.judisuhu.com/");}
@@ -364,6 +364,7 @@ function linknuhunslot() {location.replace("https://scatters.shop/bejKhi");}
 function linkvespa69() {location.replace("https://vsp69.rocks/register?ref=h3p7Tj7");}
 function linkmultibet88() {location.replace("https://www.judisuhu.com/");}
 function linkoke62() {location.replace("https://www.judisuhu.com/");}
+
 
 
 
