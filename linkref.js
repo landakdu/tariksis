@@ -279,7 +279,7 @@ function linklembagatoto() {location.replace("https://ikankoi.lembagatotosolusi.
 function linkroyal123() {location.replace("https://www.judisuhu.com/");}
 function linkgacorslot() {location.replace("https://gacorslodpro.site/register/670567G8");}
 function linkagenslot168() {location.replace("https://www.judisuhu.com/");}
-function linkskslot() {location.replace("https://mobilesks.com/register?ref=babisexy");}
+function linkskslot() {location.replace("https://tombaknakal.com/register?ref=babisexy");}
 function linklotuspelangi() {location.replace("https://www.judisuhu.com/");}
 function linkplaza4d() {location.replace("https://www.judisuhu.com/");}
 function linkalexabet88() {location.replace("https://alexabet88mdn.com/register?ref=5987711");}
@@ -364,6 +364,7 @@ function linknuhunslot() {location.replace("https://scatters.shop/bejKhi");}
 function linkvespa69() {location.replace("https://vsp69.rocks/register?ref=h3p7Tj7");}
 function linkmultibet88() {location.replace("https://www.judisuhu.com/");}
 function linkoke62() {location.replace("https://www.judisuhu.com/");}
+
 
 
 
