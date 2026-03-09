@@ -199,7 +199,7 @@ function linkdewagacor77() {location.replace("https://www.judisuhu.com/");}
 function linkkudapoker() {location.replace("https://www.judisuhu.com/");}
 function linkvipbet88() {location.replace("https://www.judisuhu.com/");}
 function linkpesiar88() {location.replace("https://www.judisuhu.com/");}
-function linkpokerbo() {location.replace("http://pkbnibos.com/ref/babisexy");}
+function linkpokerbo() {location.replace("https://www.judisuhu.com/");}
 function linkhoki138() {location.replace("https://www.judisuhu.com/");}
 function linktatabet() {location.replace("http://tatabet0226.com/?ref=babisexy&p=h");}
 function linksatutogel() {location.replace("https://satutogel1225b.com/register?referral_code=babisexy");}
@@ -364,6 +364,7 @@ function linknuhunslot() {location.replace("https://scatters.shop/bejKhi");}
 function linkvespa69() {location.replace("https://vsp69.rocks/register?ref=h3p7Tj7");}
 function linkmultibet88() {location.replace("https://www.judisuhu.com/");}
 function linkoke62() {location.replace("https://www.judisuhu.com/");}
+
 
 
 
