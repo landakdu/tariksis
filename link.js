@@ -18,6 +18,8 @@ function linkdewa86() {location.replace("https://senisastra.com/");}
 function linkqqslot() {location.replace("https://senisastra.com/");}
 function linkqq101() {location.replace("/");}
 function jumpqq101() {location.replace("/");}
+function linkqq188() {location.replace("https://qq188best.com/");}
+function jumpqq188() {location.replace("https://qq188best.com/");}
 
 
 
