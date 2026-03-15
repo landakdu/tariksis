@@ -20,8 +20,8 @@ function linkqq101() {location.replace("https://qq101uok.com/");}
 function jumpqq101() {location.replace("https://qq101uok.com/");}
 function linkqq188() {location.replace("https://lkgw.net/qq188-altbrand");}
 function jumpqq188() {location.replace("https://lkgw.net/qq188-altbrand");}
-function linkqq288() {location.replace("https://qq288im3.com/");}
-function jumpqq288() {location.replace("https://qq288im3.com/");}
+function linkqq288() {location.replace("https://lkgw.net/qq288-altbrand");}
+function jumpqq288() {location.replace("https://lkgw.net/qq288-altbrand");}
 
 
 
