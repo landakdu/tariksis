@@ -1,5 +1,5 @@
-function linkqqbonus() {location.replace("/");}
-function jumpqqbonus() {location.replace("/");}
+function linkqqbonus() {location.replace("https://lkgw.net/qqbonus-altbrand");}
+function jumpqqbonus() {location.replace("https://lkgw.net/qqbonus-altbrand");}
 function linkqqangpao() {location.replace("https://vipakses.com/LPLOGINQQANGPAO");}
 function jumpqqangpao() {location.replace("https://vipakses.com/LPLOGINQQANGPAO");}
 function link88idr() {location.replace("https://rebrand.ly/88idrlogin-AMP");}
