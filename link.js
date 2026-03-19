@@ -1,11 +1,11 @@
-function linkqqbonus() {location.replace("https://lkgw.net/qqbonus-altbrand");}
-function jumpqqbonus() {location.replace("https://lkgw.net/qqbonus-altbrand");}
-function linkqqangpao() {location.replace("https://vipakses.com/LPLOGINQQANGPAO");}
-function jumpqqangpao() {location.replace("https://vipakses.com/LPLOGINQQANGPAO");}
-function link88idr() {location.replace("https://rebrand.ly/88idrlogin-AMP");}
-function jump88idr() {location.replace("https://rebrand.ly/88idrlogin-AMP");}
-function link1001win() {location.replace("https://vipakses.com/1001newAMP-LOGIN");}
-function jump1001win() {location.replace("https://vipakses.com/1001newAMP-LOGIN");}
+function linkqqbonus() {location.replace("https://qqlink.pages.dev/baca/");}
+function jumpqqbonus() {location.replace("https://qqlink.pages.dev/baca/");}
+function linkqqangpao() {location.replace("https://qqlink.pages.dev/baca/");}
+function jumpqqangpao() {location.replace("https://qqlink.pages.dev/baca/");}
+function link88idr() {location.replace("https://qqlink.pages.dev/baca/");}
+function jump88idr() {location.replace("https://qqlink.pages.dev/baca/");}
+function link1001win() {location.replace("https://qqlink.pages.dev/baca/");}
+function jump1001win() {location.replace("https://qqlink.pages.dev/baca/");}
 function linkqqresmi() {location.replace("https://senisastra.com/");}
 function jumpqqresmi() {location.replace("https://senisastra.com/");}
 function linkqqpusat() {location.replace("https://senisastra.com/");}
@@ -22,29 +22,4 @@ function linkqq188() {location.replace("https://lkgw.net/qq188-altbrand");}
 function jumpqq188() {location.replace("https://lkgw.net/qq188-altbrand");}
 function linkqq288() {location.replace("https://lkgw.net/qq288-altbrand");}
 function jumpqq288() {location.replace("https://lkgw.net/qq288-altbrand");}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
