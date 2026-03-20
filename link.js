@@ -16,10 +16,10 @@ function linkqqpusat() {location.replace("https://senisastra.com/");}
 function linkqqcasino() {location.replace("https://senisastra.com/");}
 function linkdewa86() {location.replace("https://senisastra.com/");}
 function linkqqslot() {location.replace("https://senisastra.com/");}
-function linkqq101() {location.replace("https://lkgw.net/qq101-altbrand");}
-function jumpqq101() {location.replace("https://lkgw.net/qq101-altbrand");}
-function linkqq188() {location.replace("https://lkgw.net/qq188-altbrand");}
-function jumpqq188() {location.replace("https://lkgw.net/qq188-altbrand");}
-function linkqq288() {location.replace("https://lkgw.net/qq288-altbrand");}
-function jumpqq288() {location.replace("https://lkgw.net/qq288-altbrand");}
+function linkqq101() {location.replace("https://qqlink.pages.dev/baca/");}
+function jumpqq101() {location.replace("https://qqlink.pages.dev/baca/");}
+function linkqq188() {location.replace("https://qqlink.pages.dev/baca/");}
+function jumpqq188() {location.replace("https://qqlink.pages.dev/baca/");}
+function linkqq288() {location.replace("https://qqlink.pages.dev/baca/");}
+function jumpqq288() {location.replace("https://qqlink.pages.dev/baca/");}
 
