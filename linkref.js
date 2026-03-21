@@ -164,7 +164,7 @@ function linkzona66() {location.replace("https://www.judisuhu.com/");}
 function linkgacorbos88() {location.replace("https://its.gacorbos88it.com/register?ref=GS2ABAD018U7");}
 function linkyakinslot88() {location.replace("https://www.judisuhu.com/");}
 function linkome88() {location.replace("https://www.judisuhu.com/");}
-function linkmusangwin() {location.replace("https://www.koilmusangwin.com/register?ref=2M3TNAFG0EVH");}
+function linkmusangwin() {location.replace("https://musangwingarang.com/register?ref=2M3TNAFG0EVH");}
 function linkdemen303() {location.replace("https://www.judisuhu.com/");}
 function linknagatop() {location.replace("https://nagatopseventeen.online/register?ref=94128uH");}
 function linkjnt777() {location.replace("https://www.judisuhu.com/");}
