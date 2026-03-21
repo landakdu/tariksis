@@ -149,7 +149,7 @@ function linkmpo222() {location.replace("https://mpo222xids.it.com/register/JK86
 function linkqqbos99() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
 function link303hoki() {location.replace("https://eworldexternal.com/register/B48RPJDN");}
 function linkjet88bet() {location.replace("https://www.judisuhu.com/");}
-function linkmpo369() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=13275744&group=0");}
+function linkmpo369() {location.replace("https://www.judisuhu.com/");}
 function link8bettingan() {location.replace("https://url1.btgvvip.com/register?ref=A3MZLAD001VE");}
 function linkmpo08() {location.replace("https://mpo08kjs.xyz/register/Q2RDGN20");}
 function linkdewatogel() {location.replace("https://www.judisuhu.com/");}
