@@ -345,7 +345,7 @@ function linkmurnislot() {location.replace("https://www.judisuhu.com/");}
 function linkhokiraja() {location.replace("https://hokirajashinobi.online/daftar?ref=babisexy");}
 function link12naga() {location.replace("https://www.judisuhu.com/");}
 function linkmadu303() {location.replace("https://www.judisuhu.com/");}
-function linkprimatoto() {location.replace("https://link1.tokoprimatoto.com/register?referral_code=babisexy");}
+function linkprimatoto() {location.replace("https://link2.tokoprimatoto.com/register?referral_code=babisexy");}
 function linkpele4d() {location.replace("https://www.judisuhu.com/");}
 function linksatelittogel() {location.replace("https://www.judisuhu.com/");}
 function linkrans4d() {location.replace("https://www.judisuhu.com/");}
