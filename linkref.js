@@ -1,8 +1,8 @@
 document.getElementById('yourform').submit();
 function linktutup() {location.replace("https://www.judisuhu.com/");}
 function link() {location.replace("https://www.judisuhu.com/");}
-function linkhumastogel() {location.replace("https://www.judisuhu.com/");}
-function linkrajamulia77() {location.replace("https://www.judisuhu.com/");}
+function linkhumastogel() {location.replace("https://t.ly/dafhumas");}
+function linkrajamulia77() {location.replace("https://vpnrajamulia77.site/");}
 function linkjudol303() {location.replace("https://www.judisuhu.com/");}
 function linkcindototo() {location.replace("https://www.judisuhu.com/");}
 function linkjoswd() {location.replace("https://www.judisuhu.com/");}
