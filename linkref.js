@@ -269,7 +269,7 @@ function linknyaitogel() {location.replace("https://nyaitogeltimur.it.com/regist
 function linkaurajp() {location.replace("https://www.judisuhu.com/");}
 function linkdauntogel() {location.replace("https://www.judisuhu.com/");}
 function linkpiontogel() {location.replace("https://www.judisuhu.com/");}
-function linkjadijp() {location.replace("https://jadijpselalu.schlepzig.com/?ref=babisexy");}
+function linkjadijp() {location.replace("https://jadijp185.makeup/?ref=babisexy");}
 function linkcvtogel() {location.replace("https://www.judisuhu.com/");}
 function linkmpo555() {location.replace("https://www.judisuhu.com/");}
 function linkwisdom77() {location.replace("https://www.judisuhu.com/");}
