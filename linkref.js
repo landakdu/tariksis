@@ -194,7 +194,7 @@ function linkmpo777() {location.replace("https://www.judisuhu.com/");}
 function linkkingtoto() {location.replace("https://www.judisuhu.com/");}
 function linkdewasloto() {location.replace("https://www.judisuhu.com/");}
 function linktwinbet() {location.replace("https://www.judisuhu.com/");}
-function linkw77() {location.replace("https://w-site.vip/account/register/219870808");}
+function linkw77() {location.replace("https://www.judisuhu.com/");}
 function linkajr88() {location.replace("https://www.judisuhu.com/");}
 function linkhoki178() {location.replace("https://www.judisuhu.com/");}
 function linkdewagacor77() {location.replace("https://www.judisuhu.com/");}
