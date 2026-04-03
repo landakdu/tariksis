@@ -138,7 +138,7 @@ function linkslotqrisgacor() {location.replace("https://www.judisuhu.com/");}
 function linkslotqrismantap() {location.replace("https://www.judisuhu.com/");}
 function linkslotqristanpapotongan() {location.replace("https://www.judisuhu.com/");}
 function linktokekwin() {location.replace("https://bondx-tokekwinkhun.click/daftar?ref=babisexy");}
-function linkpphoki() {location.replace("https://pphoki1.online/?ref=babisexy");}
+function linkpphoki() {location.replace("https://www.judisuhu.com/");}
 function linkaw8() {location.replace("https://www.judisuhu.com/");}
 function linkhoki177() {location.replace("https://bomhoki177.com/register?ref=babisexy");}
 function linknewliga365() {location.replace("https://newliga365gg.site/?action=register&rc=LEOK60YFBD&ci=11");}
