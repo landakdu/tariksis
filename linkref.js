@@ -361,7 +361,7 @@ function linktexas88() {location.replace("https://www.judisuhu.com/");}
 function linkkampungbet() {location.replace("https://www.judisuhu.com/");}
 function linksloto89() {location.replace("https://www.judisuhu.com/");}
 function linkrokokbet() {location.replace("https://www.judisuhu.com/");}
-function linkratukidul88() {location.replace("https://teamratukidul88.xyz/?ref=babisexy");}
+function linkratukidul88() {location.replace("https://www.judisuhu.com/");}
 function linknuhunslot() {location.replace("https://scatters.shop/bejKhi");}
 function linkvespa69() {location.replace("https://vsp69.rocks/register?ref=h3p7Tj7");}
 function linkmultibet88() {location.replace("https://www.judisuhu.com/");}
