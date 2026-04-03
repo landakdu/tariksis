@@ -356,7 +356,7 @@ function linkminitoto() {location.replace("https://www.judisuhu.com/");}
 function linkwdyuk() {location.replace("https://www.judisuhu.com/");}
 function linktauslot88() {location.replace("https://www.judisuhu.com/");}
 function linkwindah99() {location.replace("https://www.judisuhu.com/");}
-function linkayamjp() {location.replace("https://u.ayamjpsub.com/?ref=babisexy");}
+function linkayamjp() {location.replace("https://www.judisuhu.com/");}
 function linktexas88() {location.replace("https://www.judisuhu.com/");}
 function linkkampungbet() {location.replace("https://www.judisuhu.com/");}
 function linksloto89() {location.replace("https://www.judisuhu.com/");}
