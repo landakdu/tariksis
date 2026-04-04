@@ -163,7 +163,7 @@ function linkjetplay88() {location.replace("https://www.judisuhu.com/");}
 function linkwis77() {location.replace("https://www.judisuhu.com/");}
 function linkmpo111() {location.replace("https://mpo111asli.site/register/67053GLN");}
 function linkzona66() {location.replace("https://www.judisuhu.com/");}
-function linkgacorbos88() {location.replace("https://its.gacorbos88it.com/register?ref=GS2ABAD018U7");}
+function linkgacorbos88() {location.replace("https://scf.gacoarbos88hj.com/register?ref=GS2ABAD018U7");}
 function linkyakinslot88() {location.replace("https://www.judisuhu.com/");}
 function linkome88() {location.replace("https://www.judisuhu.com/");}
 function linkmusangwin() {location.replace("https://musangwingarang.com/register?ref=2M3TNAFG0EVH");}
