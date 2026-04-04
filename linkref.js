@@ -75,7 +75,7 @@ function linkwatitoto() {location.replace("https://www.judisuhu.com/");}
 function linkgacor22() {location.replace("https://www.judisuhu.com/");}
 function linkslot777() {location.replace("https://www.judisuhu.com/");}
 function linkrajamahjong() {location.replace("https://www.judisuhu.com/");}
-function linkhoki88bos() {location.replace("https://hoki88bostop.cv/ref/?rid=rf1S25c6000");}
+function linkhoki88bos() {location.replace("https://www.judisuhu.com/");}
 function linkmahjongjp88() {location.replace("https://www.judisuhu.com/");}
 function linkolympus88() {location.replace("https://www.judisuhu.com/");}
 function linkcupangjp() {location.replace("https://id.cupangjpmana.com/?ref=babisexy");}
@@ -275,7 +275,7 @@ function linkmpo555() {location.replace("https://www.judisuhu.com/");}
 function linkwisdom77() {location.replace("https://www.judisuhu.com/");}
 function linkharbet35() {location.replace("https://www.judisuhu.com/");}
 function linkpoa88() {location.replace("https://poaking.site/?ref=babisexy&p=h");}
-function linkkenzo188() {location.replace("https://kenzo188stars.com/register?ref=A3MMMAFFQDOP");}
+function linkkenzo188() {location.replace("https://nodexx-kenzo188-1.shop/register?ref=A3MMMAFFQDOP");}
 function linkeqn777() {location.replace("https://www.judisuhu.com/");}
 function linklembagatoto() {location.replace("https://www.judisuhu.com/");}
 function linkroyal123() {location.replace("https://www.judisuhu.com/");}
