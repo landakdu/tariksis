@@ -126,7 +126,7 @@ function linkmpopoker() {location.replace("https://www.judisuhu.com/");}
 function linkmpogacor() {location.replace("https://mpogacor-star.com/register/G91ND59B");}
 function linkmpo() {location.replace("https://www.judisuhu.com/");}
 function linkmpo1221() {location.replace("https://mpo1221call.com/register/5M0N59KP");}
-function linkmpo2121() {location.replace("https://dollarmpo2121.org/register/6705P15J");}
+function linkmpo2121() {location.replace("https://mpo2121cadangan.com/register/6705P15J");}
 function linkmpo1881() {location.replace("https://mpocep1881.com/register/DRLD31RJ");}
 function linkmpo88asia() {location.replace("https://mpo88asiajohn.info/register/6705PB91");}
 function linkmpo383() {location.replace("https://www.judisuhu.com/");}
