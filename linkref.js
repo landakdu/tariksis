@@ -125,7 +125,7 @@ function linkmposlot() {location.replace("https://www.judisuhu.com/");}
 function linkmpopoker() {location.replace("https://www.judisuhu.com/");}
 function linkmpogacor() {location.replace("https://mpogacor-star.com/register/G91ND59B");}
 function linkmpo() {location.replace("https://www.judisuhu.com/");}
-function linkmpo1221() {location.replace("https://mpo1221call.com/register/5M0N59KP");}
+function linkmpo1221() {location.replace("https://mpo1221line.com/register/5M0N59KP");}
 function linkmpo2121() {location.replace("https://mpo2121cadangan.com/register/6705P15J");}
 function linkmpo1881() {location.replace("https://mpocep1881.com/register/DRLD31RJ");}
 function linkmpo88asia() {location.replace("https://mpo88asiajohn.info/register/6705PB91");}
@@ -163,7 +163,7 @@ function linkjetplay88() {location.replace("https://www.judisuhu.com/");}
 function linkwis77() {location.replace("https://www.judisuhu.com/");}
 function linkmpo111() {location.replace("https://mpo111asli.site/register/67053GLN");}
 function linkzona66() {location.replace("https://www.judisuhu.com/");}
-function linkgacorbos88() {location.replace("https://scf.gacoarbos88hj.com/register?ref=GS2ABAD018U7");}
+function linkgacorbos88() {location.replace("https://cms.gacoarbos88hj.art/register?ref=GS2ABAD018U7");}
 function linkyakinslot88() {location.replace("https://www.judisuhu.com/");}
 function linkome88() {location.replace("https://www.judisuhu.com/");}
 function linkmusangwin() {location.replace("https://musangwingarang.com/register?ref=2M3TNAFG0EVH");}
