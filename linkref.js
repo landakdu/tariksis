@@ -141,7 +141,7 @@ function linktokekwin() {location.replace("https://bondx-tokekwinkhun.click/daft
 function linkpphoki() {location.replace("https://www.judisuhu.com/");}
 function linkaw8() {location.replace("https://www.judisuhu.com/");}
 function linkhoki177() {location.replace("https://bomhoki177.com/register?ref=babisexy");}
-function linknewliga365() {location.replace("https://newliga365gg.site/?action=register&rc=LEOK60YFBD&ci=11");}
+function linknewliga365() {location.replace("https://www.judisuhu.com/");}
 function linklotto01() {location.replace("https://masterlotto01.org/referral/BABISEXY");}
 function linkkijangwin() {location.replace("https://ndx-kijangwinliar.xyz/daftar?ref=babisexy");}
 function linkaquaslot() {location.replace("https://aquaslot11.xyz/?ref=babisexy");}
