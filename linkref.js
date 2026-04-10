@@ -308,7 +308,7 @@ function linkmuslimbet() {location.replace("https://www.judisuhu.com/");}
 function linkpusatbet() {location.replace("https://www.judisuhu.com/");}
 function linkmumitoto() {location.replace("https://www.judisuhu.com/");}
 function linksatubandar() {location.replace("https://www.judisuhu.com/");}
-function link9win() {location.replace("https://9wintop2.pro/ref/?rid=rf1R25c5bc1");}
+function link9win() {location.replace("https://www.judisuhu.com/");}
 function linkdewacasino() {location.replace("https://www.judisuhu.com/");}
 function linktongtoto() {location.replace("https://www.judisuhu.com/");}
 function linkmaxbet() {location.replace("https://www.judisuhu.com/");}
