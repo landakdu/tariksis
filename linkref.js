@@ -175,7 +175,7 @@ function linkfijislot() {location.replace("https://www.judisuhu.com/");}
 function linkraja168() {location.replace("https://www.judisuhu.com/");}
 function linkmegabandar() {location.replace("https://www.judisuhu.com/");}
 function linkbagus88() {location.replace("https://www.judisuhu.com/");}
-function linkneo177() {location.replace("https://neo177bening.com/register?ref=babisexy");}
+function linkneo177() {location.replace("https://www.judisuhu.com/");}
 function linkkiw69() {location.replace("https://domkiw69.com/register?ref=E3MDNAC00728");}
 function linkmpo333() {location.replace("https://www.judisuhu.com/");}
 function link66kone() {location.replace("https://www.judisuhu.com/");}
