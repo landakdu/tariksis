@@ -229,7 +229,7 @@ function linkindoslot88() {location.replace("https://www.judisuhu.com/");}
 function linksinarmas77() {location.replace("https://www.judisuhu.com/");}
 function linkpentaslot() {location.replace("https://www.judisuhu.com/");}
 function linkgaza88() {location.replace("https://www.judisuhu.com/");}
-function linkcabe777() {location.replace("https://cabe777bos.top/register/0K71JP0Q");}
+function linkcabe777() {location.replace("https://www.judisuhu.com/");}
 function linkneko9() {location.replace("https://www.judisuhu.com/");}
 function linkboss177() {location.replace("https://www.judisuhu.com/");}
 function linkcahaya268() {location.replace("https://www.judisuhu.com/");}
