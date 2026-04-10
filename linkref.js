@@ -257,7 +257,7 @@ function linklanjut88() {location.replace("https://www.judisuhu.com/");}
 function linkhedon77() {location.replace("https://www.judisuhu.com/");}
 function linkpusaka787() {location.replace("https://www.judisuhu.com/");}
 function linkarobet88() {location.replace("https://www.judisuhu.com/");}
-function linkserbacasino() {location.replace("https://www.judisuhu.com/");}
+function linkserbacasino() {location.replace("https://www.senisastra.com/");}
 function linkpepe77() {location.replace("https://www.judisuhu.com/");}
 function linkbom29toto() {location.replace("https://www.judisuhu.com/");}
 function linkbetcoinasia() {location.replace("https://www.judisuhu.com/");}
