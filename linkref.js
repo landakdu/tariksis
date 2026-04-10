@@ -257,7 +257,7 @@ function linklanjut88() {location.replace("https://www.judisuhu.com/");}
 function linkhedon77() {location.replace("https://www.judisuhu.com/");}
 function linkpusaka787() {location.replace("https://www.judisuhu.com/");}
 function linkarobet88() {location.replace("https://www.judisuhu.com/");}
-function linkserbacasino() {location.replace("https://www.senisastra.com/");}
+function linkserbacasino() {location.replace("https://www.judisuhu.com/");}
 function linkpepe77() {location.replace("https://www.judisuhu.com/");}
 function linkbom29toto() {location.replace("https://www.judisuhu.com/");}
 function linkbetcoinasia() {location.replace("https://www.judisuhu.com/");}
@@ -276,7 +276,7 @@ function linkwisdom77() {location.replace("https://www.judisuhu.com/");}
 function linkharbet35() {location.replace("https://www.judisuhu.com/");}
 function linkpoa88() {location.replace("https://poaking.site/?ref=babisexy&p=h");}
 function linkkenzo188() {location.replace("https://nodexx-kenzo188-1.shop/register?ref=A3MMMAFFQDOP");}
-function linkeqn777() {location.replace("https://www.senisastra.com/");}
+function linkeqn777() {location.replace("https://www.judisuhu.com/");}
 function linklembagatoto() {location.replace("https://www.judisuhu.com/");}
 function linkroyal123() {location.replace("https://www.judisuhu.com/");}
 function linkgacorslot() {location.replace("https://www.judisuhu.com/");}
@@ -306,7 +306,7 @@ function linkkas138() {location.replace("https://vip.centralkas138.com/?ref=babi
 function linkyamaha88bet() {location.replace("https://www.judisuhu.com/");}
 function linkmuslimbet() {location.replace("https://www.judisuhu.com/");}
 function linkpusatbet() {location.replace("https://www.judisuhu.com/");}
-function linkmumitoto() {location.replace("https://www.senisastra.com/");}
+function linkmumitoto() {location.replace("https://www.judisuhu.com/");}
 function linksatubandar() {location.replace("https://www.judisuhu.com/");}
 function link9win() {location.replace("https://www.judisuhu.com/");}
 function linkdewacasino() {location.replace("https://www.judisuhu.com/");}
