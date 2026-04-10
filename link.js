@@ -1,11 +1,11 @@
-function linkqqbonus() {location.replace("https://qqlink.pages.dev/baca/");}
-function jumpqqbonus() {location.replace("https://qqlink.pages.dev/baca/");}
-function linkqqangpao() {location.replace("https://qqlink.pages.dev/baca/");}
-function jumpqqangpao() {location.replace("https://qqlink.pages.dev/baca/");}
-function link88idr() {location.replace("https://qqlink.pages.dev/baca/");}
-function jump88idr() {location.replace("https://qqlink.pages.dev/baca/");}
-function link1001win() {location.replace("https://qqlink.pages.dev/baca/");}
-function jump1001win() {location.replace("https://qqlink.pages.dev/baca/");}
+function linkqqbonus() {location.replace("https://qqlink.pages.dev/referral-2/");}
+function jumpqqbonus() {location.replace("https://qqlink.pages.dev/referral-2/");}
+function linkqqangpao() {location.replace("https://qqlink.pages.dev/referral-2/");}
+function jumpqqangpao() {location.replace("https://qqlink.pages.dev/referral-2/");}
+function link88idr() {location.replace("https://qqlink.pages.dev/referral-2/");}
+function jump88idr() {location.replace("https://qqlink.pages.dev/referral-2/");}
+function link1001win() {location.replace("https://qqlink.pages.dev/referral-2/");}
+function jump1001win() {location.replace("https://qqlink.pages.dev/referral-2/");}
 function linkqqresmi() {location.replace("https://senisastra.com/");}
 function jumpqqresmi() {location.replace("https://senisastra.com/");}
 function linkqqpusat() {location.replace("https://senisastra.com/");}
@@ -16,10 +16,10 @@ function linkqqpusat() {location.replace("https://senisastra.com/");}
 function linkqqcasino() {location.replace("https://senisastra.com/");}
 function linkdewa86() {location.replace("https://senisastra.com/");}
 function linkqqslot() {location.replace("https://senisastra.com/");}
-function linkqq101() {location.replace("https://qqlink.pages.dev/baca/");}
-function jumpqq101() {location.replace("https://qqlink.pages.dev/baca/");}
-function linkqq188() {location.replace("https://qqlink.pages.dev/baca/");}
-function jumpqq188() {location.replace("https://qqlink.pages.dev/baca/");}
-function linkqq288() {location.replace("https://qqlink.pages.dev/baca/");}
-function jumpqq288() {location.replace("https://qqlink.pages.dev/baca/");}
+function linkqq101() {location.replace("https://qqlink.pages.dev/referral-2/");}
+function jumpqq101() {location.replace("https://qqlink.pages.dev/referral-2/");}
+function linkqq188() {location.replace("https://qqlink.pages.dev/referral-2/");}
+function jumpqq188() {location.replace("https://qqlink.pages.dev/referral-2/");}
+function linkqq288() {location.replace("https://qqlink.pages.dev/referral-2/");}
+function jumpqq288() {location.replace("https://qqlink.pages.dev/referral-2/");}
 
