@@ -284,7 +284,7 @@ function linkagenslot168() {location.replace("https://www.judisuhu.com/");}
 function linkskslot() {location.replace("https://www.judisuhu.com/");}
 function linklotuspelangi() {location.replace("https://www.judisuhu.com/");}
 function linkplaza4d() {location.replace("https://www.judisuhu.com/");}
-function linkalexabet88() {location.replace("https://alexabet88mdn.com/register?ref=5987711");}
+function linkalexabet88() {location.replace("https://www.judisuhu.com/");}
 function linkslotoppo88() {location.replace("https://www.judisuhu.com/");}
 function linkdiva168() {location.replace("https://www.judisuhu.com/");}
 function linkmpo666() {location.replace("https://www.judisuhu.com/");}
