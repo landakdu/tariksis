@@ -344,7 +344,7 @@ function linkpastigacor() {location.replace("https://www.judisuhu.com/");}
 function linkpasticuan() {location.replace("https://www.judisuhu.com/");}
 function linkpusatgacor() {location.replace("https://www.judisuhu.com/");}
 function linkmurnislot() {location.replace("https://www.judisuhu.com/");}
-function linkhokiraja() {location.replace("https://hokirajashinobi.online/daftar?ref=babisexy");}
+function linkhokiraja() {location.replace("https://hokirajaice.xyz/daftar?ref=babisexy");}
 function link12naga() {location.replace("https://www.judisuhu.com/");}
 function linkmadu303() {location.replace("https://www.judisuhu.com/");}
 function linkprimatoto() {location.replace("https://www.judisuhu.com/");}
