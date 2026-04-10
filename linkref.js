@@ -306,7 +306,7 @@ function linkkas138() {location.replace("https://vip.centralkas138.com/?ref=babi
 function linkyamaha88bet() {location.replace("https://www.judisuhu.com/");}
 function linkmuslimbet() {location.replace("https://www.judisuhu.com/");}
 function linkpusatbet() {location.replace("https://www.judisuhu.com/");}
-function linkmumitoto() {location.replace("https://www.judisuhu.com/");}
+function linkmumitoto() {location.replace("https://www.senisastra.com/");}
 function linksatubandar() {location.replace("https://www.judisuhu.com/");}
 function link9win() {location.replace("https://www.judisuhu.com/");}
 function linkdewacasino() {location.replace("https://www.judisuhu.com/");}
