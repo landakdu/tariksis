@@ -78,7 +78,7 @@ function linkrajamahjong() {location.replace("https://www.judisuhu.com/");}
 function linkhoki88bos() {location.replace("https://www.judisuhu.com/");}
 function linkmahjongjp88() {location.replace("https://www.judisuhu.com/");}
 function linkolympus88() {location.replace("https://www.judisuhu.com/");}
-function linkcupangjp() {location.replace("https://id.cupangjpmana.com/?ref=babisexy");}
+function linkcupangjp() {location.replace("https://www.judisuhu.com/");}
 function linkmurah4d() {location.replace("https://win4.murah4dlkj.lat/?ref=babisexy");}
 function linkgacor69() {location.replace("https://www.judisuhu.com/");}
 function linkslot138() {location.replace("https://www.judisuhu.com/");}
