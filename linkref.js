@@ -148,7 +148,7 @@ function linkaquaslot() {location.replace("https://aquaslot11.xyz/?ref=babisexy"
 function linkcoblos4d() {location.replace("https://a25.coblos4dbet.site/?ref=babisexy");}
 function linkkadobet() {location.replace("https://www.judisuhu.com/");}
 function linkmpo222() {location.replace("https://www.judisuhu.com/");}
-function linkqqbos99() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
+function linkqqbos99() {location.replace("https://www.senisastra.com/");}
 function link303hoki() {location.replace("https://eworldexternal.com/register/B48RPJDN");}
 function linkjet88bet() {location.replace("https://www.judisuhu.com/");}
 function linkmpo369() {location.replace("https://www.judisuhu.com/");}
