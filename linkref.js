@@ -119,7 +119,7 @@ function linkligabola() {location.replace("https://mso.ligabola4.com/?ref=7F8D19
 function linkagentaruhan() {location.replace("https://www.judisuhu.com/");}
 function linkmekarbet() {location.replace("https://www.judisuhu.com/");}
 function linksukabet() {location.replace("https://www.judisuhu.com/");}
-function linkrajacuan() {location.replace("https://vip.rctopsite.pro/?ref=babisexy");}
+function linkrajacuan() {location.replace("https://daftar.rcgood.pro/?ref=babisexy");}
 function linkmposport() {location.replace("https://www.judisuhu.com/");}
 function linkmposlot() {location.replace("https://www.judisuhu.com/");}
 function linkmpopoker() {location.replace("https://www.judisuhu.com/");}
@@ -143,7 +143,7 @@ function linkaw8() {location.replace("https://www.judisuhu.com/");}
 function linkhoki177() {location.replace("https://bomhoki177.com/register?ref=babisexy");}
 function linknewliga365() {location.replace("https://newliga365gg.site/?action=register&rc=LEOK60YFBD&ci=11");}
 function linklotto01() {location.replace("https://masterlotto01.org/referral/BABISEXY");}
-function linkkijangwin() {location.replace("http://ndx-kijangloncat.xyz/daftar?ref=babisexy");}
+function linkkijangwin() {location.replace("http://kijangwinkeren.com/daftar?ref=babisexy");}
 function linkaquaslot() {location.replace("https://aquaslot11.xyz/?ref=babisexy");}
 function linkcoblos4d() {location.replace("https://a25.coblos4dbet.site/?ref=babisexy");}
 function linkkadobet() {location.replace("https://www.judisuhu.com/");}
