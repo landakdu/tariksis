@@ -119,7 +119,7 @@ function linkligabola() {location.replace("https://mso.ligabola4.com/?ref=7F8D19
 function linkagentaruhan() {location.replace("https://www.judisuhu.com/");}
 function linkmekarbet() {location.replace("https://www.judisuhu.com/");}
 function linksukabet() {location.replace("https://www.judisuhu.com/");}
-function linkrajacuan() {location.replace("https://daftar.rcgood.pro/?ref=babisexy");}
+function linkrajacuan() {location.replace("https://super.rcgood.pro/?ref=babisexy");}
 function linkmposport() {location.replace("https://www.judisuhu.com/");}
 function linkmposlot() {location.replace("https://www.judisuhu.com/");}
 function linkmpopoker() {location.replace("https://www.judisuhu.com/");}
