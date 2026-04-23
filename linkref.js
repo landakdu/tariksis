@@ -276,7 +276,7 @@ function linkwisdom77() {location.replace("https://www.judisuhu.com/");}
 function linkharbet35() {location.replace("https://www.judisuhu.com/");}
 function linkpoa88() {location.replace("https://poaking.site/?ref=babisexy&p=h");}
 function linkkenzo188() {location.replace("https://nodexx-kenzo188-1.shop/register?ref=A3MMMAFFQDOP");}
-function linkeqn777() {location.replace("https://www.judisuhu.com/");}
+function linkeqn777() {location.replace("https://amplob-ri.pages.dev/link/");}
 function linklembagatoto() {location.replace("https://www.judisuhu.com/");}
 function linkroyal123() {location.replace("https://www.judisuhu.com/");}
 function linkgacorslot() {location.replace("https://www.judisuhu.com/");}
