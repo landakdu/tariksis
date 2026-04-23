@@ -280,7 +280,7 @@ function linkeqn777() {location.replace("https://amplob-ri.pages.dev/link/");}
 function linklembagatoto() {location.replace("https://palugada0.pages.dev");}
 function linkroyal123() {location.replace("https://palugada0.pages.dev");}
 function linkgacorslot() {location.replace("https://palugada0.pages.dev");}
-function linkagenslot168() {location.replace("https://palugada0.pages.dev");}
+function linkagenslot168() {location.replace("https://amplob-ri.pages.dev/link/");}
 function linkskslot() {location.replace("https://palugada0.pages.dev");}
 function linklotuspelangi() {location.replace("https://palugada0.pages.dev");}
 function linkplaza4d() {location.replace("https://palugada0.pages.dev");}
