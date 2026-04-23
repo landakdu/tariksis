@@ -224,7 +224,7 @@ function linkjackpot168() {location.replace("https://palugada0.pages.dev");}
 function linkwanatoto() {location.replace("https://palugada0.pages.dev");}
 function linkadipatislot() {location.replace("https://palugada0.pages.dev");}
 function linktkp303() {location.replace("https://100tkp303.com/?ref=babisexy&p=h");}
-function linkvit88() {location.replace("https://amplob-ri.pages.dev/link/");}
+function linkvit88() {location.replace("https://palugada0.pages.dev");}
 function linkindoslot88() {location.replace("https://palugada0.pages.dev");}
 function linksinarmas77() {location.replace("https://amplob-ri.pages.dev/link/");}
 function linkpentaslot() {location.replace("https://palugada0.pages.dev");}
