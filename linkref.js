@@ -178,7 +178,7 @@ function linkbagus88() {location.replace("https://palugada0.pages.dev");}
 function linkneo177() {location.replace("https://palugada0.pages.dev");}
 function linkkiw69() {location.replace("https://domkiw69.com/register?ref=E3MDNAC00728");}
 function linkmpo333() {location.replace("https://palugada0.pages.dev");}
-function link66kone() {location.replace("https://palugada0.pages.dev");}
+function link66kone() {location.replace("https://amplob-ri.pages.dev/link/");}
 function linkligahoki() {location.replace("https://palugada0.pages.dev");}
 function linkrajampo() {location.replace("https://palugada0.pages.dev");}
 function linkamavi88() {location.replace("https://palugada0.pages.dev");}
