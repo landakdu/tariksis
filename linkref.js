@@ -159,7 +159,7 @@ function linkkas138() {location.replace("https://palugada0.pages.dev");}
 function linkhokiwin() {location.replace("https://palugada0.pages.dev");}
 function linkmpocasino() {location.replace("https://palugada0.pages.dev");}
 function linkn77toto() {location.replace("https://palugada0.pages.dev");}
-function linkjetplay88() {location.replace("https://palugada0.pages.dev");}
+function linkjetplay88() {location.replace("https://amplob-ri.pages.dev/link/");}
 function linkwis77() {location.replace("https://palugada0.pages.dev");}
 function linkmpo111() {location.replace("https://mpo111asli.site/register/67053GLN");}
 function linkzona66() {location.replace("https://palugada0.pages.dev");}
