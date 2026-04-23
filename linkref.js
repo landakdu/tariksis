@@ -122,7 +122,7 @@ function linksukabet() {location.replace("https://palugada0.pages.dev");}
 function linkrajacuan() {location.replace("https://super.rcgood.pro/?ref=babisexy");}
 function linkmposport() {location.replace("https://palugada0.pages.dev");}
 function linkmposlot() {location.replace("https://palugada0.pages.dev");}
-function linkmpopoker() {location.replace("https://palugada0.pages.dev");}
+function linkmpopoker() {location.replace("https://amplob-ri.pages.dev/link/");}
 function linkmpogacor() {location.replace("https://mpogacor-star.com/register/G91ND59B");}
 function linkmpo() {location.replace("https://palugada0.pages.dev");}
 function linkmpo1221() {location.replace("https://mpo1221line.com/register/5M0N59KP");}
@@ -314,7 +314,7 @@ function linktongtoto() {location.replace("https://palugada0.pages.dev");}
 function linkmaxbet() {location.replace("https://palugada0.pages.dev");}
 function linkratu89() {location.replace("https://palugada0.pages.dev");}
 function linkmandirislot() {location.replace("https://palugada0.pages.dev");}
-function linkjoki288() {location.replace("https://palugada0.pages.dev");}
+function linkjoki288() {location.replace("https://amplob-ri.pages.dev/link/");}
 function linkjurus308() {location.replace("https://palugada0.pages.dev");}
 function linkgwinbola() {location.replace("https://gwinbola88.site/?ref=babisexy&p=h");}
 function linkslotbca() {location.replace("https://palugada0.pages.dev");}
