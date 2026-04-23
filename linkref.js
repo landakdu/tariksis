@@ -164,7 +164,7 @@ function linkwis77() {location.replace("https://palugada0.pages.dev");}
 function linkmpo111() {location.replace("https://mpo111asli.site/register/67053GLN");}
 function linkzona66() {location.replace("https://palugada0.pages.dev");}
 function linkgacorbos88() {location.replace("https://dlt.gacoarbos88hj.vip/register?ref=GS2ABAD018U7");}
-function linkyakinslot88() {location.replace("https://palugada0.pages.dev");}
+function linkyakinslot88() {location.replace("https://amplob-ri.pages.dev/link/");}
 function linkome88() {location.replace("https://palugada0.pages.dev");}
 function linkmusangwin() {location.replace("https://musangwingarang.com/register?ref=2M3TNAFG0EVH");}
 function linkdemen303() {location.replace("https://palugada0.pages.dev");}
