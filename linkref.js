@@ -69,7 +69,7 @@ function linkbento4d() {location.replace("https://palugada0.pages.dev");}
 function linkjual303() {location.replace("https://palugada0.pages.dev");}
 function linkpusatjudionline() {location.replace("https://palugada0.pages.dev");}
 function linkkaratetoto() {location.replace("https://palugada0.pages.dev");}
-function linkcapitaltoto() {location.replace("https://amplob-ri.pages.dev/link/");}
+function linkcapitaltoto() {location.replace("https://palugada0.pages.dev");}
 function linkslot88() {location.replace("https://amplob-ri.pages.dev/link/");}
 function linkwatitoto() {location.replace("https://palugada0.pages.dev");}
 function linkgacor22() {location.replace("https://palugada0.pages.dev");}
