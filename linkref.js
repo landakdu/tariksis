@@ -151,7 +151,7 @@ function linkmpo222() {location.replace("https://palugada0.pages.dev");}
 function linkqqbos99() {location.replace("https://www.senisastra.com/");}
 function link303hoki() {location.replace("https://eworldexternal.com/register/B48RPJDN");}
 function linkjet88bet() {location.replace("https://palugada0.pages.dev");}
-function linkmpo369() {location.replace("https://palugada0.pages.dev");}
+function linkmpo369() {location.replace("https://link-ke.pages.dev/sewa1/");}
 function link8bettingan() {location.replace("https://url1.btgvvip.com/register?ref=A3MZLAD001VE");}
 function linkmpo08() {location.replace("https://mpo08kjs.xyz/register/Q2RDGN20");}
 function linkdewatogel() {location.replace("https://palugada0.pages.dev");}
