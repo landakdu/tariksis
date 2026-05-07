@@ -3,6 +3,9 @@ function linktutup() {location.replace("https://palugada0.pages.dev");}
 function linkhumastogel() {location.replace("https://t.ly/dafhumas");}
 function linkrajamulia77() {location.replace("https://vpnrajamulia77.site/");}
 document.getElementById('yourform').submit();
+function linkmpocash() {location.replace("https://palugada0.pages.dev");}
+function linkhkbet138() {location.replace("https://palugada0.pages.dev");}
+//
 function linkjudol303() {location.replace("https://palugada0.pages.dev");}
 function linkcindototo() {location.replace("https://palugada0.pages.dev");}
 function linkjoswd() {location.replace("https://palugada0.pages.dev");}
