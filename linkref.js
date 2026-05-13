@@ -88,7 +88,7 @@ function linkwatitoto() {location.replace("https://palugada0.pages.dev");}
 function linkgacor22() {location.replace("https://palugada0.pages.dev");}
 function linkslot777() {location.replace("https://link-ke.pages.dev/sewa1/");}
 function linkrajamahjong() {location.replace("https://palugada0.pages.dev");}
-function linkhoki88bos() {location.replace("https://link-ke.pages.dev/sewa1/");}
+function linkhoki88bos() {location.replace("https://palugada0.pages.dev");}
 function linkmahjongjp88() {location.replace("https://palugada0.pages.dev");}
 function linkolympus88() {location.replace("https://palugada0.pages.dev");}
 function linkcupangjp() {location.replace("https://palugada0.pages.dev");}
