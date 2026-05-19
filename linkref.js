@@ -100,7 +100,7 @@ function linkbpjs777() {location.replace("https://palugada0.pages.dev");}
 function link888slot() {location.replace("https://palugada0.pages.dev");}
 function linkpgs77() {location.replace("https://palugada0.pages.dev");}
 function linkpanen99() {location.replace("https://palugada0.pages.dev");}
-function linkraja288() {location.replace("https://link-ke.pages.dev/sewa1/");}
+function linkraja288() {location.replace("https://palugada0.pages.dev");}
 function linkmaxi188() {location.replace("https://palugada0.pages.dev");}
 function linkpanda88() {location.replace("https://palugada0.pages.dev");}
 function linkneymar88() {location.replace("https://palugada0.pages.dev");}
