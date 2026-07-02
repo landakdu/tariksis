@@ -15,7 +15,6 @@ function linkdewanaga77() {location.replace("https://palugada1.fun/");}
 function linkalexistogel() {location.replace("https://palugada1.fun/");}
 function linkmpocash() {location.replace("https://palugada1.fun/");}
 function linkhkbet138() {location.replace("https://palugada1.fun/");}
-//
 function linkjudol303() {location.replace("https://palugada1.fun/");}
 function linkcindototo() {location.replace("https://palugada1.fun/");}
 function linkjoswd() {location.replace("https://palugada1.fun/");}
